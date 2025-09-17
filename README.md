@@ -387,6 +387,10 @@ Nuestro MVP estará enfocado en obtener aprendizajes rápidos. La pregunta clave
 - Usar métricas iniciales (ej. % de agricultores que activan alertas, frecuencia de uso de la app, intención de pago) para validar hipótesis.
 
 #### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](assets/images/chapter-1/lean-ux-canvas.png)
+
+
 ## 1.3. Segmentos objetivo
 
 Productores agrícolas (pequeños y medianos):
