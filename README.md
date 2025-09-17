@@ -388,6 +388,15 @@ Nuestro MVP estará enfocado en obtener aprendizajes rápidos. La pregunta clave
 
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+
+Productores agrícolas (pequeños y medianos):
+
+Son agricultores que necesitan optimizar sus recursos y mejorar la productividad de sus cultivos. Requieren soluciones accesibles que les permitan monitorear en tiempo real el estado del campo, automatizar procesos como el riego y recibir alertas tempranas frente a condiciones climáticas adversas. Este segmento busca reducir pérdidas de agua e insumos, tomar decisiones más informadas y asegurar una mayor rentabilidad y sostenibilidad en sus operaciones.
+
+Distribuidores agrícolas:
+
+Son los encargados de conectar la producción con el mercado. Necesitan mayor visibilidad sobre la disponibilidad y calidad de los cultivos para planificar sus compras y entregas con eficiencia. Requieren información confiable y actualizada que les permita anticipar retrasos o variaciones en la producción, mejorar la coordinación con los productores y garantizar la trazabilidad y puntualidad en la cadena de suministro.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ## 2.2. Entrevistas
