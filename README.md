@@ -412,7 +412,7 @@ Después de realizar una investigación de mercado, hemos identificado tres plat
 Blynk es una plataforma IoT que permite crear aplicaciones móviles y web personalizadas para conectar y controlar sensores, dispositivos y sistemas en tiempo real. En agricultura, es utilizada para implementar soluciones de **riego automatizado**, monitoreo de humedad del suelo, clima y control de energía. Su fortaleza está en la facilidad para crear dashboards intuitivos y accesibles sin necesidad de desarrollar todo desde cero.  
 
 <div style="text-align: center;">
-    <img src="assets/images/chapter-2/img-blynk" alt="Blynk IoT" style="max-width: 400px; width: 25%;">
+    <img src="assets/images/chapter-2/img-blynk.png" alt="Blynk IoT" style="max-width: 400px; width: 25%;">
 </div>
 
 ---
@@ -421,7 +421,7 @@ Blynk es una plataforma IoT que permite crear aplicaciones móviles y web person
 CropX es una plataforma agrícola basada en IoT que combina sensores de suelo con análisis avanzados en la nube. Ofrece información en tiempo real sobre humedad, temperatura y nutrientes del suelo, optimizando el riego y la fertilización. Su aplicación móvil permite a los agricultores recibir alertas y recomendaciones para mejorar la **eficiencia en el uso de recursos** y aumentar la productividad.  
 
 <div style="text-align: center;">
-    <img src="assets/images/chapter-2/img-netafim" alt="CropX" style="max-width: 400px; width: 25%;">
+    <img src="assets/images/chapter-2/img-netafim.jpg" alt="CropX" style="max-width: 400px; width: 25%;">
 </div>
 
 ---
@@ -430,7 +430,7 @@ CropX es una plataforma agrícola basada en IoT que combina sensores de suelo co
 Netafim, líder en riego por goteo, ha desarrollado una plataforma digital de agricultura inteligente que conecta sensores IoT, válvulas automatizadas y estaciones meteorológicas. Su aplicación móvil y web permite controlar riego en tiempo real, recibir **alertas tempranas sobre sequías o exceso de riego**, y generar reportes de sostenibilidad. Está enfocada en la **eficiencia hídrica** y es utilizada globalmente por productores de distintas escalas.  
 
 <div style="text-align: center;">
-    <img src="assets/images/chapter-2/img-cropx" alt="Netafim Digital Farming" style="max-width: 400px; width: 25%;">
+    <img src="assets/images/chapter-2/img-cropx.png" alt="Netafim Digital Farming" style="max-width: 400px; width: 25%;">
 </div>
 
 ---
