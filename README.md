@@ -152,7 +152,71 @@ Ser la plataforma líder en innovación agrícola con IoT, reconocida por conect
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+La agricultura sigue siendo una de las principales actividades económicas a nivel global, desempeñando un papel clave en la seguridad alimentaria, el desarrollo rural y la economía de numerosos países. Sin embargo, muchos productores agrícolas, especialmente pequeños y medianos, enfrentan grandes desafíos para gestionar de forma eficiente sus cultivos y coordinar su producción con los distribuidores.
+
+La mayoría cuenta con recursos limitados y escaso acceso a tecnologías que permitan monitorear sus cultivos en tiempo real, automatizar procesos como el riego o recibir alertas tempranas sobre condiciones climáticas adversas. Esto los obliga a depender de métodos manuales e intuitivos que no siempre son precisos, lo que genera pérdidas de agua, insumos y productividad.
+
+Por otro lado, los distribuidores se ven afectados por la falta de visibilidad sobre el estado de los cultivos y la disponibilidad real de los productos. La ausencia de información actualizada genera retrasos, baja trazabilidad y dificultades para planificar pedidos y entregas. Esto afecta tanto la eficiencia de la cadena de suministro como la calidad de los productos que llegan al consumidor final.
+
+Ante este panorama, surge la necesidad de soluciones tecnológicas accesibles y adaptadas al contexto agrícola, que permitan a productores y distribuidores obtener datos confiables en tiempo real, optimizar recursos y fortalecer la sostenibilidad del sistema agrícola en su conjunto.
+
+**What**
+
+¿Cuál es el problema?
+
+Los productores agrícolas y distribuidores enfrentan dificultades para acceder a información confiable y oportuna sobre el estado de los cultivos. Esto provoca decisiones poco eficientes en el riego, la planificación de cosechas y la coordinación de entregas, generando pérdidas económicas y de productividad.
+
+
+**Where**
+
+¿Dónde surge el problema?
+
+El problema surge en los campos de cultivo y en la cadena de distribución agrícola, donde, si bien existen tecnologías de monitoreo y automatización, estas no siempre son accesibles para pequeños y medianos productores debido a sus altos costos, complejidad de uso o falta de adaptación al contexto local. Esta brecha tecnológica se traduce en falta de información oportuna para productores y baja visibilidad para distribuidores.
+
+Para la elaboración de la descripción de los antecedentes y problemática, hemos aplicado la técnica de The 5 ’W’s y 2 ’H’s:
+
+Problemática (5Ws y 2Hs)
+
+**Why**
+
+**¿Cuál es la causa del problema?**
+
+Aunque hay soluciones tecnológicas disponibles en el mercado, su acceso es limitado. La mayoría de los productores carece de herramientas asequibles y fáciles de usar que les permitan monitorear sus cultivos en tiempo real y compartir esa información con distribuidores. Esta falta de accesibilidad genera ineficiencias en el uso de recursos (agua, insumos, tiempo), poca trazabilidad en la cadena y dificultades para planificar de manera coordinada la producción y distribución.
+
+**When**
+
+**¿Cuándo sucede el problema?**
+
+Durante todas las etapas del ciclo agrícola: desde el riego y crecimiento de los cultivos hasta la cosecha y distribución, impactando de forma continua la producción y la cadena de suministro.
+
+**Who**
+
+**¿Quiénes están involucrados?**
+
+Productores agrícolas que necesitan optimizar sus recursos y automatizar procesos.
+
+Distribuidores que requieren información confiable sobre disponibilidad y estado de los productos para planificar sus operaciones.
+
+
+**How**
+
+**¿Cómo nos conocieron los usuarios?**
+
+Principalmente a través de recomendaciones de agricultores y distribuidores que han visto mejoras en eficiencia gracias al uso de sensores y automatización, además de estrategias de difusión en redes sociales mostrando casos de éxito en el uso de IoT agrícola.
+
+**¿Cómo prefieren los usuarios acceder a nuestro servicio?**
+
+A través de una aplicación móvil y web sencilla, que permita consultar datos en tiempo real desde cualquier dispositivo y recibir notificaciones automáticas sobre el estado de los cultivos.
+
+**How much**
+
+La falta de adopción de tecnologías modernas de riego limita el rendimiento y los ingresos de los agricultores. Estudios del IFC en Burkina Faso y Zambia demuestran que la implementación de sistemas de riego por goteo con bombas puede aumentar los márgenes brutos hasta en un 395 % anual, lo que se traduce en un incremento de USD 9,158/año para pequeños agricultores (IFC, 2019).
+
+![Grafico Estadistico](assets/images/chapter-1/grafico-antecedentes.png)
+
+
 ### 1.2.2 Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
