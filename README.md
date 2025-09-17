@@ -225,6 +225,113 @@ Pregunta clave:
 ¿Cómo podemos ofrecer una solución accesible basada en IoT que permita a los productores optimizar recursos como el agua y a los distribuidores mejorar la planificación de entregas, reduciendo pérdidas y aumentando la sostenibilidad?
 
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions**
+
+**Creo que mis usuarios necesitan** una plataforma que les permita monitorear cultivos en tiempo real y coordinar entregas con distribuidores de manera eficiente, optimizando recursos como el agua y reduciendo pérdidas en la producción.
+
+**Estas necesidades se pueden resolver** mediante el desarrollo de una plataforma IoT especializada en agricultura, que conecte sensores de humedad, temperatura y clima con una aplicación móvil y web. Para los agricultores, esta plataforma debe automatizar procesos críticos como el riego y emitir alertas tempranas; para los distribuidores, debe proveer información confiable sobre disponibilidad de productos.
+
+**Mis clientes iniciales son** pequeños y medianos productores agrícolas en la costa y sierra del Perú, así como distribuidores locales y regionales que dependen de datos precisos para planificar la cadena de suministro. Estos clientes valorarán la simplicidad, accesibilidad económica y confiabilidad de la solución.
+
+**El valor #1 que un cliente requiere de mi servicio** es la eficiencia en el uso de recursos (agua, insumos, tiempo) y la reducción de incertidumbre en la planificación agrícola.
+
+**El cliente también puede obtener estos beneficios adicionales:**
+
+- Mayor sostenibilidad y productividad agrícola.
+
+- Mejor relación comercial entre agricultores y distribuidores gracias a la trazabilidad de datos.
+
+- Reducción de pérdidas económicas por sobreuso de agua, retrasos o falta de información.
+
+**Voy a adquirir a mis clientes a través de** una estrategia combinada:
+
+- Marketing digital segmentado en redes sociales dirigidas al sector agro.
+
+- Alianzas con cooperativas agrícolas y distribuidores que permitan pruebas piloto.
+
+- Ferias y eventos agrícolas para mostrar la solución en campo con casos de éxito.
+
+**Haré dinero a través de** un modelo de suscripción mensual o anual, con planes escalables según el número de sensores y usuarios por cuenta.
+
+**Mi competencia de mercado seran** sistemas de monitoreo agrícola tradicionales, así como aplicaciones de gestión de cultivos ofrecidas por grandes proveedores internacionales.
+
+**Los venceremos debido que** nuestra propuesta ofrece una solución más asequible, sencilla y adaptada al contexto local, donde la mayoría de competidores no logra penetrar debido a la complejidad técnica o los costos elevados.
+
+**Mis mayores riesgos de producto son** la resistencia de los agricultores a adoptar tecnologías nuevas, el alto costo inicial de los sensores IoT y la posible preferencia por métodos manuales o tradicionales.
+
+**Resolveremos esto mediante** un proceso de diseño participativo, incluyendo entrevistas y pruebas piloto en campo, para asegurar que la solución sea realmente útil, simple y adaptable a la rutina agrícola.
+
+**Sabremos que hemos tenido éxito cuando:**
+
+- Observemos un aumento en la productividad agrícola (ej. más toneladas por hectárea con menor gasto de agua).
+
+- Notemos una reducción en retrasos logísticos y mayor trazabilidad en la distribución.
+
+- Los agricultores y distribuidores usen la plataforma de manera recurrente para tomar decisiones clave en la producción.
+
+**Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase:**
+
+- Que los agricultores y distribuidores estén dispuestos a pagar una suscripción.
+
+- Que exista confianza suficiente para adoptar soluciones IoT en contextos rurales.
+
+- Que el mercado esté listo para migrar de prácticas tradicionales a herramientas tecnológicas accesibles.
+
+**User Assumptions**
+
+**¿Quiénes serán nuestros usuarios?**
+
+Productores agrícolas pequeños y medianos que necesitan optimizar el riego y mejorar la sostenibilidad de sus cultivos.
+
+Distribuidores que buscan información confiable y en tiempo real sobre disponibilidad y calidad de los productos.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+Para los productores: la plataforma encaja en sus rutinas diarias de supervisión del campo, ayudándoles a regar de manera precisa y recibir alertas que eviten pérdidas.
+
+Para los distribuidores: encaja en la planificación de pedidos y coordinación logística, permitiendo tomar decisiones con base en datos en lugar de suposiciones.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+Agricultores podrían percibir la tecnología como costosa o difícil de usar → solución: interfaz intuitiva + pruebas gratuitas en campo.
+
+Distribuidores podrían dudar de la confiabilidad de los datos → solución: reportes automatizados y certificación de calidad de la información.
+
+Usuarios podrían no ver valor inmediato → solución: mostrar métricas claras de ahorro de agua, tiempo y reducción de retrasos.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+Agricultores lo usan diariamente para monitorear humedad, temperatura y activar riego.
+
+Distribuidores lo usan semanalmente para planificar entregas y verificar disponibilidad de productos.
+
+**¿Qué características son importantes?**
+
+- Interfaz intuitiva (app móvil + web).
+
+- Alertas en tiempo real sobre condiciones críticas.
+
+- Visualización clara de datos de cultivos y disponibilidad.
+
+- Escalabilidad para integrar más sensores y usuarios.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+
+Diseño simple, visual y accesible, adaptable a usuarios con bajo nivel tecnológico.
+
+Experiencia de usuario fluida: consultar datos y recibir alertas en segundos.
+
+Comportamiento confiable y estable en zonas rurales con conectividad limitada.
+
+**Features:**
+
+Rol Productor: gestión de sensores, visualización de datos, alertas y control de riego.
+
+Rol Distribuidor: acceso a reportes de disponibilidad, planificación de entregas y comunicación directa con productores.
+
+Notificaciones en tiempo real sobre cambios críticos (ej. sequía, exceso de riego, disponibilidad de cosecha).
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
