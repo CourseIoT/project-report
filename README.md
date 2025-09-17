@@ -403,6 +403,46 @@ Son los encargados de conectar la producción con el mercado. Necesitan mayor vi
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+
+Después de realizar una investigación de mercado, hemos identificado tres plataformas que integran **IoT y aplicaciones móviles/web** para la gestión agrícola, con funcionalidades similares a las que busca ofrecer **AgroControl IoT**:
+
+---
+
+1. **Blynk IoT**  
+Blynk es una plataforma IoT que permite crear aplicaciones móviles y web personalizadas para conectar y controlar sensores, dispositivos y sistemas en tiempo real. En agricultura, es utilizada para implementar soluciones de **riego automatizado**, monitoreo de humedad del suelo, clima y control de energía. Su fortaleza está en la facilidad para crear dashboards intuitivos y accesibles sin necesidad de desarrollar todo desde cero.  
+
+<div style="text-align: center;">
+    <img src="assets/images/chapter-2/img-blynk" alt="Blynk IoT" style="max-width: 400px; width: 25%;">
+</div>
+
+---
+
+2. **CropX**  
+CropX es una plataforma agrícola basada en IoT que combina sensores de suelo con análisis avanzados en la nube. Ofrece información en tiempo real sobre humedad, temperatura y nutrientes del suelo, optimizando el riego y la fertilización. Su aplicación móvil permite a los agricultores recibir alertas y recomendaciones para mejorar la **eficiencia en el uso de recursos** y aumentar la productividad.  
+
+<div style="text-align: center;">
+    <img src="assets/images/chapter-2/img-netafim" alt="CropX" style="max-width: 400px; width: 25%;">
+</div>
+
+---
+
+3. **Netafim – Digital Farming**  
+Netafim, líder en riego por goteo, ha desarrollado una plataforma digital de agricultura inteligente que conecta sensores IoT, válvulas automatizadas y estaciones meteorológicas. Su aplicación móvil y web permite controlar riego en tiempo real, recibir **alertas tempranas sobre sequías o exceso de riego**, y generar reportes de sostenibilidad. Está enfocada en la **eficiencia hídrica** y es utilizada globalmente por productores de distintas escalas.  
+
+<div style="text-align: center;">
+    <img src="assets/images/chapter-2/img-cropx" alt="Netafim Digital Farming" style="max-width: 400px; width: 25%;">
+</div>
+
+---
+
+### Conclusión Comparativa
+Las tres plataformas analizadas muestran cómo la **agricultura con IoT** está transformando la gestión de cultivos y recursos. Sin embargo, presentan limitaciones:  
+- **Blynk**: Flexible y accesible, pero requiere configuración técnica por parte del usuario.  
+- **CropX**: Potente en análisis de suelo, aunque más costosa y orientada a grandes productores.  
+- **Netafim**: Enfocada en riego de precisión, pero menos adaptable a productores pequeños que buscan una solución integral.  
+
+**AgroControl IoT** se posiciona como una alternativa **accesible y adaptada al contexto local**, ofreciendo integración de sensores, alertas en tiempo real y comunicación entre productores y distribuidores en una plataforma simple y económica.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
