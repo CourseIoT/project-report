@@ -459,7 +459,7 @@ Las tres plataformas analizadas muestran cómo la **agricultura con IoT** está 
   <tr>
     <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
-        AgroControl IoT
+        AgroControl
         <br>
         <div style="text-align: center; margin-top: 10px;">
           <img src="assets/images/chapter-2/img-agrocontrol.png" alt="AgroControl IoT" width="80px">
@@ -539,6 +539,42 @@ Las tres plataformas analizadas muestran cómo la **agricultura con IoT** está 
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+<table>
+  <tr>
+    <td colspan="1" rowspan="5"><p><b>Análisis SWOT</b></p></td>
+    <td colspan="6">Este análisis se realizó para nuestra startup AgroControl IoT y tres competidores relevantes en agricultura con IoT (Blynk IoT, CropX y Netafim). El objetivo es identificar fortalezas, debilidades, oportunidades y amenazas, apoyando la definición de nuestra ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Fortalezas</b></td>
+    <td colspan="1" valign="top">AgroControl ofrece accesibilidad económica, simplicidad de uso y adaptación al contexto local. Integra en una sola plataforma el monitoreo de cultivos, riego automatizado, alertas tempranas y coordinación con distribuidores.</td>
+    <td colspan="1" valign="top">Blynk IoT destaca por su flexibilidad y personalización de dashboards y aplicaciones móviles/web, lo que permite implementar soluciones IoT sin necesidad de desarrollos complejos.</td>
+    <td colspan="1" valign="top">CropX es fuerte en analítica avanzada de suelos, ofreciendo datos precisos sobre humedad, temperatura y nutrientes, lo que mejora la productividad y optimiza el riego.</td>
+    <td colspan="1" valign="top">Netafim Digital Farming lidera globalmente en riego de precisión y eficiencia hídrica, con soluciones escalables y probadas en grandes cultivos.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Debilidades</b></td>
+    <td colspan="1" valign="top">AgroControl carece aún de integración con maquinaria agrícola avanzada y podría enfrentar retos de escalabilidad con grandes productores o distribuidores.</td>
+    <td colspan="1" valign="top">Blynk IoT no está diseñado específicamente para agricultura, lo que requiere configuración técnica adicional por parte del usuario.</td>
+    <td colspan="1" valign="top">CropX es costoso para pequeños productores y requiere infraestructura avanzada para aprovechar su potencial al máximo.</td>
+    <td colspan="1" valign="top">Netafim puede ser inaccesible para pequeños agricultores debido a sus altos costos iniciales y enfoque en grandes operaciones.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Oportunidades</b></td>
+    <td colspan="1" valign="top">AgroControl tiene la oportunidad de posicionarse en mercados emergentes ofreciendo soluciones adaptadas al contexto local, integrando IoT con Big Data y expandiéndose hacia la trazabilidad completa de la cadena de suministro.</td>
+    <td colspan="1" valign="top">Blynk IoT puede aprovechar su comunidad global de desarrolladores para expandir casos de uso en agricultura y asociarse con proveedores de sensores agrícolas.</td>
+    <td colspan="1" valign="top">CropX puede consolidar su liderazgo ampliando su red de clientes en Latinoamérica y África, donde la gestión del agua es crítica.</td>
+    <td colspan="1" valign="top">Netafim puede expandir sus soluciones digitales combinando IoT con inteligencia artificial para mejorar la eficiencia de sus sistemas de riego.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Amenazas</b></td>
+    <td colspan="1" valign="top">AgroControl enfrenta la amenaza de la rápida evolución tecnológica y la competencia de plataformas internacionales más establecidas. Además, la adopción lenta de tecnologías IoT en zonas rurales podría limitar su crecimiento inicial.</td>
+    <td colspan="1" valign="top">Blynk IoT podría perder relevancia en agricultura si no adapta mejor su plataforma al sector agro. La competencia de plataformas agrícolas específicas es un riesgo.</td>
+    <td colspan="1" valign="top">CropX enfrenta el riesgo de ser percibido como inaccesible en mercados emergentes debido a su costo, además de la presión por mantenerse innovador frente a nuevos entrantes.</td>
+    <td colspan="1" valign="top">Netafim puede enfrentar competencia de nuevas startups más flexibles y accesibles, además de riesgos asociados a la dependencia de grandes productores.</td>
+  </tr>
+</table>
+
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
