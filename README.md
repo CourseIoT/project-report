@@ -443,6 +443,103 @@ Las tres plataformas analizadas muestran cómo la **agricultura con IoT** está 
 
 **AgroControl IoT** se posiciona como una alternativa **accesible y adaptada al contexto local**, ofreciendo integración de sensores, alertas en tiempo real y comunicación entre productores y distribuidores en una plataforma simple y económica.
 
+### 2.1.1. Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Identificar a nuestros competidores en el ámbito de la agricultura con IoT y establecer estrategias para diferenciarnos, enfocándonos en accesibilidad y adaptación al contexto local.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de evaluar las fortalezas de plataformas IoT existentes y resaltar cómo AgroControl IoT puede posicionarse como una alternativa accesible para pequeños y medianos productores agrícolas.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        AgroControl IoT
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+          <img src="assets/images/chapter-2/img-agrocontrol.png" alt="AgroControl IoT" width="80px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        Blynk IoT
+        <div style="text-align: center; margin-top: 20px;">
+          <img src="assets/images/chapter-2/img-blynk.png" alt="Blynk IoT" width="100px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        CropX
+        <div style="text-align: center; margin-top: 10px;">
+          <img src="assets/images/chapter-2/img-netafim.jpg" alt="CropX" width="100px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        Netafim Digital Farming
+        <div style="text-align: center; margin-top: 10px;">
+          <img src="assets/images/chapter-2/img-cropx.png" alt="Netafim" width="100px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Plataforma IoT agrícola integral que conecta sensores para monitoreo de cultivos, automatización de riego, alertas tempranas y coordinación con distribuidores.</td>
+    <td colspan="1" valign="top">Plataforma IoT flexible que permite crear dashboards y apps para monitorear y controlar sensores en tiempo real, aplicable en agricultura para riego y clima.</td>
+    <td colspan="1" valign="top">Plataforma agrícola basada en sensores de suelo conectados a la nube, que ofrece datos de humedad, temperatura y nutrientes para optimizar cultivos.</td>
+    <td colspan="1" valign="top">Plataforma de agricultura digital enfocada en riego de precisión, conectando válvulas, estaciones meteorológicas y sensores IoT.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Accesibilidad económica y simplicidad de uso para pequeños y medianos productores. Integra productor y distribuidor en una misma plataforma.</td>
+    <td colspan="1" valign="top">Alta flexibilidad para personalizar dashboards y soluciones IoT sin necesidad de desarrollo complejo.</td>
+    <td colspan="1" valign="top">Analítica avanzada de suelos y recomendaciones basadas en datos precisos para maximizar la productividad.</td>
+    <td colspan="1" valign="top">Liderazgo global en riego inteligente y eficiencia hídrica, con soporte a gran escala.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Productores pequeños y medianos, y distribuidores agrícolas que requieren trazabilidad y optimización de recursos.</td>
+    <td colspan="1" valign="top">Usuarios técnicos y agricultores que buscan crear soluciones IoT personalizadas para monitoreo agrícola.</td>
+    <td colspan="1" valign="top">Grandes productores y agroindustrias con capacidad de inversión en IoT avanzado.</td>
+    <td colspan="1" valign="top">Productores medianos y grandes interesados en maximizar la eficiencia en el uso del agua.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Campañas digitales segmentadas, pilotos con cooperativas agrícolas y ferias agro-tecnológicas.</td>
+    <td colspan="1" valign="top">Enfoque en comunidad global IoT, tutoriales y adopción en múltiples industrias.</td>
+    <td colspan="1" valign="top">Alianzas B2B, integración con maquinaria agrícola y marketing especializado.</td>
+    <td colspan="1" valign="top">Casos de éxito globales, alianzas con gobiernos y ONGs.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Monitoreo de cultivos, riego automatizado, alertas tempranas, dashboards móviles/web y trazabilidad.</td>
+    <td colspan="1" valign="top">Dashboards IoT personalizables, monitoreo remoto y notificaciones en tiempo real.</td>
+    <td colspan="1" valign="top">Sensores de suelo + app web/móvil con analítica predictiva y recomendaciones de riego/fertilización.</td>
+    <td colspan="1" valign="top">Riego inteligente por goteo, estaciones climáticas conectadas y control remoto de válvulas.</td>
+  </tr>
+ <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top"><strong>Plan Básico:</strong> $20/mes (1 campo).<br><strong>Plan Premium:</strong> $90/mes (múltiples campos y distribuidores).<br><strong>Distribuidores:</strong> $100/mes con trazabilidad avanzada.</td>
+    <td colspan="1" valign="top"><strong>Plan Gratuito:</strong> limitado.<br><strong>Suscripción:</strong> desde $7/mes (según dispositivos conectados).</td>
+    <td colspan="1" valign="top"><strong>Suscripción anual:</strong> $300 – $1000, según sensores y hectáreas.</td>
+    <td colspan="1" valign="top"><strong>Soluciones personalizadas:</strong> desde $500 (sistemas de riego inteligente con IoT).</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Aplicación Web y móvil.</td>
+    <td colspan="1" valign="top">Disponible en Web y apps móviles (iOS/Android).</td>
+    <td colspan="1" valign="top">Aplicación Web y móvil.</td>
+    <td colspan="1" valign="top">Aplicación Web, móvil y dispositivos físicos conectados.</td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
