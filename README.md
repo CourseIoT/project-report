@@ -127,6 +127,19 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
+Nuestra startup está enfocada en transformar el ciclo agrícola mediante el uso de tecnologías IoT, con el objetivo de facilitar y optimizar el trabajo de productores agrícolas y distribuidores. A través de una plataforma digital conectada a sensores y dispositivos inteligentes, ofrecemos información en tiempo real sobre el estado de los cultivos y las condiciones del campo, permitiendo automatizar procesos como el riego y generar alertas tempranas.
+
+Este sistema busca mejorar la comunicación y coordinación entre productores y distribuidores, brindando datos confiables y actualizados que apoyen la planificación, reduzcan imprevistos y aumenten la eficiencia en la producción y distribución agrícola. El enfoque de la startup es proporcionar una solución práctica y accesible que impulse la productividad, la sostenibilidad y la toma de decisiones informadas dentro de la cadena agrícola.
+
+**Misión**:
+
+Nuestra misión es transformar el sector agrícola mediante soluciones tecnológicas basadas en IoT que sean accesibles y fáciles de usar. Buscamos empoderar a productores y distribuidores con datos en tiempo real y herramientas de automatización, ayudándoles a tomar mejores decisiones, optimizar recursos como el agua y mejorar la sostenibilidad y rentabilidad de sus operaciones.
+
+**Visión**:
+
+Ser la plataforma líder en innovación agrícola con IoT, reconocida por conectar a productores y distribuidores a través de información confiable y procesos automatizados. Aspiramos a fomentar una agricultura más eficiente, productiva y sostenible, accesible para todos los actores de la cadena agrícola, sin importar su escala.
+
+
 ### 1.1.2 Perfiles de integrantes del equipo
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
