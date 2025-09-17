@@ -216,8 +216,14 @@ La falta de adopción de tecnologías modernas de riego limita el rendimiento y 
 
 
 ### 1.2.2 Lean UX Process
+Los procesos Lean UX son fundamentales para definir con precisión nuestras ideas y establecer un plan de acción enfocado en responder preguntas clave a través del **Needfinding**.
 
 #### 1.2.2.1. Lean UX Problem Statements
+Los productores agrícolas y distribuidores carecen de información confiable y accesible en tiempo real sobre el estado de los cultivos. Aunque existen tecnologías IoT en el mercado, estas no siempre son asequibles ni fáciles de usar para pequeños y medianos productores, lo que genera brechas tecnológicas y afecta la coordinación con los distribuidores.
+
+Pregunta clave:
+¿Cómo podemos ofrecer una solución accesible basada en IoT que permita a los productores optimizar recursos como el agua y a los distribuidores mejorar la planificación de entregas, reduciendo pérdidas y aumentando la sostenibilidad?
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
