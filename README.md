@@ -468,6 +468,35 @@ Preguntas complementarias distribuidores:
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
+
+En esta sección se presenta un glosario completo de términos relevantes para el dominio agrícola con IoT. El objetivo es eliminar ambigüedades, facilitar la comunicación y asegurar que todos los involucrados en el proyecto comprendan los conceptos técnicos y de negocio de la misma manera.  
+
+| **Term (English)**        | **Término (Español)**          | **Definition (Definición en Español)**                                                                                     |
+|---------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **IoT Sensors**           | **Sensores IoT**               | Dispositivos que capturan variables como humedad del suelo, temperatura, radiación solar, entre otros, transmitiendo datos en tiempo real. |
+| **Real-Time Data**        | **Datos en Tiempo Real**       | Información procesada y enviada al instante por sensores y dispositivos IoT, útil para tomar decisiones inmediatas.         |
+| **Early Alerts**          | **Alertas Tempranas**          | Notificaciones automáticas que advierten sobre condiciones críticas como sequías, heladas, plagas o exceso de riego.       |
+| **Automated Irrigation**  | **Riego Automatizado**         | Sistema controlado por IoT que activa o detiene el riego según la humedad del suelo o condiciones climáticas.              |
+| **Crop Management**       | **Gestión de Cultivos**        | Conjunto de prácticas apoyadas por tecnología para mejorar el crecimiento, riego, protección y cosecha de los cultivos.    |
+| **Soil Monitoring**       | **Monitoreo de Suelo**         | Medición de humedad, nutrientes y pH del suelo con sensores para optimizar fertilización y riego.                          |
+| **Climate Monitoring**    | **Monitoreo Climático**        | Seguimiento de temperatura, lluvias, radiación y viento para anticipar riesgos y planificar la producción.                  |
+| **Resource Optimization** | **Optimización de Recursos**   | Uso eficiente de agua, fertilizantes y energía mediante datos de IoT y algoritmos de decisión.                              |
+| **Sustainability**        | **Sostenibilidad**             | Prácticas que promueven un uso responsable de recursos naturales, minimizando el impacto ambiental y asegurando la viabilidad a largo plazo. |
+| **Yield Analysis**        | **Análisis de Rendimiento**    | Evaluación del volumen de producción para identificar patrones, pérdidas y oportunidades de mejora.                         |
+| **Traceability**          | **Trazabilidad**               | Capacidad de seguir el recorrido de un producto agrícola desde el campo hasta el consumidor final, usando datos digitales.  |
+| **Logistics Planning**    | **Planificación Logística**    | Organización y optimización de entregas agrícolas en base a datos de disponibilidad y demanda.                              |
+| **Supply Chain Visibility** | **Visibilidad de la Cadena** | Acceso a información compartida en tiempo real entre productores y distribuidores para reducir incertidumbre.               |
+| **Predictive Analytics**  | **Analítica Predictiva**       | Uso de datos históricos y actuales para anticipar riesgos como sequías, enfermedades o fluctuaciones en la producción.     |
+| **Adoption Rate**         | **Tasa de Adopción**           | Porcentaje de usuarios que empiezan a usar la plataforma en un periodo determinado.                                         |
+| **Retention Rate**        | **Tasa de Retención**          | Porcentaje de usuarios que continúan usando la plataforma después de cierto tiempo.                                         |
+| **Onboarding**            | **Incorporación de Usuarios**  | Proceso de introducción que guía a los usuarios en sus primeros pasos dentro de la aplicación.                             |
+| **Pilot Test**            | **Prueba Piloto**              | Implementación de la solución en un entorno agrícola controlado para validar su utilidad y efectividad.                     |
+| **Data Dashboard**        | **Tablero de Datos**           | Visualización gráfica de métricas clave como humedad, riego, disponibilidad de cultivos y alertas.                         |
+| **Interoperability**      | **Interoperabilidad**          | Capacidad de la plataforma IoT para integrarse con otros sistemas de gestión agrícola o logísticos.                         |
+| **Data Reliability**      | **Confiabilidad de Datos**     | Grado en que los datos obtenidos de sensores son precisos, consistentes y útiles para la toma de decisiones.               |
+| **Energy Efficiency**     | **Eficiencia Energética**      | Uso optimizado de energía en los dispositivos IoT para prolongar su vida útil en entornos rurales.                         |
+
+
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
 ## 3.2. Impact Mapping
