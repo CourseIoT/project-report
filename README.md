@@ -405,6 +405,60 @@ Son los encargados de conectar la producción con el mercado. Necesitan mayor vi
 ## 2.1 Competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+En esta sección se han definido una serie de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones y descripciones. Esta información será de gran ayuda en el desarrollo de nuestra solución.
+
+Preguntas generales:
+
+¿Cuál es tu nombre?
+¿Qué edad tienes?
+¿Dónde vives actualmente?
+¿A qué te dedicas?
+¿Cual es el navegador (browser) que más usas?
+¿Cual es el dispositivo que más usas?
+**Preguntas Segmento 1: Productores Agricolas**
+
+1. ¿Cuáles son los principales desafíos que enfrentas en la gestión de tus campos de cultivo?
+2. ¿Qué herramientas utilizas actualmente para la gestión de tus operaciones agrícolas?
+3. ¿Qué funcionalidades consideras más importantes en una aplicación de gestión agrícola?
+4. ¿Qué aspectos te gustaría mejorar en las herramientas actuales que usas?
+5. ¿Con qué frecuencia utilizas tecnología para la gestión de tus cultivos?
+6. ¿Qué tipo de datos o información te gustaría que te proporcionara una aplicación de gestión agrícola?
+7. ¿Cómo manejas actualmente el seguimiento de tus gastos e ingresos relacionados con la agricultura?
+8. ¿Qué tipo de análisis o reportes serían útiles para ti en una plataforma de gestión agrícola?
+9. ¿Cómo te gustaría que una aplicación te ayude en la toma de decisiones para la gestión de tus campos?
+
+Preguntas complementarias productores:
+
+- ¿Cuáles son los principales problemas que enfrentas en el riego (falta de agua, exceso de riego, distribución desigual, etc.)?
+- ¿Con qué frecuencia revisas el estado de tus cultivos (a diario, semanal, solo cuando hay problemas)?
+- ¿Qué variables ambientales (ej. humedad del suelo, temperatura, radiación solar, pH) consideras más importantes monitorear en tus cultivos?
+- ¿Te gustaría que el sistema active automáticamente el riego según los datos de los sensores o prefieres solo recibir alertas para decidir manualmente?
+- ¿Qué nivel de precisión consideras suficiente para los sensores de humedad o temperatura (ej. ±2%)?
+- ¿Te gustaría que el sistema incluya recomendaciones de riego basadas en los datos recopilados (ej. sugerir cuántos litros regar)?
+- ¿Qué tan dispuesto estás a invertir en hardware adicional (sensores, válvulas automáticas, bombas) para integrar con el sistema?
+
+**Preguntas Segmento 2: Distribuidores**
+
+1. ¿Cuáles son las principales dificultades que enfrentas al relacionarte con agricultores en tu trabajo diario?
+2. ¿Qué tan fácil o difícil es para ti coordinar pedidos y entregas con distintos productores?
+3. ¿Qué medios usas actualmente para comunicarte con los agricultores (llamadas, WhatsApp, reuniones presenciales, otros)?
+4. ¿Qué tipo de información te gustaría tener a la mano para organizar mejor tus pedidos antes de contactar a los agricultores?
+5. ¿Con qué frecuencia recibes cambios de último momento en la producción o en las entregas?
+6. ¿Qué impacto tienen estos cambios en tu trabajo como distribuidor?
+7. ¿Qué tan dispuesto estarías a usar una herramienta digital que te conecte en tiempo real con los agricultores?
+8. ¿Qué esperas que te ofrezca una aplicación para mejorar tu relación con los productores agrícolas?
+9. ¿Qué tan importante sería para ti que la información de los agricultores sea confiable y fácil de entender?
+10. ¿Qué expectativas tendrías de una herramienta digital que centralice la comunicación entre productores y distribuidores?
+
+Preguntas complementarias distribuidores:
+
+- ¿Qué problemas se repiten más seguido en tu trabajo (falta de stock, retrasos, calidad del producto)?
+- ¿Cómo manejas los casos en que un productor no entrega lo acordado en cantidad o tiempo?
+- ¿Qué tan útil sería que la aplicación te muestre proyecciones de disponibilidad de producto según datos de campo?
+- ¿Consideras valioso recibir alertas de posibles retrasos en cosechas por sequías o lluvias excesivas?
+- ¿Qué tan necesario es que el sistema se integre con tu software actual de inventario o facturación?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
