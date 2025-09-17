@@ -232,7 +232,7 @@ Pregunta clave:
 
 **Estas necesidades se pueden resolver** mediante el desarrollo de una plataforma IoT especializada en agricultura, que conecte sensores de humedad, temperatura y clima con una aplicación móvil y web. Para los agricultores, esta plataforma debe automatizar procesos críticos como el riego y emitir alertas tempranas; para los distribuidores, debe proveer información confiable sobre disponibilidad de productos.
 
-**Mis clientes iniciales son** pequeños y medianos productores agrícolas en la costa y sierra del Perú, así como distribuidores locales y regionales que dependen de datos precisos para planificar la cadena de suministro. Estos clientes valorarán la simplicidad, accesibilidad económica y confiabilidad de la solución.
+**Mis clientes iniciales son** pequeños y medianos productores agrícolas del Perú, así como distribuidores locales y regionales que dependen de datos precisos para planificar la cadena de suministro. Estos clientes valorarán la simplicidad, accesibilidad económica y confiabilidad de la solución.
 
 **El valor #1 que un cliente requiere de mi servicio** es la eficiencia en el uso de recursos (agua, insumos, tiempo) y la reducción de incertidumbre en la planificación agrícola.
 
@@ -333,6 +333,59 @@ Rol Distribuidor: acceso a reportes de disponibilidad, planificación de entrega
 Notificaciones en tiempo real sobre cambios críticos (ej. sequía, exceso de riego, disponibilidad de cosecha).
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Creemos que** al implementar sensores de humedad conectados a riego automático, los agricultores reducirán desperdicio de agua.
+**Sabremos que** estamos en lo correcto cuando observemos una reducción del 30% en consumo hídrico en tres meses.
+
+**Creemos que** al recibir notificaciones sobre sequías o exceso de riego, los productores reaccionarán más rápido.
+**Sabremos que** estamos en lo correcto cuando al menos el 50% de los agricultores actúe ante las alertas recibidas.
+
+**Creemos que** al ofrecer reportes de disponibilidad de cultivos en tiempo real, los distribuidores mejorarán su logística.
+**Sabremos que** estamos en lo correcto cuando se reduzcan en un 20% los retrasos en entregas en seis meses.
+
+**Creemos que** al diseñar una app simple, intuitiva y en español, agricultores y distribuidores estarán dispuestos a usarla regularmente.
+**Sabremos que** estamos en lo correcto cuando al menos el 40% de los registrados accedan semanalmente en el primer trimestre.
+
+**Creemos que** al mostrar métricas de ahorro (agua, costos, tiempo), los usuarios valorarán más la solución.
+**Sabremos que** estamos en lo correcto cuando el 60% de usuarios consulten estas métricas al menos una vez por semana.
+
+**Creemos que** al permitir planes escalables (más sensores, más usuarios por cuenta), aumentaremos ingresos.
+**Sabremos que** estamos en lo correcto cuando al menos el 10% de usuarios cambien a un plan superior en seis meses.
+
+---
+
+**Lo más importante que debemos aprender**
+
+Para el éxito de nuestro proyecto, es fundamental identificar si los productores y distribuidores realmente valoran la propuesta de contar con una plataforma IoT accesible y fácil de usar.
+
+Aunque existen soluciones similares en el mercado, necesitamos confirmar si nuestra propuesta:
+
+- Es viable en el contexto de pequeños y medianos agricultores.
+
+- Responde a las necesidades de información en tiempo real y coordinación con distribuidores.
+
+- Ofrece beneficios tangibles como ahorro de agua, reducción de retrasos y mejor planificación.
+
+**Minimum Viable Product (MVP):**
+
+Nuestro MVP estará enfocado en obtener aprendizajes rápidos. La pregunta clave será:
+
+**¿Qué es lo más importante que necesitamos aprender primero?**
+
+- Validar si existe demanda real por parte de agricultores y distribuidores.
+
+- Confirmar que el producto resuelve una necesidad concreta y no un “nice to have”.
+
+**Acciones para validar el MVP:**
+
+- Realizar entrevistas con agricultores y distribuidores para conocer su disposición a pagar y adoptar la tecnología.
+
+- Desarrollar una landing page con la propuesta de valor y formulario de interés para captar potenciales clientes.
+
+- Implementar un piloto con sensores IoT en campos pequeños para medir el impacto en ahorro de agua y planificación.
+
+- Usar métricas iniciales (ej. % de agricultores que activan alertas, frecuencia de uso de la app, intención de pago) para validar hipótesis.
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 # Capítulo II: Requirements Elicitation & Analysis
