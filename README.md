@@ -720,7 +720,7 @@ En esta sección se presentan los Empathy Mapping para cada User Persona, que pe
 Juan Pérez es un productor agrícola que ha trabajado en el campo toda su vida, heredando el negocio familiar. Aunque su conocimiento tecnológico es limitado, reconoce la importancia de la innovación para asegurar la productividad de sus cultivos.
 
 
-Image
+<img width="1050" height="1570" alt="Image" src="https://github.com/user-attachments/assets/5a20cb23-a0ff-4be9-996b-c42b3af5fced" />
 
 
 **Segmento Distribuidor – Carlos Ramirez**
