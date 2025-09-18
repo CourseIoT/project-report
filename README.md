@@ -695,6 +695,25 @@ Estas coincidencias y diferencias muestran cómo IoT genera un puente de informa
 
 
 ### 2.3.3. User Journey Mapping
+
+La sección de User Journey Mapping muestra el recorrido completo de los usuarios de AgroControl, desde el primer contacto con la plataforma hasta su uso cotidiano en campo o logística. Este mapeo destaca las acciones, metas, emociones y problemas experimentados tanto por los productores agrícolas como por los distribuidores, así como las oportunidades para optimizar su experiencia con la tecnología IoT.
+
+**Segmento Productor Agricola**:
+
+El journey de los productores comienza con el descubrimiento de la solución a través de demostraciones en campo, capacitaciones o recomendaciones de otros agricultores. Tras la instalación de sensores y bombas automatizadas, los productores empiezan a interactuar con la aplicación para monitorear la humedad del suelo, recibir alertas tempranas y gestionar el riego en tiempo real.
+
+
+Image
+
+
+**Segmento Distribuidor**:
+
+El journey de los distribuidores inicia al conocer la app en ferias agrícolas, convenios con productores o a través de socios comerciales. Su interés crece al descubrir que la plataforma ofrece visibilidad en tiempo real de la disponibilidad de cultivos, trazabilidad digital y coordinación logística basada en datos IoT.
+
+
+Image
+
+
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
