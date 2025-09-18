@@ -711,6 +711,25 @@ El journey de los distribuidores inicia al conocer la app en ferias agrícolas, 
 <img width="1558" height="1223" alt="Image" src="https://github.com/user-attachments/assets/13c9658e-a7db-4eb2-8ca5-a2e655ef0d3b" />
 
 ### 2.3.4. Empathy Mapping
+
+En esta sección se presentan los Empathy Mapping para cada User Persona, que permiten entender sus experiencias y emociones en relación con la adopción de soluciones IoT. Se colocó al User Persona en el centro y se recolectaron observaciones sobre lo que necesita hacer, lo que dice, piensa y siente, junto con sus preocupaciones y cómo nuestra solución puede ayudar.
+
+
+**Segmento Productor Agrícola – Juan Pérez**
+
+Juan Pérez es un productor agrícola que ha trabajado en el campo toda su vida, heredando el negocio familiar. Aunque su conocimiento tecnológico es limitado, reconoce la importancia de la innovación para asegurar la productividad de sus cultivos.
+
+
+Image
+
+
+**Segmento Distribuidor – Carlos Ramirez**
+
+Carlos Ramirez es distribuidora agrícola con experiencia en ventas y manejo de proveedores. Con estudios en administración, busca modernizar su negocio mediante la digitalización y el uso de información en tiempo real.
+
+
+Image
+
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
 
