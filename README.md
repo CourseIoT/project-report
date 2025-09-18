@@ -646,11 +646,12 @@ Las User Personas desarrolladas para AgroControl representan los perfiles más r
 
 <img width="1050" height="1296" alt="Image" src="https://github.com/user-attachments/assets/235cfe1e-738b-47be-9557-26560ce27ac3" />
 
+
 Segmento Distribuidores Agrícolas:
 
 El perfil de Carlos Ramírez, un distribuidor agrícola, refleja la necesidad de contar con información confiable y actualizada sobre la disponibilidad y calidad de los cultivos, con el fin de planificar compras y entregas de manera más eficiente. Su motivación principal es anticipar retrasos o variaciones en la producción para mejorar la coordinación con los productores, garantizar la trazabilidad de los productos y cumplir con la puntualidad exigida por el mercado. Este perfil fue construido para orientar el diseño del sistema, asegurando que la plataforma AgroControl brinde visibilidad en tiempo real y soporte a las decisiones estratégicas de los distribuidores dentro de la cadena de suministro.
 
-Image
+<img width="1050" height="1420" alt="Image" src="https://github.com/user-attachments/assets/fb90ed09-4c33-42f1-b74b-b352e1b413f7" />
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
