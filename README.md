@@ -636,6 +636,22 @@ Preguntas complementarias distribuidores:
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+En esta sección se presentarán las fichas de User Persona, las cuales son representaciones ficticias de los usuarios basadas en los hallazgos obtenidos a partir de las entrevistas realizadas. Estas fichas se centran en los segmentos objetivos identificados, incluyendo productores agrícolas y distribuidores. La elaboración de estas User Personas se fundamenta en el análisis de las características comunes y necesidades detectadas en las entrevistas, así como en la observación de la competencia. Al comprender mejor a nuestros usuarios, podremos diseñar soluciones más efectivas y alineadas con sus expectativas y desafíos, lo que resulta fundamental para el desarrollo de nuestra aplicación. Cada ficha incluirá detalles sobre las características demográficas, motivaciones, frustraciones y necesidades específicas de cada arquetipo, asegurando que nuestras decisiones de diseño se basen en información relevante y real.
+
+
+Segmento Productor Agricola:
+
+Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
+
+Image
+
+Segmento Distribuidores Agrícolas:
+
+El perfil de Carlos Ramírez, un distribuidor agrícola, refleja la necesidad de contar con información confiable y actualizada sobre la disponibilidad y calidad de los cultivos, con el fin de planificar compras y entregas de manera más eficiente. Su motivación principal es anticipar retrasos o variaciones en la producción para mejorar la coordinación con los productores, garantizar la trazabilidad de los productos y cumplir con la puntualidad exigida por el mercado. Este perfil fue construido para orientar el diseño del sistema, asegurando que la plataforma AgroControl brinde visibilidad en tiempo real y soporte a las decisiones estratégicas de los distribuidores dentro de la cadena de suministro.
+
+Image
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
