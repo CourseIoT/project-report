@@ -669,7 +669,29 @@ En esta sección se presenta el User Task Matrix, que concentra las tareas que l
 | Garantizar trazabilidad de la producción  | High	                 | High	          | Medium           | Medium         |
 
 
-Image
+### Explicación
+
+Al analizar las tareas identificadas en el User Task Matrix enfocado en soluciones IoT, se pueden resaltar varias observaciones significativas sobre los segmentos de productores agrícolas y distribuidores.
+
+#### Tareas con Mayor Frecuencia e Importancia
+
+1. **Monitorear la humedad del suelo y las condiciones climáticas**: Para los productores es una tarea crítica de alta frecuencia e importancia, ya que determina directamente el riego y la salud de los cultivos. En el caso de los distribuidores, aunque su frecuencia es media, reconocen que esta información es esencial para anticipar variaciones en la disponibilidad de productos.
+
+2. **Activar bombas de agua y riego automatizado**: Es una actividad de gran relevancia para los productores, pues les permite optimizar tiempo, agua y energía, garantizando una producción más estable. Para los distribuidores, la importancia es menor porque no intervienen directamente en la operación, pero sí se benefician de la mayor predictibilidad en la oferta.
+
+3. **Visualización de datos en tiempo real**: Tanto productores como distribuidores consideran esta tarea fundamental. Los productores la utilizan para reaccionar rápidamente a cambios en las condiciones del cultivo, mientras que los distribuidores dependen de esta información para planificar entregas y coordinar la logística.
+
+#### Principales Diferencias
+
+- **Optimización de recursos**: Es prioritaria para los productores, quienes buscan sostenibilidad y reducción de costos. Para los distribuidores, en cambio, tiene un impacto indirecto, ya que no administran los insumos directamente.
+
+- **Garantizar trazabilidad y coordinar entregas**: Estas actividades son altamente relevantes para los distribuidores, pues afectan su relación con clientes y mercados. Los productores, en cambio, les dan una importancia menor, ya que su principal enfoque está en la producción en campo.
+
+#### Coincidencias
+
+Ambos segmentos coinciden en la importancia de recibir alertas tempranas y evaluar el rendimiento de los cultivos. Mientras que para los productores esto significa actuar de forma inmediata sobre sus tierras, para los distribuidores implica contar con información confiable sobre la calidad y disponibilidad del producto antes de llegar al mercado. Asimismo, tanto productores como distribuidores valoran el uso de analítica predictiva, ya que les permite anticiparse a riesgos y mejorar la planificación en toda la cadena de suministro.
+
+Estas coincidencias y diferencias muestran cómo IoT genera un puente de información entre la producción y la distribución. Para los productores, significa control y eficiencia operativa; para los distribuidores, significa visibilidad y confianza en la oferta. Esto subraya la necesidad de diseñar soluciones que atiendan las prioridades específicas de cada segmento, pero que al mismo tiempo promuevan una colaboración fluida en toda la cadena de valor agrícola.
 
 
 ### 2.3.3. User Journey Mapping
