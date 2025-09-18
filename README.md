@@ -654,6 +654,24 @@ El perfil de Carlos Ramírez, un distribuidor agrícola, refleja la necesidad de
 <img width="1050" height="1420" alt="Image" src="https://github.com/user-attachments/assets/fb90ed09-4c33-42f1-b74b-b352e1b413f7" />
 
 ### 2.3.2. User Task Matrix
+
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Personas realizan para cumplir sus objetivos. Se consideran dos segmentos: productores agrícolas y distribuidores. Las tareas identificadas son realizadas independientemente de la existencia de soluciones de software.
+
+| **Task**                                  | **Productor Agrícola** | 	              | **Distribuidor** |                |
+|-------------------------------------------|------------------------|----------------|------------------|----------------|
+|                                           | **Frequency**          | **Importance** | **Frequency**    | **Importance** |
+| Monitorear humedad del suelo              | High                   | High        	  | Medium           | Medium         |  
+| Monitorear condiciones climáticas         | High                   | High      	  | Medium           | High           |
+| Activar bombas de agua                    | High                   | High        	  | -                | -              |
+| Recibir alertas tempranas	                | High	                 | High	          | Low              | Low            |
+| Visualizar datos en tiempo real 	        | High	                 | High           | Low              | Medium         |
+| Optimizar uso de recursos	                | Medium	             | High	          | -	             | -              |
+| Garantizar trazabilidad de la producción  | High	                 | High	          | Medium           | Medium         |
+
+
+Image
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ## 2.4. Big Picture EventStorming
