@@ -703,7 +703,7 @@ La sección de User Journey Mapping muestra el recorrido completo de los usuario
 El journey de los productores comienza con el descubrimiento de la solución a través de demostraciones en campo, capacitaciones o recomendaciones de otros agricultores. Tras la instalación de sensores y bombas automatizadas, los productores empiezan a interactuar con la aplicación para monitorear la humedad del suelo, recibir alertas tempranas y gestionar el riego en tiempo real.
 
 
-Image
+
 
 
 **Segmento Distribuidor**:
@@ -711,7 +711,7 @@ Image
 El journey de los distribuidores inicia al conocer la app en ferias agrícolas, convenios con productores o a través de socios comerciales. Su interés crece al descubrir que la plataforma ofrece visibilidad en tiempo real de la disponibilidad de cultivos, trazabilidad digital y coordinación logística basada en datos IoT.
 
 
-Image
+<img width="1558" height="1223" alt="Image" src="https://github.com/user-attachments/assets/13c9658e-a7db-4eb2-8ca5-a2e655ef0d3b" />
 
 
 ### 2.3.4. Empathy Mapping
