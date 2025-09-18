@@ -644,7 +644,7 @@ Segmento Productor Agricola:
 
 Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
 
-Image
+<img width="1050" height="1296" alt="Image" src="https://github.com/user-attachments/assets/235cfe1e-738b-47be-9557-26560ce27ac3" />
 
 Segmento Distribuidores Agrícolas:
 
