@@ -727,8 +727,7 @@ Juan Pérez es un productor agrícola que ha trabajado en el campo toda su vida,
 
 Carlos Ramirez es distribuidora agrícola con experiencia en ventas y manejo de proveedores. Con estudios en administración, busca modernizar su negocio mediante la digitalización y el uso de información en tiempo real.
 
-
-Image
+<img width="1050" height="1600" alt="Image" src="https://github.com/user-attachments/assets/ee45fb0f-0261-43be-9757-00f68049b595" />
 
 ## 2.4. Big Picture EventStorming
 ## 2.5. Ubiquitous Language
