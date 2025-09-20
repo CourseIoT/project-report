@@ -677,6 +677,18 @@ Segmento Productor Agricola:
 
 Segmento Distribuidores Agrícolas:
 
+| **Entrevista 1**                          | **Detalle** | 	            
+|-------------------------------------------|-------------|
+| Nombre entrevistado                       | William Ramos      | 
+| Edad                                      | 28                 |
+| Profesión                                 | Distribuidor agricola |
+| Departamento                              | Lima            |
+| Inicio del video                          | 33:05           |
+| Fin del video                             | 43:12           |
+| Link del video                            | https://shorturl.at/gULis            |
+| Foto entrevista                           | <img width="1861" height="1010" alt="Image" src="https://github.com/user-attachments/assets/2bd18d87-3e56-4906-adfa-db3ccbbdf7a3" />  |
+| Resumen                                   |  El señor William Ramos, un distribuidor agrícola de 28 años en Perú, nos compartió algunos de los desafíos que enfrenta en su labor diaria. Señaló que uno de sus mayores retos es manejar de manera eficiente el inventario de semillas, fumigantes y fertilizantes, especialmente cuando debe organizar pedidos por región y periodo de tiempo. Manifestó interés en adoptar soluciones basadas en Iot que le permitan digitalizar y automatizar el registro de productos, gastos e ingresos, así como clasificar fácilmente los distintos insumos agrícolas en una sola plataforma. Además, comentó que sería de gran valor contar con herramientas de trazabilidad en tiempo real, que integren sensores y geolocalización para conocer en qué zonas concentra más ventas y registrar automáticamente incidentes durante la distribución, como rupturas o robos. De esta manera, busca optimizar la logística, mejorar la seguridad de su operación y obtener información más precisa para la toma de decisiones.       |
+
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. NeedfindinSg
