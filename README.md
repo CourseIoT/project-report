@@ -662,6 +662,19 @@ Segmento Productor Agricola:
 | Resumen                                   |  El señor Isidro Principe Ramirez, un productor agrícola de 65 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la gestión de sus cultivos. Señaló que uno de los mayores retos es mantener un control preciso de las distintas etapas del proceso agrícola, como las fumigación, riego, humedad, sequias, etc. Además, comentó que utiliza diversas herramientas agrícolas, como mochilas a motor y otras maquinarias, para el manejo de sus campos. Actualmente, esta dispuesto a utilizar soluciones tecnologicas y adaptarse a ello para mejorar el ciclo de vida de sus cultivos.       |
 
 
+| **Entrevista 3**                          | **Detalle** | 	            
+|-------------------------------------------|-------------|
+| Nombre entrevistado                       | Fidel Godoy Zevallos      | 
+| Edad                                      | 60                 |
+| Profesión                                 | Productor agricola |
+| Departamento                              | Lima            |
+| Inicio del video                          | 06:31           |
+| Fin del video                             | 13:51           |
+| Link del video                            | https://shorturl.at/gULis            |
+| Foto entrevista                           | <img width="1805" height="807" alt="Image" src="https://github.com/user-attachments/assets/87d0c1dc-8f5a-4b1b-97aa-3f00e6d6e3d7" />  |
+| Resumen                                   |  El señor Fidel Godoy Zevallos, un productor agrícola de 60 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la producción de sus cultivos. Señaló que uno de sus mayores retos es optimizar el sistema de riego y garantizar condiciones adecuadas para el buen desarrollo de las plantas. Además, comentó que le resulta fundamental contar con información sobre el clima, la calidad del suelo y otros factores ambientales que influyen directamente en la cosecha. Actualmente, está dispuesto a utilizar soluciones tecnológicas que le permitan mejorar la productividad y fortalecer el ciclo de vida de sus cultivos.       |
+
+
 Segmento Distribuidores Agrícolas:
 
 
