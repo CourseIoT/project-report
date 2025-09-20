@@ -644,11 +644,22 @@ Segmento Productor Agricola:
 | Departamento                              | Lima            |
 | Inicio del video                          | 0:10            |
 | Fin del video                             |  5:50           |
-| Link del video                            | https://rb.gy/xs39p5            |
+| Link del video                            | https://shorturl.at/XYUIF            |
 | Foto entrevista                           | <img width="1913" height="1071" alt="Image" src="https://github.com/user-attachments/assets/44c1e4b5-be78-4c37-8582-249eb460bc31" />  |
 | Resumen                                   |  Nicolás Vera enfrenta problemas en sus cultivos debido a sequías, exceso de agua y la dificultad de controlar adecuadamente los tiempos de riego, ya que estudia en Lima y depende de un encargado para supervisar el campo. Considera factores clave como el pH, las sales, la radiación solar y las temperaturas para el desarrollo de las plantas, y manifiesta interés en una solución tecnológica que le permita automatizar procesos y recibir alertas a distancia para optimizar el manejo de sus cultivos. Está dispuesto a invertir en dicha solución siempre que represente una mejora en la producción y contribuya a la reducción de costos.           |
 
 
+| **Entrevista 2**                          | **Detalle** | 	            
+|-------------------------------------------|-------------|
+| Nombre entrevistado                       | Isidro Principe Ramirez      | 
+| Edad                                      | 65                 |
+| Profesión                                 | Productor agricola |
+| Departamento                              | Lima            |
+| Inicio del video                          | 00:10            |
+| Fin del video                             | 06:30            |
+| Link del video                            | https://shorturl.at/gULis            |
+| Foto entrevista                           | <img width="1820" height="840" alt="Image" src="https://github.com/user-attachments/assets/830bf62d-709c-4775-b14b-c3866961e12f" />  |
+| Resumen                                   |  El señor Isidro Principe Ramirez, un productor agrícola de 65 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la gestión de sus cultivos. Señaló que uno de los mayores retos es mantener un control preciso de las distintas etapas del proceso agrícola, como las fumigación, riego, humedad, sequias, etc. Además, comentó que utiliza diversas herramientas agrícolas, como mochilas a motor y otras maquinarias, para el manejo de sus campos. Actualmente, esta dispuesto a utilizar soluciones tecnologicas y adaptarse a ello para mejorar el ciclo de vida de sus cultivos.       |
 
 
 Segmento Distribuidores Agrícolas:
