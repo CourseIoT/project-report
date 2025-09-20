@@ -14,7 +14,7 @@ Profesor: Marco Antonio Leon Baca
 
 Informe del Trabajo Final  - TB1
 
-Startup: **No definido**
+Startup: AgroControl
 
 Producto: AgroControl
 
