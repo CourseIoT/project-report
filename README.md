@@ -1108,23 +1108,23 @@ Escenario 4: Conectividad intermitente con store-and-forward
 
 1. Bounded Context: Irrigation Control & Automation 
 
-![Canvas](./assets/images/chapter-4/canva-Irrigation Control & Automation.png)
+![Canvas](./assets/images/chapter-4/canva-Irrigation.png)
 
 2. Bounded Context: Soil Sensing & Sensor Management 
 
-![Canvas](./assets/images/chapter-4/canva-Soil Sensing & Sensor Management.png)
+![Canvas](./assets/images/chapter-4/canva-Soil.png)
 
 3. Bounded Context: Alert & Notification 
 
-![Canvas](./assets/images/chapter-4/canva-Alert & Notification.png)
+![Canvas](./assets/images/chapter-4/canva-Alert.png)
 
 4. Bounded Context: Producer Profile & Access Management 
 
-![Canvas](./assets/images/chapter-4/canva-Producer Profile & Access Management.png)
+![Canvas](./assets/images/chapter-4/canva-Producer.png)
 
 5. Bounded Context: Agronomic Analytics (Environment Analytics) 
 
-![Canvas](./assets/images/chapter-4/canva-Agronomic Analytics.png)
+![Canvas](./assets/images/chapter-4/canva-Agronomic.png)
 
 ### 4.1.2. Context Mapping
 ### 4.1.3. Software Architecture
