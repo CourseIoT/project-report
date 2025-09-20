@@ -45,6 +45,23 @@ Producto: AgroControl
 ---  
 # Project Report Collaboration Insights
 
+URL del repositorio de GitHub de la organización: [https://github.com/IoT](https://github.com/CourseIoT)
+
+_TB1_
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrutia Vaez, Ricardo Andree       | - Capitulo 1 <br> - Ppt de exposición  |
+| Espinoza Inoñan, Fabiola Ximena     | - Capitulo 2 <br> - Ppt de exposición                                                                                                             |
+| Mayta López, Harold                 | - Capitulo 4 <br> - Ppt de exposición                                                                                                         |
+| Rodriguez Santos, David Bryan       | - Capitulo 3 <br> - Ppt de exposición                                                                                                                                    |
+| Barrionuevo Reto,  Jean Franco Joel | - Capitulo 4 <br> - Ppt de exposición                                                                                                             |
+
+**Evidencia**:
+
+![TB1](assets/images/chapter-1/tb1.png)
 
 
 ---  
