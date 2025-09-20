@@ -831,6 +831,18 @@ Carlos Ramirez es distribuidora agrícola con experiencia en ventas y manejo de 
 <img width="1050" height="1600" alt="Image" src="https://github.com/user-attachments/assets/ee45fb0f-0261-43be-9757-00f68049b595" />
 
 ## 2.4. Big Picture EventStorming
+
+Big Picture Event Storming es una técnica colaborativa que permite explorar, comprender y visualizar el dominio de un negocio a través de sus eventos clave. Su propósito es construir una visión compartida entre los participantes, identificando los procesos más relevantes, las interacciones entre actores y los puntos críticos donde suelen aparecer problemas u oportunidades de mejora.
+
+<img width="1010" height="897" alt="Image" src="https://github.com/user-attachments/assets/46c30e73-e7ca-4671-86b1-1c71f9966278" />
+
+<img width="1037" height="822" alt="Image" src="https://github.com/user-attachments/assets/726f03e0-512b-4938-835b-7503e9da8265" />
+
+<img width="1276" height="467" alt="Image" src="https://github.com/user-attachments/assets/6a47113c-7386-45e0-bc28-d06e865898ea" />
+
+Link de miro: https://miro.com/app/board/uXjVJF5r6yA=/?share_link_id=514452175241 
+
+
 ## 2.5. Ubiquitous Language
 
 En esta sección se presenta un glosario completo de términos relevantes para el dominio agrícola con IoT. El objetivo es eliminar ambigüedades, facilitar la comunicación y asegurar que todos los involucrados en el proyecto comprendan los conceptos técnicos y de negocio de la misma manera.  
