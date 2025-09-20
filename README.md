@@ -1223,9 +1223,9 @@ El diagrama de clases representa el dominio del monitoreo y la gestión de senso
 ![Soil Sensing & Sensor Management class diagram](./assets/images/chapter-4/bc1-classDiagram.jpg)
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram.
-El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+El diagrama de diseño de base de datos de este contexto muestra las relaciones entre las tablas sensors y sensor_readings. La tabla sensors contiene los datos de los dispositivos físicos, como su ubicación y estado, mientras que la tabla sensor_readings almacena las mediciones de datos tomadas por cada sensor. Las lecturas están directamente relacionadas con un sensor a través del campo sensor_id. Esta estructura permite gestionar los sensores y su información, además de recopilar y registrar eficientemente los datos que envían.
 
-![alt text](<./assets/img/db design diagram subsc.png>)
+![Soil Sensing & Sensor Management](./assets/images/chapter-4/db1.jpg)
 
 ### 4.2.2. Bounded Context: Irrigation Control & Automation
 
@@ -1424,9 +1424,8 @@ El diagrama de clases muestra el dominio de la gestión de riego agrícola. Incl
 ![Irrigation Control & Automation class diagram](./assets/images/chapter-4/bc2-classDiagram.png)
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram.
-El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
-
-![alt text](<./assets/img/db design diagram subsc.png>)
+Este diagrama describe las relaciones entre las tablas irrigation_devices, irrigation_schedules y irrigation_events. La tabla irrigation_devices representa los dispositivos de riego. Las tablas irrigation_schedules e irrigation_events están ambas vinculadas a un dispositivo específico a través de un campo device_id, lo que permite definir programas de riego y registrar los eventos de riego ejecutados por cada dispositivo. La estructura facilita la automatización del riego y el seguimiento de su historial de operaciones.
+![Irrigation Control & Automation](./assets/images/chapter-4/db2.jpg)
 
 ### 4.2.3. Bounded Context: Producer Profile & Access Management
 
@@ -1624,17 +1623,14 @@ El diagrama de componentes muestra cómo la aplicación móvil y la aplicación 
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams.
 
-
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.
 Este diagrama describe la interacción entre los servicios y repositorios que manejan los perfiles de los productores y sus accesos. El ProducerProfile es el agregado central que contiene la información del productor, mientras que el UserAccount gestiona las credenciales y roles de acceso. El AuditLog registra las acciones realizadas por los usuarios. Los CommandServices y QueryServices correspondientes facilitan las operaciones de registro, actualización y consulta. Los repositorios IProducerRepository, IUserAccountRepository y IAuditLogRepository se encargan de la persistencia de estos datos, garantizando la seguridad y la trazabilidad de las acciones en la plataforma.
 
 ![Producer Profile & Access Management class diagram](./assets/images/chapter-4/bc3-classDiagram.png)
 
-
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram.
-El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
-
-![alt text](<./assets/img/db design diagram subsc.png>)
+El diagrama muestra las relaciones entre las tablas producer_profiles, user_accounts y audit_logs. Cada producer_profile está asociado a un user_account a través de un campo producer_id, lo que vincula la información personal del productor con sus credenciales de acceso y rol. Las acciones realizadas por cada cuenta de usuario se registran en la tabla audit_logs mediante el campo user_id. Esta estructura permite gestionar la información del productor, la autenticación de usuarios y la trazabilidad de sus actividades en el sistema.
+![Producer Profile & Access Management](./assets/images/chapter-4/db3.jpg)
 
 ### 4.2.4. Bounded Context: Alert & Notification
 
@@ -1837,9 +1833,8 @@ La imagen muestra un diagrama de clases que describe el dominio de la gestión d
 
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram.
-El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
-
-![alt text](<./assets/img/db design diagram subsc.png>)
+Este diagrama de diseño de base de datos detalla la relación entre las tablas alerts y notifications. Cada registro en la tabla alerts representa una alerta generada por el sistema con su tipo y severidad. Cada alerta puede generar una o varias notificaciones, registradas en la tabla notifications mediante el campo alert_id. Las notificaciones contienen información sobre el canal de envío y su estado. Esta estructura garantiza que se puedan gestionar, rastrear y enviar notificaciones de manera eficiente a los productores en respuesta a las alertas.
+![Alert & Notification](./assets/images/chapter-4/db4.jpg)
 
 ### 4.2.5. Bounded Context: Agronomic Analytics (Environment Analytics)
 
@@ -2029,9 +2024,8 @@ Este diagrama representa el contexto delimitado de la analítica agronómica. El
 ![Agronomic Analytics class diagram](./assets/images/chapter-4/bc5-classDiagram.png)
 
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram.
-El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
-
-![alt text](<./assets/img/db design diagram subsc.png>)
+El diagrama de este contexto muestra las relaciones entre las tablas datasets, analysis_reports y predictions. La tabla datasets almacena los datos ambientales crudos. Las tablas analysis_reports y predictions se basan en estos datos para generar sus respectivos registros. Esto se logra mediante tablas de unión (join tables) que asocian múltiples datasets con un analysis_report o una prediction. Esta arquitectura permite un análisis detallado y la generación de reportes y predicciones, manteniendo la relación de origen con los datos originales.
+![Agronomic Analytics](./assets/images/chapter-4/db5.jpg)
 
 
 # Conclusiones
