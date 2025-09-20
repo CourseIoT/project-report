@@ -974,15 +974,15 @@ Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 | 1 | E1-US101 | Barra de navegación en landing page | Como visitante quiero una barra de navegación en el landing page para tener accesos directos a la información de la aplicación. | 3 |
 | 2 | E1-US102 | Sección hero de landing page | Como visitante quiero visualizar una sección hero en el landing page para tener una idea sobre lo que ofrece la aplicación. | 5 |
 | 3 | E1-US103 | Sección de características del producto | Como visitante quiero visualizar características de la aplicación en el landing page para saber sobre las características que ofrece. | 2 |
-| 4 | E1-US104 | Sección de testimonios | Como visitante quiero visualizar testimonios de usuarios que utilizaron la aplicación para saber experiencias reales. | 3 |
-| 5 | E1-US105 | Sección de planes | Como visitante quiero visualizar los planes que ofrece la aplicación para considerar adquirir la membresía. | 5 |
-| 6 | E1-US106 | Sección de footer | Como visitante quiero visualizar la sección de footer para acceder a links de la página. | 2 |
-| 7 | E1-US107 | Conocer al equipo de trabajo | Como visitante quiero conocer más sobre el equipo que desarrolla la aplicación para adquirir confianza. | 3 |
+| 4 | E1-US104 | Sección de testimonios en landing page| Como visitante quiero visualizar testimonios de usuarios que utilizaron la aplicación para saber experiencias reales. | 3 |
+| 5 | E1-US105 | Sección de planes en landing page| Como visitante quiero visualizar los planes que ofrece la aplicación para considerar adquirir la membresía. | 5 |
+| 6 | E1-US106 | Sección de footer a la aplicación en landing page | Como visitante quiero visualizar la sección de footer para acceder a links de la página. | 2 |
+| 7 | E1-US107 | Sección para conocer al equipo de trabajo | Como visitante quiero conocer más sobre el equipo que desarrolla la aplicación para adquirir confianza. | 3 |
 | 8 | E2-US101 | Registro e inicio de sesión | Como usuario quiero tener en la app un apartado de inicio de sesión para que se guarde mi información y pueda registrarme. | 5 |
 | 9 | E2-US102 | Formulario de login | Como usuario de la página web quiero ingresar con mi cuenta registrada para usar las herramientas a mi disposición. | 3 |
 | 10 | E2-US103 | Recuperación de contraseñas | Como usuario quiero recuperar mi contraseña en caso de olvido para ingresar a mi cuenta. | 8 |
 | 11 | E3-US101 | Crear campos de cultivo | Como productor agrícola quiero crear campos de cultivo para monitorear fácilmente el proceso agrícola del campo. | 5 |
-| 12 | E3-US102 | Barra de navegación del productor | Como productor agrícola quiero una barra de navegación para tener accesos directos a la información de la web app. | 3 |
+| 12 | E3-US102 | Barra de navegación del productor agricola| Como productor agrícola quiero una barra de navegación para tener accesos directos a la información de la web app. | 3 |
 | 13 | E3-US103 | Pantalla de inicio del proceso agrícola | Como productor agrícola quiero visualizar todos los registros de mis cultivos para ver fácilmente su progreso. | 5 |
 | 14 | E3-US104 | Programación de fecha de riego | Como productor agrícola quiero programar fechas de riego para mejorar el cuidado de los cultivos. | 2 |
 | 15 | E3-US105 | Compra de productos para cultivos | Como productor agrícola quiero realizar compras online para usarlas en mis cultivos. | 3 |
