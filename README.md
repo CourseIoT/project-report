@@ -1425,6 +1425,8 @@ El diagrama de clases muestra el dominio de la gestión de riego agrícola. Incl
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram.
 Este diagrama describe las relaciones entre las tablas irrigation_devices, irrigation_schedules y irrigation_events. La tabla irrigation_devices representa los dispositivos de riego. Las tablas irrigation_schedules e irrigation_events están ambas vinculadas a un dispositivo específico a través de un campo device_id, lo que permite definir programas de riego y registrar los eventos de riego ejecutados por cada dispositivo. La estructura facilita la automatización del riego y el seguimiento de su historial de operaciones.
+
+
 ![Irrigation Control & Automation](./assets/images/chapter-4/db2.jpg)
 
 ### 4.2.3. Bounded Context: Producer Profile & Access Management
