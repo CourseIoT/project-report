@@ -1127,6 +1127,9 @@ Escenario 4: Conectividad intermitente con store-and-forward
 ![Canvas](./assets/images/chapter-4/canva-Agronomic.png)
 
 ### 4.1.2. Context Mapping
+
+En AgroControl, Sensing capta los datos del campo y los comparte con el resto. Con esa información, Irrigation decide y ejecuta el riego. Profile & Access es la “fuente de verdad” de usuarios y permisos: autoriza acciones (como riego manual) y entrega preferencias de aviso. Cuando hay algo relevante (inicio/fin de riego, falta de confirmación, sensor caído), Irrigation envía el evento a Alert, que lo comunica al productor por la vía que este eligió (app/SMS). En paralelo, Analytics reúne el historial de lecturas y de riegos para generar métricas e insights. Todos usan los mismos identificadores básicos (productor, parcela, zona) para hablar de lo mismo sin confusiones.
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 ![Context Diagram](./assets/images/chapter-4/context-diagram.png)
