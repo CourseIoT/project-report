@@ -28,8 +28,7 @@ Producto: AgroControl
 | Mayta Lopez, Harold Jaime          | U202114851  |
 | Rodriguez Santos, David Bryan      | U202212236  |
 
-
-**Septimebre del 2025**
+**Septiembre del 2025**
 
 </div>
 
@@ -142,13 +141,13 @@ Ser la plataforma líder en innovación agrícola con IoT, reconocida por conect
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| Información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Foto                                                       |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------|
-| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                                                                                                                                                                                                                                                                               | ![Ricardo Barrutia](assets/images/develop/img-ricardo.jpg) |
-| **Jean Franco Joel Barrionuevo Reto**<br><br>Código: U202219284<br><br>Conocimientos y Habilidades: Texto <br><br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ![Jean](assets/images/develop/img-jean.png)                |
-| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 21 años y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática, con habilidades destacadas en el trabajo en equipo y la convivencia con otras personas. He participado en el programa Coder Bloom, 28h y más. Y actualmente soy coordinadora de ACM Women UPC.                                                                                                                                                                                                                                                         | ![Fabiola Espinoza](assets/images/develop/img-fabiola.png) |
-| **Harold Jaime Mayta Lopez**<br><br>Código: U202114851<br><br>Conocimientos y Habilidades: <br><br>    Texto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | ![Harold ](assets/images/develop/img-harold.png)           |
-| **David Bryan Rodriguez Santos**<br><br>Código: U202212236<br><br>Conocimientos y Habilidades: <br><br>Soy estudiante de cuarto ciclo de Ingeniería de Software con dominio en Java y Python. Apasionado por la programación y los videojuegos, me destaco por ser entusiasta y responsable, buscando constantemente oportunidades para crecer en el ámbito tecnológico                                                                                                                                                                                                                                                                                                                                                                                   | ![David ](assets/images/develop/img-david.png)             |
+| Información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Foto                                                               |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                       | ![Ricardo Barrutia](/assets/images/participantes/img-ricardo.png)  |
+| **Jean Franco Joel Barrionuevo Reto**<br><br>Código: U202219284<br><br>Conocimientos y Habilidades: Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos. <br><br>                                                                                                                                                                                                                                                                                                                                                                                | ![Franco Barrionuevo](/assets/images/participantes/img-franco.png) |
+| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 21 años y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática, con habilidades destacadas en el trabajo en equipo y la convivencia con otras personas. He participado en el programa Coder Bloom, 28h y más. Y actualmente soy coordinadora de ACM Women UPC. | ![Fabiola Espinoza](/assets/images/participantes/img-fabiola.png)  |
+| **Harold Jaime Mayta Lopez**<br><br>Código: U202114851<br><br>Conocimientos y Habilidades: <br><br> Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.                                                                                                                                                                                                                                                                                                                                                                                    | ![Harold Mayta](/assets/images/participantes/img-harold.png)       |
+| **David Bryan Rodriguez Santos**<br><br>Código: U202212236<br><br>Conocimientos y Habilidades: <br><br>Soy estudiante de cuarto ciclo de Ingeniería de Software con dominio en Java y Python. Apasionado por la programación y los videojuegos, me destaco por ser entusiasta y responsable, buscando constantemente oportunidades para crecer en el ámbito tecnológico                                                                                                                           | ![David Rodriguez ](/assets/images/participantes/img-david.png)    |
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -642,70 +641,70 @@ Preguntas complementarias distribuidores:
 
 Segmento Productor Agricola:
 
-| **Entrevista 1**                          | **Detalle** | 	            
-|-------------------------------------------|-------------|
-| Nombre entrevistado                       | Nicolas Vera    | 
-| Edad                                      | 22              |
-| Profesión                                 | Estudiante y productor agricola           |
-| Departamento                              | Lima            |
-| Inicio del video                          | 0:10            |
-| Fin del video                             |  5:50           |
-| Link del video                            | https://shorturl.at/XYUIF            |
-| Foto entrevista                           | <img width="1913" height="1071" alt="Image" src="https://github.com/user-attachments/assets/44c1e4b5-be78-4c37-8582-249eb460bc31" />  |
-| Resumen                                   |  Nicolás Vera enfrenta problemas en sus cultivos debido a sequías, exceso de agua y la dificultad de controlar adecuadamente los tiempos de riego, ya que estudia en Lima y depende de un encargado para supervisar el campo. Considera factores clave como el pH, las sales, la radiación solar y las temperaturas para el desarrollo de las plantas, y manifiesta interés en una solución tecnológica que le permita automatizar procesos y recibir alertas a distancia para optimizar el manejo de sus cultivos. Está dispuesto a invertir en dicha solución siempre que represente una mejora en la producción y contribuya a la reducción de costos.           |
+| **Entrevista 1**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Nicolas Vera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 
+| Edad                                      | 22                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Profesión                                 | Estudiante y productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Inicio del video                          | 0:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Fin del video                             | 5:50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Link del video                            | https://shorturl.at/XYUIF                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Foto entrevista                           | <p align="center"> <img src="assets/images/chapter-2/entrevista-1.png" alt="Entrevista 1" width="800"/> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Resumen                                   | Nicolás Vera enfrenta problemas en sus cultivos debido a sequías, exceso de agua y la dificultad de controlar adecuadamente los tiempos de riego, ya que estudia en Lima y depende de un encargado para supervisar el campo. Considera factores clave como el pH, las sales, la radiación solar y las temperaturas para el desarrollo de las plantas, y manifiesta interés en una solución tecnológica que le permita automatizar procesos y recibir alertas a distancia para optimizar el manejo de sus cultivos. Está dispuesto a invertir en dicha solución siempre que represente una mejora en la producción y contribuya a la reducción de costos. |
 
 
-| **Entrevista 2**                          | **Detalle** | 	            
-|-------------------------------------------|-------------|
-| Nombre entrevistado                       | Isidro Principe Ramirez      | 
-| Edad                                      | 65                 |
-| Profesión                                 | Productor agricola |
-| Departamento                              | Lima            |
-| Inicio del video                          | 00:10            |
-| Fin del video                             | 06:30            |
-| Link del video                            | https://shorturl.at/gULis            |
-| Foto entrevista                           | <img width="1820" height="840" alt="Image" src="https://github.com/user-attachments/assets/830bf62d-709c-4775-b14b-c3866961e12f" />  |
-| Resumen                                   |  El señor Isidro Principe Ramirez, un productor agrícola de 65 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la gestión de sus cultivos. Señaló que uno de los mayores retos es mantener un control preciso de las distintas etapas del proceso agrícola, como las fumigación, riego, humedad, sequias, etc. Además, comentó que utiliza diversas herramientas agrícolas, como mochilas a motor y otras maquinarias, para el manejo de sus campos. Actualmente, esta dispuesto a utilizar soluciones tecnologicas y adaptarse a ello para mejorar el ciclo de vida de sus cultivos.       |
+| **Entrevista 2**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Isidro Principe Ramirez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
+| Edad                                      | 65                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Profesión                                 | Productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Inicio del video                          | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Fin del video                             | 06:30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Link del video                            | https://shorturl.at/gULis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto entrevista                           | <p align="center"> <img src="assets/images/chapter-2/entrevista-2.png" alt="Entrevista 2" width="800"/> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Resumen                                   | El señor Isidro Principe Ramirez, un productor agrícola de 65 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la gestión de sus cultivos. Señaló que uno de los mayores retos es mantener un control preciso de las distintas etapas del proceso agrícola, como las fumigación, riego, humedad, sequias, etc. Además, comentó que utiliza diversas herramientas agrícolas, como mochilas a motor y otras maquinarias, para el manejo de sus campos. Actualmente, esta dispuesto a utilizar soluciones tecnologicas y adaptarse a ello para mejorar el ciclo de vida de sus cultivos. |
 
 
-| **Entrevista 3**                          | **Detalle** | 	            
-|-------------------------------------------|-------------|
-| Nombre entrevistado                       | Fidel Godoy Zevallos      | 
-| Edad                                      | 60                 |
-| Profesión                                 | Productor agricola |
-| Departamento                              | Lima            |
-| Inicio del video                          | 06:31           |
-| Fin del video                             | 13:51           |
-| Link del video                            | https://shorturl.at/gULis            |
-| Foto entrevista                           | <img width="1805" height="807" alt="Image" src="https://github.com/user-attachments/assets/87d0c1dc-8f5a-4b1b-97aa-3f00e6d6e3d7" />  |
-| Resumen                                   |  El señor Fidel Godoy Zevallos, un productor agrícola de 60 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la producción de sus cultivos. Señaló que uno de sus mayores retos es optimizar el sistema de riego y garantizar condiciones adecuadas para el buen desarrollo de las plantas. Además, comentó que le resulta fundamental contar con información sobre el clima, la calidad del suelo y otros factores ambientales que influyen directamente en la cosecha. Actualmente, está dispuesto a utilizar soluciones tecnológicas que le permitan mejorar la productividad y fortalecer el ciclo de vida de sus cultivos.       |
+| **Entrevista 3**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 	            
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Fidel Godoy Zevallos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 
+| Edad                                      | 60                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Profesión                                 | Productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Inicio del video                          | 06:31                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Fin del video                             | 13:51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Link del video                            | https://shorturl.at/gULis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Foto entrevista                           | <p align="center"> <img src="assets/images/chapter-2/entrevista-3.png" alt="Entrevista 3" width="800"/> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Resumen                                   | El señor Fidel Godoy Zevallos, un productor agrícola de 60 años de Lima, Perú, nos compartió algunos de los desafíos que enfrenta en la producción de sus cultivos. Señaló que uno de sus mayores retos es optimizar el sistema de riego y garantizar condiciones adecuadas para el buen desarrollo de las plantas. Además, comentó que le resulta fundamental contar con información sobre el clima, la calidad del suelo y otros factores ambientales que influyen directamente en la cosecha. Actualmente, está dispuesto a utilizar soluciones tecnológicas que le permitan mejorar la productividad y fortalecer el ciclo de vida de sus cultivos. |
 
 
 Segmento Distribuidores Agrícolas:
 
-| **Entrevista 1**                          | **Detalle** | 	            
-|-------------------------------------------|-------------|
-| Nombre entrevistado                       | William Ramos      | 
-| Edad                                      | 28                 |
-| Profesión                                 | Distribuidor agricola |
-| Departamento                              | Lima            |
-| Inicio del video                          | 33:05           |
-| Fin del video                             | 43:12           |
-| Link del video                            | https://shorturl.at/gULis            |
-| Foto entrevista                           | <img width="1861" height="1010" alt="Image" src="https://github.com/user-attachments/assets/2bd18d87-3e56-4906-adfa-db3ccbbdf7a3" />  |
-| Resumen                                   |  El señor William Ramos, un distribuidor agrícola de 28 años en Perú, nos compartió algunos de los desafíos que enfrenta en su labor diaria. Señaló que uno de sus mayores retos es manejar de manera eficiente el inventario de semillas, fumigantes y fertilizantes, especialmente cuando debe organizar pedidos por región y periodo de tiempo. Manifestó interés en adoptar soluciones basadas en Iot que le permitan digitalizar y automatizar el registro de productos, gastos e ingresos, así como clasificar fácilmente los distintos insumos agrícolas en una sola plataforma. Además, comentó que sería de gran valor contar con herramientas de trazabilidad en tiempo real, que integren sensores y geolocalización para conocer en qué zonas concentra más ventas y registrar automáticamente incidentes durante la distribución, como rupturas o robos. De esta manera, busca optimizar la logística, mejorar la seguridad de su operación y obtener información más precisa para la toma de decisiones.       |
+| **Entrevista 1**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 	            
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | William Ramos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 
+| Edad                                      | 28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Profesión                                 | Distribuidor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Inicio del video                          | 33:05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Fin del video                             | 43:12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Link del video                            | https://shorturl.at/gULis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Foto entrevista                           | <p align="center"> <img src="assets/images/chapter-2/entrevista-4.png" alt="Entrevista 4" width="800"/> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Resumen                                   | El señor William Ramos, un distribuidor agrícola de 28 años en Perú, nos compartió algunos de los desafíos que enfrenta en su labor diaria. Señaló que uno de sus mayores retos es manejar de manera eficiente el inventario de semillas, fumigantes y fertilizantes, especialmente cuando debe organizar pedidos por región y periodo de tiempo. Manifestó interés en adoptar soluciones basadas en Iot que le permitan digitalizar y automatizar el registro de productos, gastos e ingresos, así como clasificar fácilmente los distintos insumos agrícolas en una sola plataforma. Además, comentó que sería de gran valor contar con herramientas de trazabilidad en tiempo real, que integren sensores y geolocalización para conocer en qué zonas concentra más ventas y registrar automáticamente incidentes durante la distribución, como rupturas o robos. De esta manera, busca optimizar la logística, mejorar la seguridad de su operación y obtener información más precisa para la toma de decisiones. |
 
-| **Entrevista 2**                          | **Detalle** | 	            
-|-------------------------------------------|-------------|
-| Nombre entrevistado                       | Jorge Gonzales      | 
-| Edad                                      | 52                 |
-| Profesión                                 | Distribuidor agricola |
-| Departamento                              | Lima            |
-| Inicio del video                          | 43:12           |
-| Fin del video                             | 49:14           |
-| Link del video                            | https://shorturl.at/gULis            |
-| Foto entrevista                           | <img width="747" height="420" alt="Image" src="https://github.com/user-attachments/assets/3b1193cc-b348-4d11-9350-b9c7c061f20d" />  |
-| Resumen                                   |  El señor Jorge Gonzales, un distribuidor de 52 años en el sector de productos alimenticios, nos compartió algunos de los desafíos que enfrenta en su actividad. Señaló que uno de sus principales retos es mantener un equilibrio adecuado entre la oferta y la demanda, evitando tanto el exceso como la escasez de inventario, además de garantizar precisión en los registros. Manifestó interés en soluciones basadas en Internet of Things (IoT) que le permitan integrar sensores y sistemas inteligentes para sincronizar automáticamente los datos de ventas e inventario en tiempo real, asegurando mayor agilidad y confiabilidad en sus procesos. Asimismo, destacó la importancia de contar con una plataforma tecnológica intuitiva y adaptable que incorpore reportes detallados, análisis de márgenes de beneficio y tendencias de ventas, de manera que pueda tomar decisiones estratégicas más rápidas y fundamentadas para mejorar la eficiencia y rentabilidad de su operación.       |
+| **Entrevista 2**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Jorge Gonzales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 
+| Edad                                      | 52                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Profesión                                 | Distribuidor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Inicio del video                          | 43:12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Fin del video                             | 49:14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Link del video                            | https://shorturl.at/gULis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Foto entrevista                           | <p align="center"> <img src="assets/images/chapter-2/entrevista-5.png" alt="Entrevista 5" width="800"/> </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Resumen                                   | El señor Jorge Gonzales, un distribuidor de 52 años en el sector de productos alimenticios, nos compartió algunos de los desafíos que enfrenta en su actividad. Señaló que uno de sus principales retos es mantener un equilibrio adecuado entre la oferta y la demanda, evitando tanto el exceso como la escasez de inventario, además de garantizar precisión en los registros. Manifestó interés en soluciones basadas en Internet of Things (IoT) que le permitan integrar sensores y sistemas inteligentes para sincronizar automáticamente los datos de ventas e inventario en tiempo real, asegurando mayor agilidad y confiabilidad en sus procesos. Asimismo, destacó la importancia de contar con una plataforma tecnológica intuitiva y adaptable que incorpore reportes detallados, análisis de márgenes de beneficio y tendencias de ventas, de manera que pueda tomar decisiones estratégicas más rápidas y fundamentadas para mejorar la eficiencia y rentabilidad de su operación. |
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -745,29 +744,29 @@ Segmento Productor Agricola:
 
 Las User Personas desarrolladas para AgroControl representan los perfiles más relevantes de los usuarios identificados a partir de un exhaustivo análisis de entrevistas y estudios de la competencia. Estas personas capturan las motivaciones, desafíos, y comportamientos de los productores agrícolas y distribuidores, quienes son los usuarios principales de la plataforma.
 
-<img width="1050" height="1296" alt="Image" src="https://github.com/user-attachments/assets/235cfe1e-738b-47be-9557-26560ce27ac3" />
+![User Persona 1](assets/images/chapter-2/userPersona-1.png)
 
 
 Segmento Distribuidores Agrícolas:
 
 El perfil de Carlos Ramírez, un distribuidor agrícola, refleja la necesidad de contar con información confiable y actualizada sobre la disponibilidad y calidad de los cultivos, con el fin de planificar compras y entregas de manera más eficiente. Su motivación principal es anticipar retrasos o variaciones en la producción para mejorar la coordinación con los productores, garantizar la trazabilidad de los productos y cumplir con la puntualidad exigida por el mercado. Este perfil fue construido para orientar el diseño del sistema, asegurando que la plataforma AgroControl brinde visibilidad en tiempo real y soporte a las decisiones estratégicas de los distribuidores dentro de la cadena de suministro.
 
-<img width="1050" height="1420" alt="Image" src="https://github.com/user-attachments/assets/fb90ed09-4c33-42f1-b74b-b352e1b413f7" />
+![User Persona 2](assets/images/chapter-2/userPersona-2.png)
 
 ### 2.3.2. User Task Matrix
 
 En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Personas realizan para cumplir sus objetivos. Se consideran dos segmentos: productores agrícolas y distribuidores. Las tareas identificadas son realizadas independientemente de la existencia de soluciones de software.
 
-| **Task**                                  | **Productor Agrícola** | 	              | **Distribuidor** |                |
-|-------------------------------------------|------------------------|----------------|------------------|----------------|
-|                                           | **Frequency**          | **Importance** | **Frequency**    | **Importance** |
-| Monitorear humedad del suelo              | High                   | High        	  | Medium           | Medium         |  
-| Monitorear condiciones climáticas         | High                   | High      	  | Medium           | High           |
-| Activar bombas de agua                    | High                   | High        	  | -                | -              |
-| Recibir alertas tempranas	                | High	                 | High	          | Low              | Low            |
-| Visualizar datos en tiempo real 	        | High	                 | High           | Low              | Medium         |
-| Optimizar uso de recursos	                | Medium	             | High	          | -	             | -              |
-| Garantizar trazabilidad de la producción  | High	                 | High	          | Medium           | Medium         |
+| **Task**                                 | **Productor Agrícola** | 	              | **Distribuidor** |                |
+|------------------------------------------|------------------------|----------------|------------------|----------------|
+|                                          | **Frequency**          | **Importance** | **Frequency**    | **Importance** |
+| Monitorear humedad del suelo             | High                   | High        	  | Medium           | Medium         |  
+| Monitorear condiciones climáticas        | High                   | High      	    | Medium           | High           |
+| Activar bombas de agua                   | High                   | High         	 | -                | -              |
+| Recibir alertas tempranas	               | High	                  | High	          | Low              | Low            |
+| Visualizar datos en tiempo real 	        | High	                  | High           | Low              | Medium         |
+| Optimizar uso de recursos	               | Medium	                | High	          | -	               | -              |
+| Garantizar trazabilidad de la producción | High	                  | High	          | Medium           | Medium         |
 
 
 ### Explicación
@@ -803,7 +802,7 @@ La sección de User Journey Mapping muestra el recorrido completo de los usuario
 
 El journey de los productores comienza con el descubrimiento de la solución a través de demostraciones en campo, capacitaciones o recomendaciones de otros agricultores. Tras la instalación de sensores y bombas automatizadas, los productores empiezan a interactuar con la aplicación para monitorear la humedad del suelo, recibir alertas tempranas y gestionar el riego en tiempo real.
 
-<img width="3758" height="863" alt="Image" src="https://github.com/user-attachments/assets/fe47f08a-157e-4075-93f6-44ac6748862c" />
+![User Journey Mapping 1](assets/images/chapter-2/user-journey-mapp-1.png)
 
 **Segmento Distribuidor**:
 
@@ -984,19 +983,992 @@ Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 ### 4.1.2. Context Mapping
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+![Context Diagram](./assets/images/chapter-4/context-diagram.png)
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+En el diagrama de contexto se observa que el productor agrícola utiliza la aplicación móvil para monitorear sus cultivos y controlar el riego en tiempo real.
+Por su parte, el distribuidor agrícola y el admin acceden a la plataforma web para, respectivamente, consultar la disponibilidad de productos y supervisar las operaciones globales del sistema. El sistema central AgroControl se integra con dos sistemas externos clave: se comunica con el AgroControl hardware para recibir datos de los sensores
+en el campo y enviar comandos de automatización, y utiliza un servicio de notificaciones externo para enviar alertas importantes a los usuarios.
+![Context Diagram](./assets/images/chapter-4/context-diagram.png)
+
 #### 4.1.3.3. Software Architecture Container Level Diagrams
+El diagrama de contenedores de AgroControl muestra cómo interactúan sus distintos usuarios y componentes de software. Los usuarios son: el Productor Agrícola, que utiliza la aplicación móvil para monitorear cultivos y controlar el riego; y el Distribuidor Agrícola y el Admin, que usan la plataforma web para consultar analíticas y gestionar el sistema.
+En el campo, el AgroControl Hardware captura datos a través de sensores, los cuales son leídos por la Embedded Application. Posteriormente, la Edge Processing Application analiza esta información, la guarda temporalmente en una base de datos SQLite y envía alertas críticas. El núcleo del sistema es una API REST desarrollada en Spring Boot que centraliza la lógica y conecta todas las aplicaciones con una base de datos MySQL principal.
+La aplicación móvil ofrece al productor una interfaz directa con sus operaciones, mientras que la aplicación web provee herramientas de gestión y visualización de datos. Además, el sistema se integra con un Servicio de Notificaciones Externo para despachar las alertas a los usuarios.
+![Container Diagram](./assets/images/chapter-4/container-diagram.png)
+
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+El diagrama de despliegue muestra cómo se distribuyen los distintos componentes de software de AgroControl en su entorno de ejecución. El sistema está compuesto por una aplicación web con Vue.js y una aplicación móvil con Flutter, que se ejecutan en los dispositivos de los usuarios. Ambas aplicaciones se comunican mediante JSON/HTTPS con una API REST construida con Spring Boot (Java), que centraliza la lógica de negocio en el backend. La API realiza operaciones de lectura y escritura sobre una base de datos MySQL que almacena los datos del sistema. Finalmente, el backend se integra con un Servicio de Notificaciones Externo para el envío de alertas.
+![Deployment Diagram](./assets/images/chapter-4/deployment-diagram.png)
+
+
 ## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+### 4.2.1. Bounded Context: Soil Sensing & Sensor Management
+
+#### 4.2.1.1. Domain Layer.
+En el núcleo de este dominio, hemos definido los siguientes agregados, que son los conceptos centrales.
+## `Aggregates`
+### `Sensor`
+
+Representa un dispositivo físico instalado en el campo.
+#### Atributos principales:
+
+| Atributo      | Tipo           | Descripción                                            |
+|---------------|----------------|--------------------------------------------------------|
+| `id`          | `Int`          | Identificador único del sensor.                        |    
+| `producerId`  | `Int`          | Identificador del productor agrícola al que pertenece. |
+| `location`    | `GeoPoint`     | Coordenadas geográficas donde está instalado.          |
+| `type`        | `SensorType`   | Tipo de sensor.                                        |
+| `status`      | `SensorStatus` | Estado actual del sensor (ACTIVE, INACTIVE, etc.).     |
+| `installedAt` | `Date`         | Fecha de instalación.                                  |
+
+#### Constructores:
+
+- A partir de `RegisterSensorCommand`
+- A partir de `UpdateSensorLocationCommand`
+---
+
+
+### `SensorReading`
+
+Representa una única lectura de datos enviada por un sensor.
+#### Atributos principales:
+
+| Atributo     | Tipo         | Descripción                                      |
+|--------------|--------------|--------------------------------------------------|
+| `id`         | `Long`       | Identificador único de la lectura.               |
+| `sensorId`   | `String`     | Relación con el sensor que generó la lectura.    |
+| `value`      | `Double`     | El valor numérico de la medición.                |
+| `unit`       | `String`     | La unidad de medida.                             |
+| `recordedAt` | `DateTime`   | Fecha y hora exactas en que se tomó la lectura.  |
+
+#### Constructores:
+
+- A partir de `IngestSensorDataCommand`
+---
+
+Los siguientes enumerados (enums) representan valores fijos que controlan el estado y comportamiento de las entidades del sistema dentro del contexto de status del sensor. Se utilizan para asegurar consistencia, facilitar validaciones y mejorar la legibilidad del código, evitando el uso de strings sueltos o valores mágicos.
+
+
+### `SensorStatus(Enum)`
+
+| Valor       | Descripción                                                              |
+|-------------|--------------------------------------------------------------------------|
+| ACTIVE      | El sensor está operativo y enviando datos.                               |
+| INACTIVE    | El sensor está registrado pero temporalmente desactivado por el usuario. |
+| OFFLINE     | El sensor ha perdido la conexión y no reporta datos.                     |
+| MAINTENANCE | El sensor está en mantenimiento y no debe ser considerado para alertas.  |
+
+## `Commands`
+
+### `Sensor Commands`
+
+| Comando                        | Descripción                                                           |
+|--------------------------------|-----------------------------------------------------------------------|
+| `RegisterSensorCommand`        | Registra un nuevo sensor físico y lo asocia a un productor.           |
+| `UpdateSensorLocationCommand`  | Actualiza la ubicación geográfica de un sensor.                       |
+| `DeactivateSensorCommand`      | Pone un sensor en estado INACTIVE.                                    |
+| `IngestSensorDataCommand`      | Procesa y registra una nueva lectura de datos enviada desde el campo. |
+
+## `Queries`
+
+### `Sensor Queries`
+| Query                             | Descripción                                                              |
+|-----------------------------------|--------------------------------------------------------------------------|
+| `GetSensorByIdQuery`              | Obtiene la información completa de un sensor por su ID.                  |
+| `GetSensorsByProducerIdQuery`     | Lista todos los sensores asociados a un productor.                       |
+| `GetLatestReadingBySensorIdQuery` | Devuelve la última lectura registrada para un sensor específico.         |
+| `GetHistoricalReadingsQuery`      | Obtiene un rango de lecturas históricas para un sensor entre dos fechas. |
+
+
+## `Repositories (Interfaces)`
+| Archivo                        | Descripción breve                                                                                                 |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| ISensorRepository.java         | Define operaciones sobre sensores: `FindByIdAsync`, `FindByProducerIdAsync`, `SaveAsync`, `UpdateStatusAsync`     |
+| ISensorReadingRepository.java  | Define operaciones sobre lecturas de sensores: `FindLatestBySensorIdAsync`, `FindBetweenDatesAsync`, `SaveAsync`  |
+
+#### 4.2.1.2. Interface Layer.
+
+La carpeta `Interfaces/REST` expone los endpoints HTTP que permiten a clientes externos interactuar con la aplicación transformando solicitudes en comandos o queries y devolviendo respuestas.
+
+## `Resources`
+Las clases `Resource` actúan como intermediarias que trasladan datos entre la API REST y la capa de aplicación.
+
+| Archivo                         | Función                                                  |
+|---------------------------------|----------------------------------------------------------|
+| `RegisterSensorResource.java`   | Recibe los datos para registrar un nuevo sensor.         |
+| `IngestSensorDataResource.java` | Recibe un lote de nuevas lecturas desde la Edge App.     |
+| `SensorResource.java`           | Devuelve la información completa de un sensor (GET).     |
+| `SensorReadingResource.java`    | Devuelve la información de una lectura de sensor (GET).  |
+
+## `Transform/Assemblers`
+
+Las clases ubicadas en la carpeta **Transform** (o también conocidas como **Assemblers**) se encargan de:
+
+- Traducir los objetos **Resource** en **Command Objects** que serán procesados por la capa de aplicación.
+- Convertir las entidades del dominio en objetos **Resource** que se utilizarán para construir las respuestas de la API.
+
+| Archivo                                             | Función                                                               |
+|-----------------------------------------------------|-----------------------------------------------------------------------|
+| `RegisterSensorCommandFromResourceAssembler.java`   | Transforma `RegisterSensorResource` en `RegisterSensorCommand`.       |
+| `IngestSensorDataCommandFromResourceAssembler.java` | Transforma `IngestSensorDataResource` en `IngestSensorDataCommand`.   |
+| `SensorResourceFromEntityAssembler.java`            | Convierte una entidad `Sensor ` en un `SensorResource`.               |
+| `SensorReadingResourceFromEntityAssembler.java`     | Convierte una entidad `SensorReading` en un `SensorReadingResource`.  |
+
+
+## `Controllers`
+Cada entidad principal dentro del Bounded Context *Subscription & Payment* dispone de un **REST Controller**, encargado de exponer los endpoints públicos y coordinar la lógica de ejecución de la aplicación.
+
+| Controlador              | Ruta base típica | Responsabilidad principal                                                            |
+|--------------------------|-----------------|--------------------------------------------------------------------------------------|
+| `SensorsController.java` | `/api/sensors` | 	Gestiona el ciclo de vida de los sensores (CRUD) y la consulta de sus datos.        |
+
+#### 4.2.1.3. Application Layer.
+
+### Servicios de Aplicación – Gestión de Flujos de Negocio
+
+## `CommandServices`
+| Clase                         | Descripción                                                                                                        |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| `SensorCommandService.java`   | Gestiona la lógica para registrar, actualizar y desactivar sensores, así como para procesar los datos que envían.  |
+
+## `QueryServices`
+| Clase                          | Descripción                                                                                                |
+|--------------------------------|------------------------------------------------------------------------------------------------------------|
+| `SensorQueryService.java`      | Proporciona consultas para obtener información sobre sensores y sus lecturas históricas o más recientes.   |
+
+
+#### 4.2.1.4. Infrastructure Layer.
+
+### Implementación de Repositories
+
+| Clase                             | Interfaz implementada         | Función principal                                                                               |
+|-----------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------|
+| `SensorRepository.java`           | `ISensorRepository`           | Implementa la lógica de persistencia y consultas sobre la entidad (`Sensor`)                    |
+| `SensorReadingRepository.java`    | `ISensorReadingRepository`    | Gestiona el acceso a datos para la entidad (`SensorReading`) optimizado para series de tiempo.  |
+
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams.
+
+El diagrama de componentes muestra cómo la aplicación móvil (usada por el productor) y la Edge Processing Application (desde el campo) acceden a los endpoints expuestos por el Sensor Management Controller en Spring Boot. Este controlador delega la lógica de negocio al Sensor Management Service, que es responsable de gestionar el ciclo de vida de los sensores y procesar las lecturas de datos. A su vez, este servicio escribe y lee información mediante el Sensor Repository, que utiliza Spring Data JPA para interactuar con la base de datos MySQL.
+![Soil Sensing & Sensor Management](./assets/images/chapter-4/bc1.png)
+
+
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams.
+
+
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.
+La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+
+![alt text](./assets/img/subscription.png)
+
+##### 4.2.1.6.2. Bounded Context Database Design Diagram.
+El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+
+![alt text](<./assets/img/db design diagram subsc.png>)
+
+### 4.2.2. Bounded Context: Irrigation Control & Automation
+
+#### 4.2.2.1. Domain Layer.
+En el núcleo de este dominio, hemos definido los siguientes agregados, que representan la automatización del riego agrícola.
+
+## `Aggregates`
+
+### `IrrigationDevice`
+
+Representa un dispositivo físico único instalado en el campo que controla el riego.
+
+#### Atributos principales:
+
+| Atributo      | Tipo             | Descripción                                                  |
+|---------------|------------------|--------------------------------------------------------------|
+| `id`          | `Int`            | Identificador único del dispositivo de riego.                |
+| `producerId`  | `Int`            | Identificador del productor agrícola al que pertenece.       |
+| `location`    | `GeoPoint`       | Coordenadas geográficas donde está instalado el dispositivo. |
+| `status`      | `DeviceStatus`   | Estado actual del dispositivo.                               |
+| `installedAt` | `Date`           | Fecha de instalación.                                        |
+
+#### Constructores:
+- A partir de `RegisterIrrigationDeviceCommand`
+- A partir de `UpdateIrrigationDeviceLocationCommand`
+
+---
+
+### `IrrigationSchedule`
+
+Define un plan de riego automático basado en tiempo o condiciones.
+
+#### Atributos principales:
+
+| Atributo     | Tipo             | Descripción                                      |
+|--------------|------------------|--------------------------------------------------|
+| `id`         | `Int`            | Identificador único del programa de riego.       |
+| `deviceId`   | `Int`            | Relación con el dispositivo de riego asociado.   |
+| `startTime`  | `DateTime`       | Hora de inicio del riego.                        |
+| `duration`   | `Int`            | Duración del riego en minutos.                   |
+| `status`     | `ScheduleStatus` | Estado del programa. |
+| `createdAt`  | `DateTime`       | Fecha y hora de creación.                        |
+
+#### Constructores:
+- A partir de `CreateIrrigationScheduleCommand`
+
+---
+
+### `IrrigationEvent`
+
+Representa una ejecución real de un riego en campo.
+
+#### Atributos principales:
+
+| Atributo    | Tipo        | Descripción                                   |
+|-------------|-------------|-----------------------------------------------|
+| `id`        | `Long`      | Identificador único del evento.               |
+| `deviceId`  | `Int`       | Dispositivo que ejecutó el riego.             |
+| `startedAt` | `DateTime`  | Inicio de la acción.                          |
+| `endedAt`   | `DateTime`  | Fin de la acción.                             |
+| `volume`    | `Double`    | Volumen aproximado de agua liberado (litros). |
+
+#### Constructores:
+- A partir de `TriggerIrrigationCommand`
+
+---
+
+### `Enums`
+
+#### `DeviceStatus(Enum)`
+| Valor        | Descripción                                  |
+|--------------|----------------------------------------------|
+| ON           | El dispositivo está en funcionamiento.       |
+| OFF          | El dispositivo está apagado.                 |
+| ERROR        | Fallo detectado en el dispositivo.           |
+| MAINTENANCE  | El dispositivo está en mantenimiento.        |
+
+#### `ScheduleStatus(Enum)`
+| Valor       | Descripción                                       |
+|-------------|---------------------------------------------------|
+| ACTIVE      | El programa está en ejecución o pendiente.        |
+| PAUSED      | El programa fue pausado manualmente.              |
+| COMPLETED   | El programa terminó exitosamente.                 |
+| CANCELLED   | El programa fue cancelado.                        |
+
+---
+
+## `Commands`
+
+| Comando                                 | Descripción                                               |
+|-----------------------------------------|-----------------------------------------------------------|
+| `RegisterIrrigationDeviceCommand`       | Registra un nuevo dispositivo de riego.                   |
+| `UpdateIrrigationDeviceLocationCommand` | Actualiza la ubicación de un dispositivo.                 |
+| `CreateIrrigationScheduleCommand`       | Define un nuevo plan/programa de riego automático.        |
+| `PauseIrrigationScheduleCommand`        | Pausa un programa de riego activo.                        |
+| `TriggerIrrigationCommand`              | Enciende el dispositivo de riego inmediatamente (manual). |
+
+---
+
+## `Queries`
+
+| Query                           | Descripción                                                       |
+|---------------------------------|-------------------------------------------------------------------|
+| `GetIrrigationDeviceByIdQuery`  | Devuelve la información completa de un dispositivo.               |
+| `GetDevicesByProducerIdQuery`   | Lista todos los dispositivos de riego de un productor.            |
+| `GetSchedulesByDeviceIdQuery`   | Devuelve los programas de riego definidos para un dispositivo.    |
+| `GetIrrigationHistoryQuery`     | Obtiene el historial de eventos de riego ejecutados.              |
+
+---
+
+## `Repositories (Interfaces)`
+
+| Archivo                          | Descripción breve                                                                 |
+|----------------------------------|---------------------------------------------------------------------------------|
+| `IIrrigationDeviceRepository.java` | Define operaciones sobre dispositivos (FindByIdAsync, SaveAsync, UpdateAsync). |
+| `IIrrigationScheduleRepository.java` | Define operaciones sobre programaciones (FindByDeviceIdAsync, SaveAsync).     |
+| `IIrrigationEventRepository.java`   | Define operaciones sobre eventos (SaveAsync, FindByDeviceIdAsync).            |
+
+---
+
+#### 4.2.2.2. Interface Layer.
+
+La carpeta `Interfaces/REST` expone los endpoints HTTP que permiten a clientes externos interactuar con la aplicación.
+
+## `Resources`
+
+| Archivo                              | Función                                                         |
+|--------------------------------------|-----------------------------------------------------------------|
+| `RegisterIrrigationDeviceResource.java` | Recibe los datos para registrar un nuevo dispositivo.         |
+| `IrrigationScheduleResource.java`      | Recibe los datos de configuración para un nuevo plan de riego. |
+| `IrrigationEventResource.java`         | Devuelve información de un evento de riego ejecutado.          |
+
+---
+
+## `Transform/Assemblers`
+
+| Archivo                                             | Función                                                                 |
+|-----------------------------------------------------|-------------------------------------------------------------------------|
+| `RegisterIrrigationDeviceCommandFromResourceAssembler.java` | Convierte `RegisterIrrigationDeviceResource` en `RegisterIrrigationDeviceCommand`. |
+| `IrrigationScheduleCommandFromResourceAssembler.java`       | Convierte `IrrigationScheduleResource` en `CreateIrrigationScheduleCommand`. |
+| `IrrigationDeviceResourceFromEntityAssembler.java`          | Convierte un `IrrigationDevice` en `IrrigationDeviceResource`.          |
+
+---
+
+## `Controllers`
+
+| Controlador                      | Ruta base típica               | Responsabilidad principal                                         |
+|----------------------------------|-------------------------------|-------------------------------------------------------------------|
+| `IrrigationDevicesController.java` | `/api/irrigation/devices`   | Gestión de dispositivos de riego (CRUD, actualización de estado). |
+| `IrrigationSchedulesController.java` | `/api/irrigation/schedules` | Gestión de programas de riego automáticos.                       |
+| `IrrigationEventsController.java`    | `/api/irrigation/events`    | Consulta de historial y ejecución manual de riegos.               |
+
+---
+
+#### 4.2.2.3. Application Layer.
+
+### Servicios de Aplicación – Gestión de Flujos de Negocio
+
+## `CommandServices`
+
+| Clase                         | Descripción                                                                            |
+|-------------------------------|----------------------------------------------------------------------------------------|
+| `IrrigationCommandService.java` | Gestiona la lógica para registrar el dispositivo y crear/pausar programas de riego.   |
+
+## `QueryServices`
+
+| Clase                        | Descripción                                                                           |
+|------------------------------|---------------------------------------------------------------------------------------|
+| `IrrigationQueryService.java` | Proporciona consultas sobre el dispositivo, programas y eventos de riego.            |
+
+---
+
+#### 4.2.2.4. Infrastructure Layer.
+
+### Implementación de Repositories
+
+| Clase                                 | Interfaz implementada            | Función principal                                      |
+|---------------------------------------|----------------------------------|--------------------------------------------------------|
+| `IrrigationDeviceRepository.java`     | `IIrrigationDeviceRepository`    | Implementa persistencia para el dispositivo de riego.  |
+| `IrrigationScheduleRepository.java`   | `IIrrigationScheduleRepository`  | Maneja persistencia de programaciones de riego.        |
+| `IrrigationEventRepository.java`      | `IIrrigationEventRepository`     | Persiste y consulta eventos históricos de riego.       |
+
+---
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams.
+
+El diagrama de componentes muestra cómo la aplicación móvil accede a los endpoints del Irrigation Control Controller para que el productor pueda gestionar horarios o iniciar un riego de forma manual. Este controlador delega la lógica de negocio al Irrigation Automation Service, el cual es responsable de orquestar las operaciones, decidir cuándo se debe regar según las reglas programadas, y enviar los comandos necesarios a la Edge Processing Application que se encuentra en el campo. A su vez, el servicio utiliza el Irrigation Repository para persistir tanto los horarios de riego como el historial de eventos en la base de datos MySQL
+![Irrigation Control & Automation](./assets/images/chapter-4/bc2.png)
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams.
+
+
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.
+La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+
+![alt text](./assets/img/subscription.png)
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram.
+El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+
+![alt text](<./assets/img/db design diagram subsc.png>)
+
+### 4.2.3. Bounded Context: Producer Profile & Access Management
+
+#### 4.2.3.1. Domain Layer.
+En el núcleo de este dominio, hemos definido los siguientes agregados, que representan la gestión de productores, roles y accesos dentro de la plataforma.
+
+## `Aggregates`
+
+### `ProducerProfile`
+
+Representa la información principal de un productor agrícola.
+
+#### Atributos principales:
+
+| Atributo      | Tipo       | Descripción                                     |
+|---------------|------------|-------------------------------------------------|
+| `id`          | `Int`      | Identificador único del productor.              |
+| `name`        | `String`   | Nombre completo del productor.                  |
+| `email`       | `String`   | Dirección de correo electrónico única.          |
+| `phoneNumber` | `String`   | Número de contacto.                             |
+| `location`    | `GeoPoint` | Coordenadas geográficas de la finca principal.  |
+| `createdAt`   | `DateTime` | Fecha de registro del productor.                |
+
+#### Constructores:
+- A partir de `RegisterProducerCommand`
+- A partir de `UpdateProducerProfileCommand`
+
+---
+
+### `UserAccount`
+
+Gestiona las credenciales de acceso y el rol del usuario dentro de la plataforma.
+
+#### Atributos principales:
+
+| Atributo     | Tipo         | Descripción                                    |
+|--------------|--------------|------------------------------------------------|
+| `id`         | `Int`        | Identificador único de la cuenta.              |
+| `producerId` | `Int`        | Relación con el perfil del productor asociado. |
+| `username`   | `String`     | Nombre de usuario único.                       |
+| `password`   | `String`     | Contraseña encriptada.                         |
+| `role`       | `UserRole`   | Rol asignado.                                  |
+| `status`     | `UserStatus` | Estado de la cuenta.                           |
+
+#### Constructores:
+- A partir de `CreateUserAccountCommand`
+- A partir de `ChangeUserRoleCommand`
+
+---
+
+### `AuditLog`
+
+Registro de actividades realizadas por un usuario/productor dentro de la plataforma.
+
+#### Atributos principales:
+
+| Atributo     | Tipo       | Descripción                                    |
+|--------------|------------|------------------------------------------------|
+| `id`         | `Long`     | Identificador único del log.                   |
+| `userId`     | `Int`      | Usuario que ejecutó la acción.                 |
+| `action`     | `String`   | Descripción de la acción realizada.            |
+| `timestamp`  | `DateTime` | Fecha y hora de la acción.                     |
+
+#### Constructores:
+- A partir de `RecordAuditLogCommand`
+
+---
+
+### `Enums`
+
+#### `UserRole(Enum)`
+| Valor      | Descripción                                   |
+|------------|-----------------------------------------------|
+| ADMIN      | Usuario con permisos de administración total. |
+| PRODUCER   | Productor con permisos sobre sus fincas.      |
+| TECHNICIAN | Usuario con permisos técnicos especializados. |
+
+#### `UserStatus(Enum)`
+| Valor     | Descripción                                 |
+|-----------|---------------------------------------------|
+| ACTIVE    | Cuenta activa y con acceso permitido.       |
+| BLOCKED   | Cuenta bloqueada por seguridad o políticas. |
+
+---
+
+## `Commands`
+
+| Comando                          | Descripción                                              |
+|----------------------------------|----------------------------------------------------------|
+| `RegisterProducerCommand`        | Registra un nuevo productor con sus datos principales.   |
+| `UpdateProducerProfileCommand`   | Actualiza la información básica del productor.           |
+| `CreateUserAccountCommand`       | Crea una cuenta de usuario vinculada a un productor.     |
+| `ChangeUserRoleCommand`          | Modifica el rol de un usuario existente.                 |
+| `BlockUserAccountCommand`        | Bloquea el acceso de un usuario.                         |
+| `RecordAuditLogCommand`          | Registra una acción ejecutada por un usuario en el log.  |
+
+---
+
+## `Queries`
+
+| Query                           | Descripción                                              |
+|---------------------------------|----------------------------------------------------------|
+| `GetProducerByIdQuery`          | Devuelve el perfil completo de un productor.             |
+| `GetUserAccountsByProducerIdQuery` | Lista las cuentas de usuario vinculadas a un productor.|
+| `GetAuditLogsByUserIdQuery`     | Devuelve el historial de acciones de un usuario.         |
+| `GetAllProducersQuery`          | Lista todos los productores registrados en la plataforma.|
+
+---
+
+## `Repositories (Interfaces)`
+
+| Archivo                               | Descripción breve                                                                 |
+|---------------------------------------|-----------------------------------------------------------------------------------|
+| `IProducerRepository.java`            | Define operaciones sobre productores `FindByIdAsync`, `SaveAsync`, `UpdateAsync`. |
+| `IUserAccountRepository.java`         | Define operaciones sobre cuentas de usuario `FindByProducerIdAsync`, `SaveAsync`. |
+| `IAuditLogRepository.java`            | Define operaciones para registros de auditoría `SaveAsync`, `FindByUserIdAsync`.  |
+
+---
+
+#### 4.2.3.2. Interface Layer.
+
+La carpeta `Interfaces/REST` expone los endpoints HTTP para gestionar perfiles de productores, cuentas y accesos.
+
+## `Resources`
+
+| Archivo                                | Función                                                    |
+|----------------------------------------|------------------------------------------------------------|
+| `RegisterProducerResource.java`        | Recibe datos para registrar un nuevo productor.            |
+| `ProducerProfileResource.java`         | Devuelve/actualiza información del perfil de un productor. |
+| `UserAccountResource.java`             | Gestiona credenciales y roles de usuarios.                 |
+| `AuditLogResource.java`                | Devuelve logs de auditoría de un usuario.                  |
+
+---
+
+## `Transform/Assemblers`
+
+| Archivo                                                 | Función                                                                 |
+|---------------------------------------------------------|-------------------------------------------------------------------------|
+| `RegisterProducerCommandFromResourceAssembler.java`     | Convierte `RegisterProducerResource` en `RegisterProducerCommand`.      |
+| `ProducerResourceFromEntityAssembler.java`              | Convierte un `ProducerProfile` en `ProducerProfileResource`.            |
+| `UserAccountCommandFromResourceAssembler.java`          | Convierte `UserAccountResource` en `CreateUserAccountCommand`.          |
+| `AuditLogResourceFromEntityAssembler.java`              | Convierte un `AuditLog` en `AuditLogResource`.                          |
+
+---
+
+## `Controllers`
+
+| Controlador                        | Ruta base típica              | Responsabilidad principal                                      |
+|------------------------------------|-------------------------------|----------------------------------------------------------------|
+| `ProducersController.java`         | `/api/producers`              | Registro, consulta y actualización de productores.             |
+| `UserAccountsController.java`      | `/api/users`                  | Creación, roles y gestión de cuentas de usuario.               |
+| `AuditLogsController.java`         | `/api/audit/logs`             | Consulta de logs de auditoría por usuario.                     |
+
+---
+
+#### 4.2.3.3. Application Layer.
+
+### Servicios de Aplicación – Gestión de Flujos de Negocio
+
+## `CommandServices`
+
+| Clase                              | Descripción                                                               |
+|------------------------------------|---------------------------------------------------------------------------|
+| `ProducerCommandService.java`      | Gestiona la lógica para registrar y actualizar perfiles de productores.   |
+| `UserAccountCommandService.java`   | Gestiona la lógica para crear cuentas, cambiar roles y bloquear usuarios. |
+| `AuditLogCommandService.java`      | Gestiona la creación de registros de auditoría.                           |
+
+## `QueryServices`
+
+| Clase                             | Descripción                                                          |
+|-----------------------------------|----------------------------------------------------------------------|
+| `ProducerQueryService.java`       | Proporciona consultas sobre productores registrados.                 |
+| `UserAccountQueryService.java`    | Proporciona consultas sobre cuentas y roles de usuarios.             |
+| `AuditLogQueryService.java`       | Proporciona consultas sobre el historial de logs de auditoría.       |
+
+---
+
+#### 4.2.3.4. Infrastructure Layer.
+
+### Implementación de Repositories
+
+| Clase                              | Interfaz implementada            | Función principal                                    |
+|------------------------------------|----------------------------------|------------------------------------------------------|
+| `ProducerRepository.java`          | `IProducerRepository`            | Implementa persistencia para el perfil de productor. |
+| `UserAccountRepository.java`       | `IUserAccountRepository`         | Maneja persistencia de cuentas de usuario.           |
+| `AuditLogRepository.java`          | `IAuditLogRepository`            | Persiste y consulta logs de auditoría.               |
+
+---
+
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams.
+
+El diagrama de componentes muestra cómo la aplicación móvil y la aplicación web acceden a los endpoints del Profile Management Controller para gestionar perfiles y autenticación. Este controlador delega la lógica al Profile & Access Service, que es responsable de las reglas de negocio de seguridad, como la validación de contraseñas y la asignación de roles. A su vez, el servicio utiliza el User Repository para persistir y recuperar la información de los usuarios de la base de datos MySQL.
+
+![Producer Profile & Access Management](./assets/images/chapter-4/bc3.png)
+
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams.
+
+
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.
+La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+
+![alt text](./assets/img/subscription.png)
+
+##### 4.2.3.6.2. Bounded Context Database Design Diagram.
+El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+
+![alt text](<./assets/img/db design diagram subsc.png>)
+
+### 4.2.4. Bounded Context: Alert & Notification
+
+#### 4.2.4.1. Domain Layer.
+En el núcleo de este dominio, hemos definido los siguientes agregados, que representan la gestión de alertas y notificaciones enviadas a los productores.
+
+## `Aggregates`
+
+### `Alert`
+
+Representa una alerta generada por el sistema a partir de sensores, reglas o eventos críticos.
+
+#### Atributos principales:
+
+| Atributo       | Tipo           | Descripción                               |
+|----------------|----------------|-------------------------------------------|
+| `id`           | `Int`          | Identificador único de la alerta.         |
+| `type`         | `AlertType`    | Tipo de alerta .                          |
+| `severity`     | `Severity`     | Nivel de criticidad  .                    |
+| `message`      | `String`       | Texto descriptivo de la alerta.           |
+| `producerId`   | `Int`          | Productor al que está dirigida la alerta. |
+| `createdAt`    | `DateTime`     | Fecha y hora en que se generó la alerta.  |
+| `status`       | `AlertStatus`  | Estado de la alerta.                      |
+
+#### Constructores:
+- A partir de `GenerateAlertCommand`
+- A partir de `AcknowledgeAlertCommand`
+
+---
+
+### `Notification`
+
+Representa la comunicación enviada al productor a través de un canal definido.
+
+#### Atributos principales:
+
+| Atributo      | Tipo                  | Descripción                                         |
+|---------------|-----------------------|-----------------------------------------------------|
+| `id`          | `Int`                 | Identificador único de la notificación.             |
+| `alertId`     | `Int`                 | Relación con la alerta que originó la notificación. |
+| `producerId`  | `Int`                 | Productor destinatario.                             |
+| `channel`     | `NotificationChannel` | Medio de envío.                                     |
+| `status`      | `NotificationStatus`  | Estado del envío.                                   |
+| `sentAt`      | `DateTime`            | Fecha y hora de envío.                              |
+
+#### Constructores:
+- A partir de `SendNotificationCommand`
+
+---
+
+### `Enums`
+
+#### `AlertType(Enum)`
+| Valor             | Descripción                                  |
+|-------------------|----------------------------------------------|
+| SENSOR_FAILURE    | Falla detectada en un sensor.                |
+| WATER_LEAK        | Detección de fuga de agua.                   |
+| LOW_SOIL_MOISTURE | Humedad del suelo por debajo del umbral.     |
+| CUSTOM_RULE       | Alerta generada por una regla personalizada. |
+
+#### `Severity(Enum)`
+| Valor     | Descripción                                   |
+|-----------|-----------------------------------------------|
+| LOW       | Impacto bajo, solo informativo.               |
+| MEDIUM    | Impacto moderado, requiere atención.          |
+| HIGH      | Impacto alto, acción necesaria inmediata.     |
+| CRITICAL  | Impacto crítico, riesgo alto para el cultivo. |
+
+#### `AlertStatus(Enum)`
+| Valor        | Descripción                         |
+|--------------|-------------------------------------|
+| NEW          | Alerta recién generada.             |
+| ACKNOWLEDGED | Productor reconoció la alerta.      |
+| RESOLVED     | La alerta fue atendida/cerrada.     |
+
+#### `NotificationChannel(Enum)`
+| Valor | Descripción             |
+|-------|-------------------------|
+| EMAIL | Correo electrónico.     |
+| SMS   | Mensaje de texto.       |
+| PUSH  | Notificación en la app. |
+
+#### `NotificationStatus(Enum)`
+| Valor   | Descripción                      |
+|---------|----------------------------------|
+| PENDING | Notificación en cola para envío. |
+| SENT    | Notificación enviada con éxito.  |
+| FAILED  | Fallo en el intento de envío.    |
+
+---
+
+## `Commands`
+
+| Comando                         | Descripción                                       |
+|---------------------------------|---------------------------------------------------|
+| `GenerateAlertCommand`          | Crea una nueva alerta en el sistema.              |
+| `AcknowledgeAlertCommand`       | Marca la alerta como reconocida por el productor. |
+| `ResolveAlertCommand`           | Marca la alerta como resuelta.                    |
+| `SendNotificationCommand`       | Envía una notificación asociada a una alerta.     |
+
+---
+
+## `Queries`
+
+| Query                               | Descripción                                          |
+|-------------------------------------|------------------------------------------------------|
+| `GetAlertByIdQuery`                 | Devuelve la información completa de una alerta.      |
+| `GetAlertsByProducerIdQuery`        | Lista todas las alertas generadas para un productor. |
+| `GetNotificationsByProducerIdQuery` | Devuelve el historial de notificaciones enviadas.    |
+| `GetPendingNotificationsQuery`      | Devuelve las notificaciones aún no enviadas.         |
+
+---
+
+## `Repositories (Interfaces)`
+
+| Archivo                            | Descripción breve                                                               |
+|------------------------------------|---------------------------------------------------------------------------------|
+| `IAlertRepository.java`            | Define operaciones sobre alertas (FindByIdAsync, SaveAsync, UpdateAsync).       |
+| `INotificationRepository.java`     | Define operaciones sobre notificaciones (FindByProducerIdAsync, SaveAsync).     |
+
+---
+
+#### 4.2.4.2. Interface Layer.
+
+La carpeta `Interfaces/REST` expone endpoints HTTP para la gestión de alertas y notificaciones.
+
+## `Resources`
+
+| Archivo                                | Función                                                    |
+|----------------------------------------|------------------------------------------------------------|
+| `AlertResource.java`                   | Expone datos de alertas generadas.                         |
+| `NotificationResource.java`            | Expone datos de notificaciones enviadas.                   |
+
+---
+
+## `Transform/Assemblers`
+
+| Archivo                                             | Función                                                                 |
+|-----------------------------------------------------|-------------------------------------------------------------------------|
+| `AlertCommandFromResourceAssembler.java`            | Convierte `AlertResource` en `GenerateAlertCommand`.                    |
+| `NotificationCommandFromResourceAssembler.java`     | Convierte `NotificationResource` en `SendNotificationCommand`.          |
+| `AlertResourceFromEntityAssembler.java`             | Convierte un `Alert` en `AlertResource`.                                |
+| `NotificationResourceFromEntityAssembler.java`      | Convierte un `Notification` en `NotificationResource`.                  |
+
+---
+
+## `Controllers`
+
+| Controlador                         | Ruta base típica             | Responsabilidad principal                                       |
+|-------------------------------------|------------------------------|-----------------------------------------------------------------|
+| `AlertsController.java`             | `/api/alerts`                | Generación, consulta y actualización de alertas.                |
+| `NotificationsController.java`      | `/api/notifications`         | Envío y consulta de notificaciones por productor.               |
+
+---
+
+#### 4.2.4.3. Application Layer.
+
+### Servicios de Aplicación – Gestión de Flujos de Negocio
+
+## `CommandServices`
+
+| Clase                              | Descripción                                                                  |
+|------------------------------------|------------------------------------------------------------------------------|
+| `AlertCommandService.java`         | Gestiona la lógica para crear, reconocer y resolver alertas.                 |
+| `NotificationCommandService.java`  | Gestiona la lógica para enviar notificaciones a través de distintos canales. |
+
+## `QueryServices`
+
+| Clase                               | Descripción                                                               |
+|-------------------------------------|---------------------------------------------------------------------------|
+| `AlertQueryService.java`            | Proporciona consultas sobre alertas de productores.                       |
+| `NotificationQueryService.java`     | Proporciona consultas sobre notificaciones enviadas.                      |
+
+---
+
+#### 4.2.4.4. Infrastructure Layer.
+
+### Implementación de Repositories
+
+| Clase                            | Interfaz implementada        | Función principal                                                                   |
+|----------------------------------|------------------------------|-------------------------------------------------------------------------------------|
+| `AlertRepository.java`           | `IAlertRepository`           | Implementa persistencia para alertas.                                               |
+| `NotificationLogRepository.java` | `INotificationLogRepository` | Implementa la lógica de persistencia y consultas sobre la entidad `NotificationLog` |
+
+---
+
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams.
+
+El diagrama de componentes muestra cómo otros servicios, como el Sensor Management Service o el Irrigation Automation Service, no se comunican directamente con el exterior, sino que invocan al Notification Controller cuando necesitan enviar una alerta. Este controlador delega la tarea al Notification Dispatch Service, que se encarga de formatear el mensaje y utilizar un cliente para comunicarse con el Servicio de Notificaciones Externo. Finalmente, el servicio utiliza el Notification Log Repository para guardar un registro de la notificación enviada en la base de datos MySQL.
+
+![Alert & Notification](./assets/images/chapter-4/bc4.png)
+
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams.
+
+
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams.
+La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+
+![alt text](./assets/img/subscription.png)
+
+##### 4.2.4.6.2. Bounded Context Database Design Diagram.
+El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+
+![alt text](<./assets/img/db design diagram subsc.png>)
+
+### 4.2.5. Bounded Context: Agronomic Analytics (Environment Analytics)
+
+#### 4.2.5.1. Domain Layer.
+En el núcleo de este dominio, hemos definido los siguientes agregados, que representan la analítica agronómica y ambiental para la toma de decisiones.
+
+## `Aggregates`
+
+### `Dataset`
+Representa un conjunto de datos crudos provenientes de sensores de suelo, clima, riego y ambiente.
+
+#### Atributos principales:
+
+| Atributo       | Tipo          | Descripción                                                         |
+|----------------|---------------|---------------------------------------------------------------------|
+| `id`           | `Int`         | Identificador único del dataset.                                    |
+| `source`       | `String`      | Fuente de los datos (SENSOR, WEATHER_API, IRRIGATION_SYSTEM).       |
+| `collectedAt`  | `DateTime`    | Fecha y hora de la recolección.                                     |
+| `values`       | `JSON`        | Conjunto de valores capturados (ej. humedad, temperatura, pH).      |
+| `producerId`   | `Int`         | Identificador del productor asociado a los datos.                   |
+
+#### Constructores:
+- A partir de `IngestDatasetCommand`
+
+---
+
+### `AnalysisReport`
+Representa un reporte generado a partir del procesamiento de datasets ambientales.
+
+#### Atributos principales:
+
+| Atributo        | Tipo        | Descripción                                                                 |
+|-----------------|-------------|-----------------------------------------------------------------------------|
+| `id`            | `Int`       | Identificador único del reporte.                                            |
+| `producerId`    | `Int`       | Productor destinatario del reporte.                                         |
+| `datasetIds`    | `List<Int>` | Lista de datasets analizados.                                               |
+| `summary`       | `String`    | Resumen interpretativo de resultados.                                       |
+| `recommendation`| `String`    | Recomendaciones derivadas (ej. ajustar riego, aplicar fertilización).       |
+| `createdAt`     | `DateTime`  | Fecha y hora de generación del reporte.                                     |
+
+#### Constructores:
+- A partir de `GenerateAnalysisReportCommand`
+
+---
+
+### `Prediction`
+Representa un resultado de modelos predictivos sobre condiciones futuras (clima, humedad, rendimiento esperado).
+
+#### Atributos principales:
+
+| Atributo      | Tipo          | Descripción                                                   |
+|---------------|---------------|---------------------------------------------------------------|
+| `id`          | `Int`         | Identificador único de la predicción.                         |
+| `type`        | `PredictionType` | Tipo de predicción (DROUGHT, PEST, YIELD_ESTIMATION).    |
+| `details`     | `String`      | Información detallada de la proyección.                       |
+| `validUntil`  | `DateTime`    | Horizonte temporal de la predicción.                          |
+| `confidence`  | `Double`      | Nivel de confianza estadística o de modelo (0–1).             |
+
+#### Constructores:
+- A partir de `RunPredictionCommand`
+
+---
+
+### `Enums`
+
+#### `PredictionType(Enum)`
+| Valor             | Descripción                                        |
+|-------------------|----------------------------------------------------|
+| DROUGHT           | Riesgo de sequía en próximos días.                 |
+| PEST              | Alta probabilidad de plagas detectadas.            |
+| YIELD_ESTIMATION  | Estimación de rendimiento del cultivo.             |
+| CUSTOM_MODEL      | Predicción de modelo específico entrenado.         |
+
+---
+
+## `Commands`
+
+| Comando                         | Descripción                                                            |
+|---------------------------------|------------------------------------------------------------------------|
+| `IngestDatasetCommand`          | Registra un nuevo dataset ambiental.                                   |
+| `GenerateAnalysisReportCommand` | Genera un reporte agronómico a partir de datos históricos y actuales. |
+| `RunPredictionCommand`          | Ejecuta un modelo predictivo sobre datasets recientes.                 |
+
+---
+
+## `Queries`
+
+| Query                            | Descripción                                                            |
+|----------------------------------|------------------------------------------------------------------------|
+| `GetDatasetByIdQuery`            | Devuelve información detallada de un dataset.                          |
+| `GetReportsByProducerIdQuery`    | Lista todos los reportes generados para un productor.                  |
+| `GetPredictionsByProducerIdQuery`| Devuelve las predicciones activas asociadas a un productor.            |
+
+---
+
+## `Repositories (Interfaces)`
+
+| Archivo                                | Descripción breve                                                          |
+|----------------------------------------|----------------------------------------------------------------------------|
+| `IDatasetRepository.java`              | Define operaciones sobre datasets (FindByIdAsync, SaveAsync, ListByProducer). |
+| `IAnalysisReportRepository.java`       | Define operaciones sobre reportes (FindByProducerAsync, SaveAsync).        |
+| `IPredictionRepository.java`           | Define operaciones sobre predicciones (FindByProducerAsync, SaveAsync).    |
+
+---
+
+#### 4.2.5.2. Interface Layer.
+
+La carpeta `Interfaces/REST` expone endpoints HTTP para la gestión de datasets, reportes y predicciones.
+
+## `Resources`
+
+| Archivo                                | Función                                                |
+|----------------------------------------|--------------------------------------------------------|
+| `DatasetResource.java`                 | Expone información de datasets ambientales.            |
+| `AnalysisReportResource.java`          | Expone resultados de análisis agronómicos.             |
+| `PredictionResource.java`              | Expone resultados de predicciones generadas.           |
+
+---
+
+## `Transform/Assemblers`
+
+| Archivo                                             | Función                                                                 |
+|-----------------------------------------------------|-------------------------------------------------------------------------|
+| `DatasetCommandFromResourceAssembler.java`          | Convierte `DatasetResource` en `IngestDatasetCommand`.                  |
+| `AnalysisReportCommandFromResourceAssembler.java`   | Convierte `AnalysisReportResource` en `GenerateAnalysisReportCommand`.  |
+| `PredictionCommandFromResourceAssembler.java`       | Convierte `PredictionResource` en `RunPredictionCommand`.               |
+| `DatasetResourceFromEntityAssembler.java`           | Convierte un `Dataset` en `DatasetResource`.                            |
+| `AnalysisReportResourceFromEntityAssembler.java`    | Convierte un `AnalysisReport` en `AnalysisReportResource`.              |
+| `PredictionResourceFromEntityAssembler.java`        | Convierte un `Prediction` en `PredictionResource`.                      |
+
+---
+
+## `Controllers`
+
+| Controlador                         | Ruta base típica             | Responsabilidad principal                                      |
+|-------------------------------------|------------------------------|----------------------------------------------------------------|
+| `DatasetsController.java`           | `/api/datasets`              | Ingesta y consulta de datasets ambientales.                    |
+| `AnalysisReportsController.java`    | `/api/reports`               | Generación y consulta de reportes agronómicos.                 |
+| `PredictionsController.java`        | `/api/predictions`           | Ejecución y consulta de predicciones.                          |
+
+---
+
+#### 4.2.5.3. Application Layer.
+
+### Servicios de Aplicación – Gestión de Flujos de Negocio
+
+## `CommandServices`
+
+| Clase                                | Descripción                                                           |
+|--------------------------------------|-----------------------------------------------------------------------|
+| `DatasetCommandService.java`         | Gestiona la lógica para registrar datasets ambientales.               |
+| `AnalysisReportCommandService.java`  | Gestiona la lógica para generar reportes de análisis.                 |
+| `PredictionCommandService.java`      | Gestiona la lógica para ejecutar predicciones con modelos analíticos. |
+
+## `QueryServices`
+
+| Clase                                 | Descripción                                         |
+|---------------------------------------|-----------------------------------------------------|
+| `DatasetQueryService.java`            | Proporciona consultas sobre datasets.               |
+| `AnalysisReportQueryService.java`     | Proporciona consultas sobre reportes agronómicos.   |
+| `PredictionQueryService.java`         | Proporciona consultas sobre predicciones generadas. |
+
+---
+
+#### 4.2.5.4. Infrastructure Layer.
+
+### Implementación de Repositories
+
+| Clase                               | Interfaz implementada           | Función principal                                       |
+|-------------------------------------|---------------------------------|---------------------------------------------------------|
+| `DatasetRepository.java`            | `IDatasetRepository`            | Implementa persistencia para datasets.                  |
+| `AnalysisReportRepository.java`     | `IAnalysisReportRepository`     | Implementa persistencia para reportes.                  |
+| `PredictionRepository.java`         | `IPredictionRepository`         | Maneja persistencia de predicciones.                    |
+
+---
+
+#### 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams.
+
+El diagrama de componentes muestra cómo la aplicación web, utilizada por administradores y distribuidores, accede a los endpoints del Agronomic Analytics Controller para solicitar reportes. Este controlador delega la tarea al Agronomic Analytics Service, que no tiene su propio repositorio, sino que se comunica directamente con los repositorios de otros contextos, como el Sensor Repository y el Irrigation Repository, para obtener los datos necesarios. Una vez procesada la información, el servicio devuelve los resultados para ser visualizados en la interfaz web.
+
+![Agronomic Analytics](./assets/images/chapter-4/bc5.png)
+
+#### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams.
+##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.
+La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+
+![alt text](./assets/img/subscription.png)
+
+##### 4.2.5.6.2. Bounded Context Database Design Diagram.
+El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
+
+![alt text](<./assets/img/db design diagram subsc.png>)
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
