@@ -956,55 +956,83 @@ A continuación, se analiza cómo se relacionan nuestras metas de negocios con l
 
 ### Segmento Objetivo: Productor Agricola
 
-![Impact Map Productor 1](./assets/Impact_Map_Productor_1.png)
-![Impact Map Productor 2](./assets/Impact_Map_Productor_2.png)
+![Impact Map Productor 1](./assets/images/chapter-3/Impact_Map_Productor_1.png)
+![Impact Map Productor 2](./assets/images/chapter-3/Impact_Map_Productor_2.png)
 
 ### Segmento Objetivo: Distribuidores
 
-![Impact Map Distribuidor 1](./assets/Impact_Map_Distribuidor_1.png)
-![Impact Map Distribuidor 2](./assets/Impact_Map_Distribuidor_2.png)
+![Impact Map Distribuidor 1](./assets/images/chapter-3/Impact_Map_Distribuidor_1.png)
+![Impact Map Distribuidor 2](./assets/images/chapter-3/Impact_Map_Distribuidor_2.png)
 
 ## 3.3. Product Backlog
 
 Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 
-![Product Backlog](./assets/Product_Backlog.png)
-| # Orden | Technical Story Id | Título | Descripción | Story Points |
-|---------|--------------------|--------|-------------|--------------|
-| 1 | E6-TS101 | Crear API Fake | Como desarrollador quiero crear una API fake para poder avanzar el desarrollo de la web app | 2 |
-| 2 | E6-TS102 | Registrar usuario vía APIRESTful | Como desarrollador quiero registrar al usuario a través de la API para persistir su información en la base de datos | 5 |
-| 3 | E6-TS103 | Iniciar sesión de usuario | Como desarrollador quiero logear al usuario a través de la API para brindarle acceso a la aplicación | 3 |
-| 4 | E6-TS104 | Obtener información del usuario | Como desarrollador quiero obtener información del usuario a través de la API para mostrar los datos en la aplicación | 3 |
-| 5 | E6-TS105 | Crear campo | Como desarrollador quiero crear un campo a través de la API para registrarlo en la base de datos | 5 |
-| 6 | E6-TS106 | Obtener campos | Como desarrollador quiero obtener la información de los campos a través de la API para mostrar los datos en la aplicación | 3 |
-| 7 | E6-TS107 | Eliminar campo | Como desarrollador quiero eliminar la información del campo a través de la API para eliminar los datos en la aplicación | 2 |
-| 8 | E6-TS108 | Editar campo | Como desarrollador quiero editar la información del campo a través de la API para modificar datos en la aplicación | 3 |
-| 9 | E6-TS109 | Crear proceso agrícola | Como desarrollador quiero crear el proceso agrícola a través de la API para registrarlo en la base de datos | 5 |
-| 10 | E6-TS110 | Crear actividad en proceso agrícola | Como desarrollador quiero crear actividades agrícolas a través de la API para registrarlas en la base de datos | 8 |
-| 11 | E6-TS111 | Crear recurso en actividad | Como desarrollador quiero crear recursos en una actividad a través de la API para registrarlos en la base de datos | 5 |
-| 12 | E6-TS112 | Obtener procesos por campo | Como desarrollador quiero obtener la información del proceso agrícola por campo a través de la API | 3 |
-| 13 | E6-TS113 | Obtener proceso por ID | Como desarrollador quiero obtener la información de un proceso agrícola por identificador a través de la API | 2 |
-| 14 | E6-TS114 | Obtener actividades por proceso | Como desarrollador quiero obtener la información de la actividad agrícola a través de la API | 3 |
-| 15 | E6-TS115 | Obtener última actividad | Como desarrollador quiero obtener la información de la última actividad agrícola a través de la API | 2 |
-| 16 | E6-TS116 | Terminar plantación | Como desarrollador quiero terminar la plantación a través de la API para registrarlo en la base de datos | 5 |
-| 17 | E6-TS117 | Editar actividad agrícola | Como desarrollador quiero editar la información de una actividad a través de la API para actualizar datos en la aplicación | 3 |
-| 18 | E6-TS118 | Agregar trabajador | Como desarrollador quiero agregar un trabajador a través de la API para registrarlo en la base de datos | 3 |
-| 19 | E6-TS119 | Obtener trabajadores | Como desarrollador quiero obtener información de los trabajadores a través de la API | 2 |
-| 20 | E6-TS120 | Eliminar trabajador | Como desarrollador quiero eliminar trabajadores a través de la API para limpiar datos en la aplicación | 2 |
-| 21 | E6-TS121 | Agregar payment | Como desarrollador quiero agregar un payment a través de la API para registrarlo en la base de datos | 5 |
-| 22 | E6-TS122 | Obtener payments | Como desarrollador quiero obtener información de los payments a través de la API | 3 |
-| 23 | E6-TS123 | Crear financiamiento | Como desarrollador quiero crear datos de financiamiento a través de la API para registrarlos en la base de datos | 5 |
-| 24 | E6-TS124 | Obtener financiamientos | Como desarrollador quiero obtener datos de financiamiento a través de la API para mostrarlos en la aplicación | 3 |
-| 25 | E6-TS125 | Crear producto | Como desarrollador quiero crear productos a través de la API para registrarlos en la base de datos | 5 |
-| 26 | E6-TS126 | Obtener productos | Como desarrollador quiero obtener productos a través de la API para mostrarlos en la aplicación | 3 |
-| 27 | E6-TS127 | Obtener producto por nombre | Como desarrollador quiero obtener productos por nombre a través de la API para mostrarlos en la aplicación | 2 |
-| 28 | E6-TS128 | Editar producto | Como desarrollador quiero editar la información de un producto a través de la API | 3 |
-| 29 | E6-TS129 | Editar cantidad de producto | Como desarrollador quiero editar la cantidad de un producto a través de la API | 2 |
-| 30 | E6-TS130 | Actualizar producto para propietario | Como desarrollador quiero actualizar la información de un producto para su propietario a través de la API | 3 |
-| 31 | E6-TS131 | Crear suscripción | Como desarrollador quiero crear suscripciones a través de la API para registrarlas en la base de datos | 5 |
-| 32 | E6-TS132 | Obtener suscripciones | Como desarrollador quiero obtener información de suscripciones a través de la API | 3 |
-| 33 | E6-TS133 | Renovar suscripción | Como desarrollador quiero renovar suscripciones a través de la API para mantenerlas activas | 2 |
-| 34 | E6-TS134 | Actualizar plan de suscripción | Como desarrollador quiero actualizar el plan de una suscripción a través de la API | 3 |
+![Product Backlog](./assets/images/chapter-3/Product_Backlog.png)
+| # Orden | User Story Id | Título | Descripción | Story Points |
+|--------:|---------------|--------|-------------|-------------:|
+| 1 | E1-US101 | Barra de navegación en landing page | Como visitante quiero una barra de navegación en el landing page para tener accesos directos a la información de la aplicación. | 3 |
+| 2 | E1-US102 | Sección hero de landing page | Como visitante quiero visualizar una sección hero en el landing page para tener una idea sobre lo que ofrece la aplicación. | 5 |
+| 3 | E1-US103 | Sección de características del producto | Como visitante quiero visualizar características de la aplicación en el landing page para saber sobre las características que ofrece. | 2 |
+| 4 | E1-US104 | Sección de testimonios en landing page| Como visitante quiero visualizar testimonios de usuarios que utilizaron la aplicación para saber experiencias reales. | 3 |
+| 5 | E1-US105 | Sección de planes en landing page| Como visitante quiero visualizar los planes que ofrece la aplicación para considerar adquirir la membresía. | 5 |
+| 6 | E1-US106 | Sección de footer a la aplicación en landing page | Como visitante quiero visualizar la sección de footer para acceder a links de la página. | 2 |
+| 7 | E1-US107 | Sección para conocer al equipo de trabajo | Como visitante quiero conocer más sobre el equipo que desarrolla la aplicación para adquirir confianza. | 3 |
+| 8 | E2-US101 | Registro e inicio de sesión | Como usuario quiero tener en la app un apartado de inicio de sesión para que se guarde mi información y pueda registrarme. | 5 |
+| 9 | E2-US102 | Formulario de login | Como usuario de la página web quiero ingresar con mi cuenta registrada para usar las herramientas a mi disposición. | 3 |
+| 10 | E2-US103 | Recuperación de contraseñas | Como usuario quiero recuperar mi contraseña en caso de olvido para ingresar a mi cuenta. | 8 |
+| 11 | E3-US101 | Crear campos de cultivo | Como productor agrícola quiero crear campos de cultivo para monitorear fácilmente el proceso agrícola del campo. | 5 |
+| 12 | E3-US102 | Barra de navegación del productor agricola| Como productor agrícola quiero una barra de navegación para tener accesos directos a la información de la web app. | 3 |
+| 13 | E3-US103 | Pantalla de inicio del proceso agrícola | Como productor agrícola quiero visualizar todos los registros de mis cultivos para ver fácilmente su progreso. | 5 |
+| 14 | E3-US104 | Programación de fecha de riego | Como productor agrícola quiero programar fechas de riego para mejorar el cuidado de los cultivos. | 2 |
+| 15 | E3-US105 | Compra de productos para cultivos | Como productor agrícola quiero realizar compras online para usarlas en mis cultivos. | 3 |
+| 16 | E3-US106 | Programación de fechas de tratamiento | Como productor agrícola quiero programar fechas de fumigación y fertilización para cuidar los cultivos. | 5 |
+| 17 | E3-US107 | Recolección de la cosecha | Como productor agrícola quiero registrar la recolección (fecha, peso, precio/kg) para ver la productividad. | 3 |
+| 18 | E3-US108 | Análisis financiero de los cultivos | Como productor agrícola quiero un análisis financiero para visualizar la utilidad del trabajo elaborado. | 8 |
+| 19 | E3-US109 | Delegación de acceso | Como productor agrícola quiero dar acceso a un técnico para que me ayude a gestionar sensores y riegos. | 2 |
+| 20 | E3-US110 | Consulta de lecturas | Como productor agrícola quiero ver la humedad y temperatura del suelo por parcela y zona para decidir cuándo regar. | 3 |
+| 21 | E3-US111 | Consumo de agua por parcela | Como productor agrícola quiero ver cuánto agua he consumido en cada parcela para medir eficiencia. | 5 |
+| 22 | E4-US101 | Pantalla de inicio del distribuidor | Como distribuidor quiero gestionar mi tienda virtual para administrar inventario y precios. | 5 |
+| 23 | E4-US102 | Crear productos en la tienda | Como distribuidor quiero crear productos en la tienda virtual para poder venderlos. | 3 |
+| 24 | E4-US103 | Análisis de producto de la tienda | Como distribuidor quiero analizar productos y disponibilidad para optimizar compras y ventas. | 5 |
+| 25 | E4-US104 | Análisis financiero de la tienda | Como distribuidor quiero un análisis financiero para visualizar la utilidad de mi tienda. | 8 |
+| 26 | E4-US105 | Ofertas de la tienda de distribuidores | Como distribuidor quiero crear ofertas para captar el interés de mi público. | 3 |
+| 27 | E5-US101 | Preferencia de idioma | Como usuario quiero configurar preferencias de idioma para utilizar la app según mi preferencia. | 2 |
+| 28 | E5-US102 | Página no encontrada (404) | Como usuario quiero ser informado si una página no existe para volver al inicio. | 1 |
+| 29 | E6-TS101 | Crear API Fake | Como desarrollador quiero crear una API fake para poder avanzar el desarrollo de la web app | 2 |
+| 30 | E6-TS102 | Registrar usuario vía APIRESTful | Como desarrollador quiero registrar al usuario a través de la API para persistir su información en la base de datos | 5 |
+| 31 | E6-TS103 | Iniciar sesión de usuario | Como desarrollador quiero logear al usuario a través de la API para brindarle acceso a la aplicación | 3 |
+| 32 | E6-TS104 | Obtener información del usuario | Como desarrollador quiero obtener información del usuario a través de la API para mostrar los datos en la aplicación | 3 |
+| 33 | E6-TS105 | Crear campo | Como desarrollador quiero crear un campo a través de la API para registrarlo en la base de datos | 5 |
+| 34 | E6-TS106 | Obtener campos | Como desarrollador quiero obtener la información de los campos a través de la API para mostrar los datos en la aplicación | 3 |
+| 35 | E6-TS107 | Eliminar campo | Como desarrollador quiero eliminar la información del campo a través de la API para eliminar los datos en la aplicación | 2 |
+| 36 | E6-TS108 | Editar campo | Como desarrollador quiero editar la información del campo a través de la API para modificar datos en la aplicación | 3 |
+| 37 | E6-TS109 | Crear proceso agrícola | Como desarrollador quiero crear el proceso agrícola a través de la API para registrarlo en la base de datos | 5 |
+| 38 | E6-TS110 | Crear actividad en proceso agrícola | Como desarrollador quiero crear actividades agrícolas a través de la API para registrarlas en la base de datos | 8 |
+| 39 | E6-TS111 | Crear recurso en actividad | Como desarrollador quiero crear recursos en una actividad a través de la API para registrarlos en la base de datos | 5 |
+| 40 | E6-TS112 | Obtener procesos por campo | Como desarrollador quiero obtener la información del proceso agrícola por campo a través de la API | 3 |
+| 41 | E6-TS113 | Obtener proceso por ID | Como desarrollador quiero obtener la información de un proceso agrícola por identificador a través de la API | 2 |
+| 42 | E6-TS114 | Obtener actividades por proceso | Como desarrollador quiero obtener la información de la actividad agrícola a través de la API | 3 |
+| 43 | E6-TS115 | Obtener última actividad | Como desarrollador quiero obtener la información de la última actividad agrícola a través de la API | 2 |
+| 44 | E6-TS116 | Terminar plantación | Como desarrollador quiero terminar la plantación a través de la API para registrarlo en la base de datos | 5 |
+| 45 | E6-TS117 | Editar actividad agrícola | Como desarrollador quiero editar la información de una actividad a través de la API para actualizar datos en la aplicación | 3 |
+| 46 | E6-TS118 | Agregar trabajador | Como desarrollador quiero agregar un trabajador a través de la API para registrarlo en la base de datos | 3 |
+| 47 | E6-TS119 | Obtener trabajadores | Como desarrollador quiero obtener información de los trabajadores a través de la API | 2 |
+| 48 | E6-TS120 | Eliminar trabajador | Como desarrollador quiero eliminar trabajadores a través de la API para limpiar datos en la aplicación | 2 |
+| 49 | E6-TS121 | Agregar payment | Como desarrollador quiero agregar un payment a través de la API para registrarlo en la base de datos | 5 |
+| 50 | E6-TS122 | Obtener payments | Como desarrollador quiero obtener información de los payments a través de la API | 3 |
+| 51 | E6-TS123 | Crear financiamiento | Como desarrollador quiero crear datos de financiamiento a través de la API para registrarlos en la base de datos | 5 |
+| 52 | E6-TS124 | Obtener financiamientos | Como desarrollador quiero obtener datos de financiamiento a través de la API para mostrarlos en la aplicación | 3 |
+| 53 | E6-TS125 | Crear producto | Como desarrollador quiero crear productos a través de la API para registrarlos en la base de datos | 5 |
+| 54 | E6-TS126 | Obtener productos | Como desarrollador quiero obtener productos a través de la API para mostrarlos en la aplicación | 3 |
+| 55 | E6-TS127 | Obtener producto por nombre | Como desarrollador quiero obtener productos por nombre a través de la API para mostrarlos en la aplicación | 2 |
+| 56 | E6-TS128 | Editar producto | Como desarrollador quiero editar la información de un producto a través de la API | 3 |
+| 57 | E6-TS129 | Editar cantidad de producto | Como desarrollador quiero editar la cantidad de un producto a través de la API | 2 |
+| 58 | E6-TS130 | Actualizar producto para propietario | Como desarrollador quiero actualizar la información de un producto para su propietario a través de la API | 3 |
+| 59 | E6-TS131 | Crear suscripción | Como desarrollador quiero crear suscripciones a través de la API para registrarlas en la base de datos | 5 |
+| 60 | E6-TS132 | Obtener suscripciones | Como desarrollador quiero obtener información de suscripciones a través de la API | 3 |
+| 61 | E6-TS133 | Renovar suscripción | Como desarrollador quiero renovar suscripciones a través de la API para mantenerlas activas | 2 |
+| 62 | E6-TS134 | Actualizar plan de suscripción | Como desarrollador quiero actualizar el plan de una suscripción a través de la API | 3 |
 
 
 # Capítulo IV: Solution Software Design
