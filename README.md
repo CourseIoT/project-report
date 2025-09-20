@@ -1037,10 +1037,95 @@ Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 
 # Capítulo IV: Solution Software Design
 ## 4.1. Strategic-Level Domain-Driven Design
+
+En esta sección se detalla el enfoque de Diseño Dirigido por el Dominio (DDD) a nivel estratégico aplicado a AgroControl, con alcance exclusivo en la solución IoT para sensado de cultivos y automatización de riego. Este enfoque establece una base sólida para delimitar y modelar los dominios clave del sistema telemetría, reglas de automatización y operación de dispositivos garantizando que la arquitectura refleje la realidad operativa en campo. Mediante Event Storming y Context Mapping identificamos eventos críticos y Bounded Contexts y definimos sus relaciones. 
+
 ### 4.1.1. Design-Level EventStorming
+
+El EventStorming es un enfoque colaborativo y visual que utilizamos para modelar el dominio IoT de AgroControl. Esta técnica nos permitió identificar los eventos clave, comandos, políticas y demás elementos que describen el flujo del sistema desde el campo (sensores y actuadores) hasta la plataforma.
+
 #### 4.1.1.1. Candidate Context Discovery
+
+Empleamos EventStorming con enfoque start-with-simple para identificar los contextos candidatos del sistema IoT de AgroControl (desde sensores/actuadores en campo hasta la plataforma).
+
+Identificación de Valores del Negocio
+- Ahorro de agua y energía mediante riego preciso.
+- Respuesta oportuna ante sequía/exceso de riego (alertas y automatización).
+- Continuidad operativa con conectividad intermitente (store-and-forward).
+- Trazabilidad y auditoría de lecturas y comandos.
+- Seguridad preventiva ante situaciones de riesgo
+- Productividad del productor (menos desplazamientos/manualidad).
+
+
+Identificación de Funcionalidades Clave
+- Adquisición/calibración de sensores: humedad de suelo, temp./HR ambiental, temp. de suelo.
+- Reglas de riego y emisión de comandos a válvulas/bombas con confirmación.
+- Alertas y notificaciones.
+- Gestión de dispositivos.
+
+1. Soil Sensing & Sensor Management
+
+![Candidate](./assets/images/chapter-4/candidate1.png)
+
+2. Irrigation Control & Automation
+
+![Candidate](./assets/images/chapter-4/candidate2.png)
+
+3. Producer Profile & Access Management
+
+![Candidate](./assets/images/chapter-4/candidate3.png)
+
+4. Alert & Notification
+
+![Candidate](./assets/images/chapter-4/candidate4.png)
+
+5. Agronomic Analytics (Environment Analytics)
+
+![Candidate](./assets/images/chapter-4/candidate5.png)
+
 #### 4.1.1.2. Domain Message Flows Modeling
+
+En este apartado presentamos los flujos entre los diferentes contextos delimitados de AgroControl, modelando las interacciones clave que ocurren durante escenarios del sistema.
+
+Escenario 1: Registro de productor y alta de parcela/dispositivos
+
+![Escenario](./assets/images/chapter-4/escenario1.png)
+
+Escenario 2: Monitoreo rutinario y riego automatizado
+
+![Escenario](./assets/images/chapter-4/escenario2.png)
+
+Escenario 3: Riego manual autorizado desde la app
+
+![Escenario](./assets/images/chapter-4/escenario3.png)
+
+Escenario 4: Conectividad intermitente con store-and-forward
+
+![Escenario](./assets/images/chapter-4/escenario4.png)
+
+
 #### 4.1.1.3. Bounded Context Canvases
+
+1. Bounded Context: Irrigation Control & Automation 
+
+![Canvas](./assets/images/chapter-4/canva-Irrigation Control & Automation.png)
+
+2. Bounded Context: Soil Sensing & Sensor Management 
+
+![Canvas](./assets/images/chapter-4/canva-Soil Sensing & Sensor Management.png)
+
+3. Bounded Context: Alert & Notification 
+
+![Canvas](./assets/images/chapter-4/canva-Alert & Notification.png)
+
+4. Bounded Context: Producer Profile & Access Management 
+
+![Canvas](./assets/images/chapter-4/canva-Producer Profile & Access Management.png)
+
+5. Bounded Context: Agronomic Analytics (Environment Analytics) 
+
+![Canvas](./assets/images/chapter-4/canva-Agronomic Analytics.png)
+
 ### 4.1.2. Context Mapping
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
