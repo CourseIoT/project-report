@@ -2120,6 +2120,19 @@ El diagrama de este contexto muestra las relaciones entre las tablas datasets, a
 
 # Conclusiones
 ### Conclusiones y recomendaciones
+
+Enfoque centrado en valor y usuarios. AgroControl define con claridad el problema agrícola y valida necesidades con Lean UX y modelado del dominio, conectando telemetría IoT con decisiones de riego que ahorran agua y elevan productividad.
+
+
+El reporte define claramente la startup, misión y el problema del sector, y documenta procesos Lean UX, dejando una base de valor y enfoque de usuarios desde el inicio.
+
+
+El equipo aterriza lo aprendido en artefactos accionables (user stories, impact mapping y backlog), creando trazabilidad directa desde necesidades hasta plan de entrega.
+
+
+Se aplicó DDD , lo que reduce acoplamiento y facilita la evolución e implementación de AgroControl. Además, el informe evidencia el logro del Student Outcome ABET sobre trabajo en equipo.
+
+
 ### Video About-the-Team
   
 ---  
