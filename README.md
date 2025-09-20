@@ -703,7 +703,33 @@ Segmento Distribuidores Agrícolas:
 
 
 ### 2.2.3. Análisis de entrevistas
-## 2.3. NeedfindinSg
+
+Análisis de Entrevistas
+
+En esta sección se analizan las características comunes identificadas en las entrevistas realizadas a productores agrícolas y distribuidores, con el objetivo de construir arquetipos representativos de cada segmento. Se presentan estadísticas que sustentan estas observaciones, haciendo énfasis en las características objetivas y subjetivas.
+
+**Segmento: Productores Agrícolas**
+
+- El 100% de los entrevistados enfrenta dificultades relacionadas con factores ambientales y el riego, como sequías, exceso de agua, humedad y fumigación. Esto refleja que el control del agua y las condiciones del entorno es uno de los principales retos en la agricultura actual.
+
+- El 100% de los entrevistados considera que parámetros como el clima, la calidad del suelo, el pH, las sales, la radiación solar y la temperatura son determinantes para el desarrollo de los cultivos. Existe plena conciencia de que los factores ambientales y químicos impactan directamente en la productividad.
+
+- El 100% de los entrevistados manifestó estar dispuesto a adoptar soluciones tecnológicas, mostrando apertura al cambio y disposición a modernizar sus procesos. Se destacó el interés en herramientas que permitan automatizar, recibir alertas a distancia y mejorar el ciclo de vida de los cultivos.
+
+- El 66% de los entrevistados actualmente utiliza herramientas agrícolas tradicionales como mochilas a motor o sistemas básicos de riego, aunque reconocen que estas resultan insuficientes para enfrentar los retos actuales. Esto refleja una brecha tecnológica y una oportunidad clara para soluciones IoT.
+
+**Segmento: Distribuidores**
+
+- El 100% de los entrevistados enfrenta dificultades en la gestión de inventario, ya sea por el manejo de grandes volúmenes de productos agrícolas y alimenticios o por la necesidad de equilibrar la oferta y la demanda. Esto evidencia que la precisión en los registros y la organización del inventario es uno de los principales retos en la cadena de distribución.
+
+- El 100% de los entrevistados manifestó interés en adoptar soluciones basadas en IoT, destacando el valor de integrar sensores y sistemas inteligentes que permitan automatizar registros, sincronizar ventas e inventarios en tiempo real y centralizar la información en una sola plataforma.
+
+- El 100% de los entrevistados resaltó la importancia de contar con herramientas de análisis y trazabilidad. Por un lado, se busca identificar las zonas con mayor concentración de ventas y registrar incidentes en la distribución mediante geolocalización y sensores; por otro, se prioriza el acceso a reportes detallados de ventas, análisis de márgenes y tendencias de consumo.
+
+- El 100% de los entrevistados expresó que estas soluciones deben contribuir a optimizar la logística, mejorar la seguridad y facilitar la toma de decisiones estratégicas. Existe una expectativa clara de que la tecnología no solo resuelva problemas operativos, sino que también genere mayor eficiencia y rentabilidad en sus negocios.
+
+
+## 2.3. Needfinding
 ### 2.3.1. User Personas
 
 En esta sección se presentarán las fichas de User Persona, las cuales son representaciones ficticias de los usuarios basadas en los hallazgos obtenidos a partir de las entrevistas realizadas. Estas fichas se centran en los segmentos objetivos identificados, incluyendo productores agrícolas y distribuidores. La elaboración de estas User Personas se fundamenta en el análisis de las características comunes y necesidades detectadas en las entrevistas, así como en la observación de la competencia. Al comprender mejor a nuestros usuarios, podremos diseñar soluciones más efectivas y alineadas con sus expectativas y desafíos, lo que resulta fundamental para el desarrollo de nuestra aplicación. Cada ficha incluirá detalles sobre las características demográficas, motivaciones, frustraciones y necesidades específicas de cada arquetipo, asegurando que nuestras decisiones de diseño se basen en información relevante y real.
