@@ -689,6 +689,18 @@ Segmento Distribuidores Agrícolas:
 | Foto entrevista                           | <img width="1861" height="1010" alt="Image" src="https://github.com/user-attachments/assets/2bd18d87-3e56-4906-adfa-db3ccbbdf7a3" />  |
 | Resumen                                   |  El señor William Ramos, un distribuidor agrícola de 28 años en Perú, nos compartió algunos de los desafíos que enfrenta en su labor diaria. Señaló que uno de sus mayores retos es manejar de manera eficiente el inventario de semillas, fumigantes y fertilizantes, especialmente cuando debe organizar pedidos por región y periodo de tiempo. Manifestó interés en adoptar soluciones basadas en Iot que le permitan digitalizar y automatizar el registro de productos, gastos e ingresos, así como clasificar fácilmente los distintos insumos agrícolas en una sola plataforma. Además, comentó que sería de gran valor contar con herramientas de trazabilidad en tiempo real, que integren sensores y geolocalización para conocer en qué zonas concentra más ventas y registrar automáticamente incidentes durante la distribución, como rupturas o robos. De esta manera, busca optimizar la logística, mejorar la seguridad de su operación y obtener información más precisa para la toma de decisiones.       |
 
+| **Entrevista 2**                          | **Detalle** | 	            
+|-------------------------------------------|-------------|
+| Nombre entrevistado                       | Jorge Gonzales      | 
+| Edad                                      | 52                 |
+| Profesión                                 | Distribuidor agricola |
+| Departamento                              | Lima            |
+| Inicio del video                          | 43:12           |
+| Fin del video                             | 49:14           |
+| Link del video                            | https://shorturl.at/gULis            |
+| Foto entrevista                           | <img width="747" height="420" alt="Image" src="https://github.com/user-attachments/assets/3b1193cc-b348-4d11-9350-b9c7c061f20d" />  |
+| Resumen                                   |  El señor Jorge Gonzales, un distribuidor de 52 años en el sector de productos alimenticios, nos compartió algunos de los desafíos que enfrenta en su actividad. Señaló que uno de sus principales retos es mantener un equilibrio adecuado entre la oferta y la demanda, evitando tanto el exceso como la escasez de inventario, además de garantizar precisión en los registros. Manifestó interés en soluciones basadas en Internet of Things (IoT) que le permitan integrar sensores y sistemas inteligentes para sincronizar automáticamente los datos de ventas e inventario en tiempo real, asegurando mayor agilidad y confiabilidad en sus procesos. Asimismo, destacó la importancia de contar con una plataforma tecnológica intuitiva y adaptable que incorpore reportes detallados, análisis de márgenes de beneficio y tendencias de ventas, de manera que pueda tomar decisiones estratégicas más rápidas y fundamentadas para mejorar la eficiencia y rentabilidad de su operación.       |
+
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. NeedfindinSg
