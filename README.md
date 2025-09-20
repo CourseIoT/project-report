@@ -1191,7 +1191,7 @@ El diagrama de componentes muestra cómo la aplicación móvil (usada por el pro
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.
 La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
 
-![alt text](./assets/img/subscription.png)
+![Soil Sensing & Sensor Management class diagram](./assets/images/chapter-4/bc1-classDiagram.jpg)
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram.
 El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
@@ -1392,7 +1392,7 @@ El diagrama de componentes muestra cómo la aplicación móvil accede a los endp
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.
 La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
 
-![alt text](./assets/img/subscription.png)
+![Irrigation Control & Automation class diagram](./assets/images/chapter-4/bc2-classDiagram.png)
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram.
 El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
@@ -1599,7 +1599,8 @@ El diagrama de componentes muestra cómo la aplicación móvil y la aplicación 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.
 La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
 
-![alt text](./assets/img/subscription.png)
+![Producer Profile & Access Management class diagram](./assets/images/chapter-4/bc3-classDiagram.png)
+
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram.
 El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
