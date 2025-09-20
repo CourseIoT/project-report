@@ -633,6 +633,27 @@ Preguntas complementarias distribuidores:
 - ¿Qué tan necesario es que el sistema se integre con tu software actual de inventario o facturación?
 
 ### 2.2.2. Registro de entrevistas
+
+Segmento Productor Agricola:
+
+| **Entrevista 1**                          | **Detalle** | 	            
+|-------------------------------------------|-------------|
+| Nombre entrevistado                       | Nicolas Vera    | 
+| Edad                                      | 22              |
+| Profesión                                 | Estudiante y productor agricola           |
+| Departamento                              | Lima            |
+| Inicio del video                          | 0:10            |
+| Fin del video                             |  5:50           |
+| Link del video                            | https://rb.gy/xs39p5            |
+| Foto entrevista                           | <img width="1913" height="1071" alt="Image" src="https://github.com/user-attachments/assets/44c1e4b5-be78-4c37-8582-249eb460bc31" />  |
+| Resumen                                   |  Nicolás Vera enfrenta problemas en sus cultivos debido a sequías, exceso de agua y la dificultad de controlar adecuadamente los tiempos de riego, ya que estudia en Lima y depende de un encargado para supervisar el campo. Considera factores clave como el pH, las sales, la radiación solar y las temperaturas para el desarrollo de las plantas, y manifiesta interés en una solución tecnológica que le permita automatizar procesos y recibir alertas a distancia para optimizar el manejo de sus cultivos. Está dispuesto a invertir en dicha solución siempre que represente una mejora en la producción y contribuya a la reducción de costos.           |
+
+
+
+
+Segmento Distribuidores Agrícolas:
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. NeedfindinSg
 ### 2.3.1. User Personas
