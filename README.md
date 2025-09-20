@@ -1189,7 +1189,8 @@ El diagrama de componentes muestra cómo la aplicación móvil (usada por el pro
 
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.
-La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+El diagrama de clases representa el dominio del monitoreo y la gestión de sensores en el campo. Incluye el agregado Sensor, que simboliza un dispositivo físico, y el SensorReading, una entidad que registra las lecturas de datos de ese sensor. Las interfaces ISensorCommandService y ISensorQueryService orquestan los comandos para registrar y actualizar sensores, y las consultas para obtener su información y la de sus lecturas. Los repositorios, como ISensorRepository e ISensorReadingRepository, se encargan de la persistencia de los datos del sensor y de sus lecturas, garantizando que el sistema tenga un control preciso y eficiente sobre el flujo de datos ambientales desde el campo.
+
 
 ![Soil Sensing & Sensor Management class diagram](./assets/images/chapter-4/bc1-classDiagram.jpg)
 
@@ -1390,7 +1391,7 @@ El diagrama de componentes muestra cómo la aplicación móvil accede a los endp
 
 
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.
-La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+El diagrama de clases muestra el dominio de la gestión de riego agrícola. Incluye el IrrigationDevice, que representa un dispositivo físico en el campo, el IrrigationSchedule, que define un plan de riego automático, y el IrrigationEvent, que registra una ejecución de riego. El IIrrigationCommandService y el IIrrigationQueryService manejan las operaciones de comando y consulta, como el registro de dispositivos y la obtención de historial. Los repositorios, como IIrrigationDeviceRepository e IIrrigationScheduleRepository, gestionan la persistencia de estos agregados, lo que permite un control completo de la automatización del riego.
 
 ![Irrigation Control & Automation class diagram](./assets/images/chapter-4/bc2-classDiagram.png)
 
@@ -1597,7 +1598,7 @@ El diagrama de componentes muestra cómo la aplicación móvil y la aplicación 
 
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.
-La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+Este diagrama describe la interacción entre los servicios y repositorios que manejan los perfiles de los productores y sus accesos. El ProducerProfile es el agregado central que contiene la información del productor, mientras que el UserAccount gestiona las credenciales y roles de acceso. El AuditLog registra las acciones realizadas por los usuarios. Los CommandServices y QueryServices correspondientes facilitan las operaciones de registro, actualización y consulta. Los repositorios IProducerRepository, IUserAccountRepository y IAuditLogRepository se encargan de la persistencia de estos datos, garantizando la seguridad y la trazabilidad de las acciones en la plataforma.
 
 ![Producer Profile & Access Management class diagram](./assets/images/chapter-4/bc3-classDiagram.png)
 
@@ -1802,9 +1803,10 @@ El diagrama de componentes muestra cómo otros servicios, como el Sensor Managem
 
 
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams.
-La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+La imagen muestra un diagrama de clases que describe el dominio de la gestión de alertas y notificaciones. El Alert es el agregado principal, representando una alerta del sistema con su tipo, gravedad y estado. El Notification es el agregado que gestiona el envío de una alerta a través de canales específicos como SMS o correo electrónico. El IAlertCommandService y el INotificationCommandService manejan la lógica para generar alertas y enviar notificaciones. El IAlertQueryService y el INotificationQueryService se encargan de las consultas, mientras que los repositorios gestionan la persistencia. Esto asegura que el sistema pueda notificar a los productores de forma eficiente y fiable ante eventos críticos.
 
-![alt text](./assets/img/subscription.png)
+![Alert & Notification class diagram](./assets/images/chapter-4/bc4-classDiagram.png)
+
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram.
 El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
@@ -1994,9 +1996,9 @@ El diagrama de componentes muestra cómo la aplicación web, utilizada por admin
 
 #### 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams.
 ##### 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.
-La imagen muestra un diagrama de clases que describe la interacción entre los servicios y repositorios de suscripciones y pagos. Incluye **ISubscriptionRepository**, que maneja las operaciones de suscripciones como búsqueda y actualización, y **ISubscriptionCommandService**, que gestiona comandos para crear, cancelar, activar o expirar suscripciones. **ISubscriptionQueryService** se encarga de consultar información de suscripciones, mientras que **Payment** representa los detalles de los pagos. **IPaymentRepository**, **IPaymentCommandService**, y **IPaymentQueryService** gestionan operaciones similares para los pagos, como su creación, actualización y consulta, garantizando que el sistema pueda manejar tanto suscripciones como pagos de manera independiente y eficiente.
+Este diagrama representa el contexto delimitado de la analítica agronómica. El Dataset es el agregado que encapsula los datos crudos recolectados de sensores o APIs. El AnalysisReport es el agregado que contiene el resumen y las recomendaciones generadas a partir de estos datos. La Prediction es el agregado que representa los resultados de un modelo predictivo. Los CommandServices gestionan la ingesta de datos, la generación de reportes y la ejecución de predicciones. Los QueryServices se encargan de las consultas, y los repositorios, como IDatasetRepository, persisten cada uno de estos agregados, lo que permite al sistema procesar y presentar información valiosa para la toma de decisiones agrícolas.
 
-![alt text](./assets/img/subscription.png)
+![Agronomic Analytics class diagram](./assets/images/chapter-4/bc5-classDiagram.png)
 
 ##### 4.2.5.6.2. Bounded Context Database Design Diagram.
 El diagrama muestra las relaciones entre las tablas **sensors**, **subscriptions**, **payments** y **residents**. La tabla **sensors** contiene información sobre los sensores, como tipo, descripción y estado. La tabla **subscriptions** almacena los detalles de las suscripciones, incluyendo las fechas de inicio y fin, el estado de la suscripción, y las relaciones con los sensores y residentes. La tabla **payments** registra los pagos realizados, con datos como el monto, el método de pago, el estado, la fecha de pago y su relación con la suscripción correspondiente. Finalmente, **residents** contiene los datos de los residentes, como nombre, apellido y un ID de perfil relacionado.
