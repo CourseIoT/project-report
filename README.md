@@ -956,19 +956,19 @@ A continuación, se analiza cómo se relacionan nuestras metas de negocios con l
 
 ### Segmento Objetivo: Productor Agricola
 
-![Impact Map Productor 1](./assets/Impact_Map_Productor_1.png)
-![Impact Map Productor 2](./assets/Impact_Map_Productor_2.png)
+![Impact Map Productor 1](./assets/images/chapter-3/Impact_Map_Productor_1.png)
+![Impact Map Productor 2](./assets/images/chapter-3/Impact_Map_Productor_2.png)
 
 ### Segmento Objetivo: Distribuidores
 
-![Impact Map Distribuidor 1](./assets/Impact_Map_Distribuidor_1.png)
-![Impact Map Distribuidor 2](./assets/Impact_Map_Distribuidor_2.png)
+![Impact Map Distribuidor 1](./assets/images/chapter-3/Impact_Map_Distribuidor_1.png)
+![Impact Map Distribuidor 2](./assets/images/chapter-3/Impact_Map_Distribuidor_2.png)
 
 ## 3.3. Product Backlog
 
 Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 
-![Product Backlog](./assets/Product_Backlog.png)
+![Product Backlog](./assets/images/chapter-3/Product_Backlog.png)
 | # Orden | User Story Id | Título | Descripción | Story Points |
 |--------:|---------------|--------|-------------|-------------:|
 | 1 | E1-US101 | Barra de navegación en landing page | Como visitante quiero una barra de navegación en el landing page para tener accesos directos a la información de la aplicación. | 3 |
