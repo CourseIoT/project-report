@@ -1175,6 +1175,8 @@ Escenario 4: Conectividad intermitente con store-and-forward
 
 En AgroControl, Sensing capta los datos del campo y los comparte con el resto. Con esa información, Irrigation decide y ejecuta el riego. Profile & Access es la “fuente de verdad” de usuarios y permisos: autoriza acciones (como riego manual) y entrega preferencias de aviso. Cuando hay algo relevante (inicio/fin de riego, falta de confirmación, sensor caído), Irrigation envía el evento a Alert, que lo comunica al productor por la vía que este eligió (app/SMS). En paralelo, Analytics reúne el historial de lecturas y de riegos para generar métricas e insights. Todos usan los mismos identificadores básicos (productor, parcela, zona) para hablar de lo mismo sin confusiones.
 
+![Context Mapping](./assets/images/chapter-4/cp.jpg)
+
 ### 4.1.3. Software Architecture
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 ![Context Diagram](./assets/images/chapter-4/context-diagram.png)
@@ -1969,6 +1971,8 @@ La imagen muestra un diagrama de clases que describe el dominio de la gestión d
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram.
 Este diagrama de diseño de base de datos detalla la relación entre las tablas alerts y notifications. Cada registro en la tabla alerts representa una alerta generada por el sistema con su tipo y severidad. Cada alerta puede generar una o varias notificaciones, registradas en la tabla notifications mediante el campo alert_id. Las notificaciones contienen información sobre el canal de envío y su estado. Esta estructura garantiza que se puedan gestionar, rastrear y enviar notificaciones de manera eficiente a los productores en respuesta a las alertas.
+
+
 ![Alert & Notification](./assets/images/chapter-4/db4.jpg)
 
 ### 4.2.5. Bounded Context: Agronomic Analytics (Environment Analytics)
@@ -2162,6 +2166,67 @@ Este diagrama representa el contexto delimitado de la analítica agronómica. El
 El diagrama de este contexto muestra las relaciones entre las tablas datasets, analysis_reports y predictions. La tabla datasets almacena los datos ambientales crudos. Las tablas analysis_reports y predictions se basan en estos datos para generar sus respectivos registros. Esto se logra mediante tablas de unión (join tables) que asocian múltiples datasets con un analysis_report o una prediction. Esta arquitectura permite un análisis detallado y la generación de reportes y predicciones, manteniendo la relación de origen con los datos originales.
 ![Agronomic Analytics](./assets/images/chapter-4/db5.jpg)
 
+# Capítulo V: Solution UI/UX Design
+## 5.1. Style Guidelines.
+### 5.1.1. General Style Guidelines.
+
+contenido
+
+### 5.1.2. Web, Mobile and IoT Style Guidelines.
+
+contenido
+
+## 5.2. Information Architecture.
+### 5.2.1. Organization Systems.
+
+contenido
+
+### 5.2.2. Labeling Systems.
+
+contenido
+
+### 5.2.3. SEO Tags and Meta Tags
+
+contenido
+
+### 5.2.4. Searching Systems.
+
+contenido
+
+### 5.2.5. Navigation Systems.
+
+contenido
+
+## 5.3. Landing Page UI Design.
+### 5.3.1. Landing Page Wireframe.
+
+contenido
+
+### 5.3.2. Landing Page Mock-up.
+
+contenido
+
+## 5.4. Applications UX/UI Design.
+### 5.4.1. Applications Wireframes.
+
+contenido
+
+### 5.4.2. Applications Wireflow Diagrams.
+
+contenido
+
+### 5.4.2. Applications Mock-ups.
+
+contenido
+
+### 5.4.3. Applications User Flow Diagrams.
+
+contenido
+
+## 5.5. Applications Prototyping.
+
+contenido
+
 
 # Conclusiones
 ### Conclusiones y recomendaciones
@@ -2181,3 +2246,5 @@ Se aplicó DDD , lo que reduce acoplamiento y facilita la evolución e implement
 ### Video About-the-Team
   
 ---  
+
+# Bibliografía
