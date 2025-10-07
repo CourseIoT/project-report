@@ -2209,7 +2209,34 @@ contenido
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
 
-contenido
+En esta sección, se presentan los wireframes de nuestra aplicación en la herramienta Figma.
+
+Link: 
+
+#### Application web wireframes
+
+![Wireframe-Web-1](./assets/images/chapter-5/wireframe/web/Registro.png)
+![Wireframe-Web-2](./assets/images/chapter-5/wireframe/web/SignUpView.png)
+![Wireframe-Web-3](./assets/images/chapter-5/wireframe/web/Home-Agro.png)
+![Wireframe-Web-4](./assets/images/chapter-5/wireframe/web/Home-Fields1-Agro.png)
+![Wireframe-Web-5](./assets/images/chapter-5/wireframe/web/NewField2-Form.png)
+![Wireframe-Web-6](./assets/images/chapter-5/wireframe/web/Home-Field.png)
+![Wireframe-Web-7](./assets/images/chapter-5/wireframe/web/Planting2-Form.png)
+![Wireframe-Web-8](./assets/images/chapter-5/wireframe/web/Home-Field%20(1).png)
+![Wireframe-Web-9](./assets/images/chapter-5/wireframe/web/Irrigation-list.png)
+![Wireframe-Web-10](./assets/images/chapter-5/wireframe/web/Irrigation-Form.png)
+![Wireframe-Web-11](./assets/images/chapter-5/wireframe/web/Fumigation-list.png)
+![Wireframe-Web-12](./assets/images/chapter-5/wireframe/web/Fertilizers-Form.png)
+![Wireframe-Web-13](./assets/images/chapter-5/wireframe/web/Workers-list.png)
+![Wireframe-Web-14](./assets/images/chapter-5/wireframe/web/Planting2-Form%20(1).png)
+![Wireframe-Web-15](./assets/images/chapter-5/wireframe/web/Harvest-Agro.png)
+![Wireframe-Web-16](./assets/images/chapter-5/wireframe/web/Harvest-Agro-List.png)
+![Wireframe-Web-17](./assets/images/chapter-5/wireframe/web/financiero-Agro.png)
+![Wireframe-Web-18](./assets/images/chapter-5/wireframe/web/financiero-Agro-List.png)
+![Wireframe-Web-19](./assets/images/chapter-5/wireframe/web/Tienda-Agro.png)
+![Wireframe-Web-20](./assets/images/chapter-5/wireframe/web/tienda-Agro%20(1).png)
+
+#### Movil
 
 ### 5.4.2. Applications Wireflow Diagrams.
 
