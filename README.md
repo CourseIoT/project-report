@@ -2260,8 +2260,6 @@ Link: https://lucid.app/lucidchart/92ebd16d-086f-4c61-9fd0-b411cb0042b1/edit?vie
 
 Aplicación web: Diseñamos los wireframes de las pantallas dirigidas a proveedores y agricultores y los ajustamos a los user goals definidos a continuación.
 
-Se pueden visualizar los diagramas mediante los siguientes links:
-
 
 **User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación web.
 
@@ -2322,11 +2320,64 @@ Link: https://www.figma.com/design/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Applicatio
 
 #### Application mobil Mock-ups
 
+![Mockups-Mobil-1](./assets/images/chapter-5/mock-ups/mobil/registro.png)
+![Mockups-Mobil-2](./assets/images/chapter-5/mock-ups/mobil/crear-cuenta.png)
+![Mockups-Mobil-3](./assets/images/chapter-5/mock-ups/mobil/home-field.png)
+![Mockups-Mobil-4](./assets/images/chapter-5/mock-ups/mobil/home-field%20(1).png)
+![Mockups-Mobil-5](./assets/images/chapter-5/mock-ups/mobil/add-field.png)
+![Mockups-Mobil-6](./assets/images/chapter-5/mock-ups/mobil/add-field%20(1).png)
+![Mockups-Mobil-7](./assets/images/chapter-5/mock-ups/mobil/field.png)
+![Mockups-Mobil-8](./assets/images/chapter-5/mock-ups/mobil/add-planting.png)
+![Mockups-Mobil-9](./assets/images/chapter-5/mock-ups/mobil/fumigation.png)
+![Mockups-Mobil-10](./assets/images/chapter-5/mock-ups/mobil/irrigation.png)
+![Mockups-Mobil-11](./assets/images/chapter-5/mock-ups/mobil/add-fumigation.png)
+![Mockups-Mobil-12](./assets/images/chapter-5/mock-ups/mobil/add-irrigation.png)
+![Mockups-Mobil-13](./assets/images/chapter-5/mock-ups/mobil/tienda.png)
 
 
 ### 5.4.4. Applications User Flow Diagrams.
 
-contenido
+Esta sección presenta la propuesta de User Flows. Estos User Flows deben ser consistentes con los Wireflows de los cuales se derivan.
+
+Link: https://lucid.app/lucidchart/92ebd16d-086f-4c61-9fd0-b411cb0042b1/edit?viewport_loc=-3977%2C-3728%2C11418%2C5252%2CqSMXPQDqn49G&invitationId=inv_74964da9-5f6f-427f-8f72-fef503a70077
+
+En este caso los user flow que definimos serian:
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación web.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams.png)
+
+#### Agricultor:
+
+**User goal:** Crear un nuevo campo, como agricultor quiero agregar un nuevo campo para registrar cultivos, programar irrigación, fumigación y añadir fertilizantes
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(1).png)
+
+**User goal:** Programar irrigación para cultivo, como agricultor quiero programar en ciertos periodos de tiempo irrigación para mis cultivos dentro de un campo ya creado.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(2).png)
+
+**User goal:** Programar tratamiento de cultivos, como agricultor quiero programar tratamiento de fertilizante y fumigación para mi cultivo que agregue en mi campo.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(3).png)
+
+#### Proveedores:
+
+**User goal:** Agregar un producto, como proveedor quiero agregar un nuevo producto en la plataforma.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams-provee.png)
+
+
+Aplicación móvil
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación movil.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams-movil.png)
+
+**User goal:** Crear un campo y progrmar irrigación para una plantiación, como agricultor quiero agrear un nuevo campo y prograr un evento de irrigación para una plantiación.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(1)-movil.png)
+
 
 ## 5.5. Applications Prototyping.
 
