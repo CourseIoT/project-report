@@ -2528,6 +2528,34 @@ contenido
 contenido
 
 
+#### FALTA CAP 6.1
+
+
+## 6.2. Landing Page, Services & Applications Implementation  
+### 6.2.1. Sprint 1  
+
+![Image](https://github.com/user-attachments/assets/3e1f643a-d3ca-4ccc-80a0-2765d5e48a50)
+
+#### 6.2.1.1. Sprint Planning 1  
+ 
+
+
+| **Sprint #**                    | Sprint 1                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 15/09/2025                                                                |
+| **Time**                        | 17:30 PM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Harold Mayta                                                               |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo                          |
+| **Sprint Review Summary**       | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Retrospective Summary**| En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la landing page y el despliegue de la misma. Además, durante las diversas reuniones del equipo se determinó el contenido y diseño de la landing page, el cual fue implementado en Figma. Una vez concluido el sprint, la landing debe estar desplegada en GitHub Pages y los usuarios podrán acceder a la misma a través del link. |
+| **Sprint Velocity**             |    8                                                                       |
+| **Sum of Story Points**         | 8 Story points                                                              |
+
+
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
