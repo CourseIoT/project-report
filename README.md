@@ -2297,7 +2297,39 @@ El sistema de etiquetado tiene como objetivo unificar los datos de manera efecti
 
 ### 5.2.3. SEO Tags and Meta Tags
 
-contenido
+Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags para los motores de búsqueda, así mejoraremos la visibilidad de nuestra página y aplicación web.
+
+**Landing Page**
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AgroControl - Gestiona Todo Tu Ciclo Agrícola con Eficiencia</title>
+<meta name="description" content="AgroControl es la solución integral para productores agrícolas. Gestiona fácilmente cada etapa del ciclo agrícola: siembra, riego, tratamientos, cosecha y distribución.">
+<meta name="keywords" content="agricultura inteligente, gestión agrícola, software agrícola, ciclo agrícola, AgroControl, producción agrícola eficiente">
+<meta name="author" content="AgroDevTeam">
+```
+**Web Application**
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AgroControl - Gestiona Todo Tu Ciclo Agrícola con Eficiencia</title>
+<meta name="description" content="AgroControl es la solución integral para productores agrícolas. Gestiona fácilmente cada etapa del ciclo agrícola: siembra, riego, tratamientos, cosecha y distribución.">
+<meta name="keywords" content="agricultura inteligente, gestión agrícola, software agrícola, ciclo agrícola, AgroControl, producción agrícola eficiente">
+<meta name="author" content="AgroDevTeam">
+```
+
+* meta charset="UTF-8": Define la codificación de caracteres para asegurar que todo el contenido se muestre correctamente.
+
+* meta name="viewport" content="width=device-width, initial-scale=1.0": Hace que la página sea adaptable a diferentes dispositivos (responsive design), especialmente móviles.
+
+* title: Es el título que aparecerá en la pestaña del navegador y en los resultados de búsqueda. Resume el propósito de la aplicación.
+
+* meta name="description": Breve descripción que ayuda a los motores de búsqueda a mostrar un resumen claro y atractivo en los resultados.
+
+* meta name="keywords": Palabras clave estratégicas que mejoran el posicionamiento SEO y relacionan tu web con búsquedas relevantes.
+
+* meta name="author": Identifica al autor o equipo de desarrollo del sitio web.
+
 
 ### 5.2.4. Searching Systems.
 
