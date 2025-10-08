@@ -2370,7 +2370,9 @@ El sistema de navegación local se utiliza para permitir a los usuarios moverse 
 
 Enlace al Landing Page: 
 
-https://equipo1-upc202510-366.github.io/DevDynasty-LandingPage/index.html
+[https://equipo1-upc202510-366.github.io/DevDynasty-LandingPage/index.html
+](https://courseiot.github.io/AgroControl-LandingPage/)
+
 
 ### 5.3.1. Landing Page Wireframe.
 En esta sección se presentarán los wireframes de la landing page. Estos wireframes son esquemas de baja fidelidad que muestran la estructura de la página, sin tener en cuenta la paleta de colores ni las imágenes que se utilizarán.
@@ -2378,61 +2380,47 @@ En esta sección se presentarán los wireframes de la landing page. Estos wirefr
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1f8004a1-8c8a-4ba4-962e-c103373aef20" />
+<img width="1243" height="711" alt="Image" src="https://github.com/user-attachments/assets/4de7c43d-cd06-4497-9c7b-f70f7479654e" />
 
 ---
 
-## 2. Agricultores - Wireframe
-Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
+## 2. Features - Wireframe
+Este wireframe muestra los atributos, detalles o especificaciones de nuestro producto o servicio que se describen para destacar sus ventajas y beneficios.
 
-<img width="1440" height="936" alt="Image" src="https://github.com/user-attachments/assets/ae88c418-4018-4689-b1b3-e306c7861f19" />
-
----
-
-## 3. Distribuidores - Wireframe
-En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
-
-<img width="1440" height="936" alt="Image" src="https://github.com/user-attachments/assets/e1e07688-723a-4bc2-8374-c7baa115e992" />
+<img width="1246" height="713" alt="Image" src="https://github.com/user-attachments/assets/c08b1d8e-35b0-437a-abbc-7aabe6715811" />
 
 ---
 
-## 4. Gallery
-Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
+## 3. IoT Integration - Wireframe
+En este wireframe se presenta la página con el servicio que queremos brindar y la solución de iot.
 
-<img width="1440" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a356d9b3-19e5-4576-b353-5d9d4c8dcc2d" />
-
----
-
-## 5. Plan Agricultor
-Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
-
-<img width="1421" height="1130" alt="Image" src="https://github.com/user-attachments/assets/bc0143c9-dc41-477d-adc5-1708babd2d40" />
+<img width="1248" height="715" alt="Image" src="https://github.com/user-attachments/assets/3dde0598-0fdb-4b7a-8f61-e0d1694073c7" />
 
 ---
 
-## 6. Plan Distribuidor
-Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
+## 4. Plans
+Aquí se encuentra la sección de planes, donde se mostrarán diferentes precios de la aplicación o los servicios ofrecidos.
 
-<img width="1440" height="1130" alt="Image" src="https://github.com/user-attachments/assets/f5074f7a-7d0e-49a3-bb0e-9708b524f5f9" />
+<img width="1247" height="717" alt="Image" src="https://github.com/user-attachments/assets/db6e2a49-042e-4296-bac8-c5f479cec713" />
 
 ---
 
-## 7. Testimonial
-La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.  
+## 5. Our Team
+Este wireframe se muestra el equipo desarrollador de esta aplicación o servicio.
 
-<img width="1440" height="944" alt="Image" src="https://github.com/user-attachments/assets/9f2fcdfe-6d2a-4526-97fb-210aefaf8ec5" />
+<img width="1247" height="717" alt="Image" src="https://github.com/user-attachments/assets/8465a67a-224a-42f4-bcc2-efc210c59bd2" />
 
 ---
 
 
-## 8. Contact Us
+## 6. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-<img width="1440" height="648" alt="Image" src="https://github.com/user-attachments/assets/36cdd49d-9dae-4b40-915a-0dead87f5c14" />
+<img width="1251" height="717" alt="Image" src="https://github.com/user-attachments/assets/eb120e8a-8d77-4a39-ba58-b15e96e8d4d4" />
 
 ---
 
-## 9. Footer
+## 7. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
 <img width="1440" height="366" alt="Image" src="https://github.com/user-attachments/assets/dfca2e98-8d5e-4263-925b-ee2cf00a3dd1" />
@@ -2478,9 +2466,7 @@ Este wireframe se muestra el equipo desarrollador de esta aplicación o servicio
 ---
 
 
-
-
-## 8. Contact Us
+## 6. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
 ![Image](https://github.com/user-attachments/assets/692a91c3-7a7f-447a-8bd7-58d90799f29c)
