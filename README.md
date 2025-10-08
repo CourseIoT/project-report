@@ -2566,6 +2566,22 @@ contenido
 | E1-US008 Cambio de idioma         | W08 Language switch for the Landing Page          | Implementar el botón para la opción de lenguaje.       | 0.5                    | Harold          | Done                     |
 
 
+### 6.2.1.3. Development Evidence for Sprint Review.
+![Image](https://github.com/user-attachments/assets/083d255f-9c28-4f9c-9fa5-7b356018bd51)
+
+### 6.2.1.4. Execution Evidence for Sprint Review.
+![Image](https://github.com/user-attachments/assets/7bbf576f-a181-4d56-8a37-4eb647c136cc)
+
+### 6.2.1.5. Services Documentation Evidence for Sprint Review.
+<img width="1895" height="566" alt="Image" src="https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf" />
+
+### 6.2.1.6. Software Deployment Evidence for Sprint Review.
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+### 6.2.1.7. Team Collaboration Insights during Sprint.
+<img width="757" height="888" alt="Image" src="https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3" />
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
