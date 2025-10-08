@@ -2582,6 +2582,33 @@ contenido
 <img width="757" height="888" alt="Image" src="https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3" />
 
 
+
+### 6.2.2. Sprint 2
+
+<img src="https://imgur.com/qDSnzzw.jpg" style="width: 1200px;"/>  
+
+Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)  
+
+#### 6.2.2.1. Sprint Planning 2
+En el siguiente apartado, se presentará el sprint planning 2, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
+
+
+| **Sprint #**                    | Sprint 2                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 01/10/2025                                                                |
+| **Time**                        | 10:30 AM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Harold Mayta                                                               |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo                          |
+| **Sprint Review Summary**       | Se logró implementar el landing page y se desplegó en Vercel |
+| **Sprint Retrospective Summary**| En este sprint como equipo logramos desplegar la landing page de forma adecuada  debido a la correcta division de tareas y el cumplimiento de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con los objetivos para el sprint 2. |
+| **Sprint Goal**                 | En este sprint se planea desarrollar el web application con el framework Flutter y Kotlin, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link |
+| **Sprint Velocity**             |    11                                                                       |
+| **Sum of Story Points**         | 30 Story points                                                              |
+
+
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 
