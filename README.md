@@ -2269,7 +2269,22 @@ contenido
 ## 5.2. Information Architecture.
 ### 5.2.1. Organization Systems.
 
-contenido
+#### Descripción General
+Para garantizar una experiencia de usuario óptima, hemos implementado diferentes sistemas de organización dentro de la interfaz de **AgroControl**. Estos sistemas están diseñados para mejorar la navegabilidad y asegurar que los usuarios encuentren fácilmente la información y las herramientas que necesitan.
+
+#### Tipos de Sistemas de Organización
+
+##### 1. Jerárquico
+El sistema de organización jerárquico se utiliza en la mayoría de las páginas clave de AgroControl. Este sistema estructura el contenido de manera que se distinga el nivel de importancia mediante diferencias físicas como tamaño, color, contraste y alineación. Por ejemplo, los títulos y subtítulos más importantes se presentan en tamaños y colores más destacados.
+
+##### 2. Secuencial
+En las secciones donde los usuarios necesitan seguir un proceso paso a paso, como el registro o la configuración de su cuenta, se emplea un sistema de organización secuencial. Este enfoque guía a los usuarios a través de un camino específico hacia su objetivo, proporcionando el contenido necesario en cada paso del proceso.
+
+##### 3. Matricial
+Para los usuarios que prefieren una navegación más personalizada, se implementa un sistema matricial en áreas específicas, como la búsqueda de artículos en el blog. Este sistema permite a los usuarios elegir cómo desean navegar por el contenido, ya sea de manera alfabética, cronológica o por tema.
+
+#### Aplicación en la Interfaz de AgroControl
+Estos sistemas de organización se combinan de manera efectiva para proporcionar una interfaz intuitiva y accesible. Los usuarios pueden moverse fluidamente por la plataforma, ya sea que estén siguiendo un proceso guiado o explorando el contenido a su manera.
 
 ### 5.2.2. Labeling Systems.
 
