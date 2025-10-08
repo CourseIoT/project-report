@@ -45,7 +45,7 @@ Producto: AgroControl
 ---  
 # Project Report Collaboration Insights
 
-URL del repositorio de GitHub de la organización: [https://github.com/IoT](https://github.com/CourseIoT)
+URL del repositorio de GitHub de la organización: https://github.com/CourseIoT
 
 _TB1_
 
@@ -63,6 +63,22 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ![TB1](assets/images/chapter-1/tb1.png)
 
+_TP1_
+
+Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrutia Vaez, Ricardo Andree       | - Landing Page <br> -  Web Application <br> - capítulo 5 (5.1 - 5.2 - 5.3) |
+| Espinoza Inoñan, Fabiola Ximena     | - Correciones de la entrega anterior <br> - capítulo 6 (6.2.) <br> - capítulo 5 (5.4 5-5)                                                             |
+| Mayta López, Harold                 | - Correciones de la entrega anterior <br> - capítulo 5 (5.4 5-5)                              |
+| Rodriguez Santos, David Bryan       | - Correciones de la entrega anterior <br> - capítulo 6 (6.2.)                                                 |
+| Barrionuevo Reto,  Jean Franco Joel | - capítulo 6 (6.1.) - Ppt de exposición                                                                                                           |
+
+**Evidencia**:
+
+![TB2](assets/images/)
+
 
 ---  
 # Student Outcome
@@ -72,8 +88,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                            | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                  |  
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>  **Mayta Lopez, Harold Jaime**:<br> Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>  **Espinoza Inoñan, Fabiola Ximena**:, <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br>     **Barrutia Vaez, Ricardo Andree**: <br> Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> **Barrionuevo Reto, Jean Franco Joel**: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>                                                                                                                                                                                                                                                                              | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br>**Mayta Lopez, Harold Jaime**: <br> Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>   **Espinoza Inoñan, Fabiola Ximena**:, <br> Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br>   **Barrutia Vaez, Ricardo Andree**: <br> Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> **Barrionuevo Reto, Jean Franco Joel**:  <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> | Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> TB1: <br>Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>TP1: <br>  <br>**Mayta Lopez, Harold Jaime**:<br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>TP1: <br>  <br>  **Espinoza Inoñan, Fabiola Ximena**:<br> TB1: <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br>    TP1: <br>  <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> TP1: <br>  <br>**Barrionuevo Reto, Jean Franco Joel**: <br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>  TP1: <br>                                                                                                                                                                                                                                                                             | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> TB1: <br>Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br> TP1: <br>  <br>**Mayta Lopez, Harold Jaime**: <br> TB1: <br>Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>  TP1: <br>  <br> **Espinoza Inoñan, Fabiola Ximena**:, <br> TB1: <br>Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br> TP1: <br>  <br>  **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> TP1: <br>  <br>**Barrionuevo Reto, Jean Franco Joel**:  <br>TB1: <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> TP1: <br>  <br>| Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
 
 ---  
 # Contenido
@@ -2740,8 +2756,9 @@ Aplicación móvil
 
 ## 5.5. Applications Prototyping.
 
-contenido
+![Applications Prototyping]()
 
+Link: https://www.figma.com/proto/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=2251-5810&p=f&t=fOWQowDfKtl5y64A-1&scaling=min-zoom&content-scaling=fixed&page-id=2251%3A5430&starting-point-node-id=2251%3A5871&show-proto-sidebar=1 
 
 ## 6.1. Software Configuration Management
 En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
@@ -2915,54 +2932,6 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ### 6.2.1.7. Team Collaboration Insights during Sprint.
 <img width="757" height="888" alt="Image" src="https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3" />
-
-
-
-### 6.2.2. Sprint 2
-
-<img src="https://imgur.com/qDSnzzw.jpg" style="width: 1200px;"/>  
-
-Link de Trello: [https://trello.com/b/2UaTw4E8/webworks-sprint-backlog-2](https://trello.com/b/2UaTw4E8)  
-
-#### 6.2.2.1. Sprint Planning 2
-En el siguiente apartado, se presentará el sprint planning 2, donde se mostrará la planificación e implementación del web application. Asimismo, se mostrarán los avances del proyecto e insights de colaboración a través de Github.
-
-
-| **Sprint #**                    | Sprint 2                                                                 |
-|---------------------------------|---------------------------------------------------------------------------|
-| **Sprint Planning Date**        | 01/10/2025                                                                |
-| **Time**                        | 10:30 AM                                                                  |
-| **Location**                    | Google Meet                                                               |
-| **Prepared By**                 | Harold Mayta                                                               |
-| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo                          |
-| **Sprint Review Summary**       | Se logró implementar el landing page y se desplegó en Vercel |
-| **Sprint Retrospective Summary**| En este sprint como equipo logramos desplegar la landing page de forma adecuada  debido a la correcta division de tareas y el cumplimiento de cada uno. Sin embargo, algunos miembros del equipo tuvieron cierta complicaciones a la hora de hacer merge a la rama develop. Aspecto el cual planeamos mejorar. Como equipo esperamos poder cumplir con los objetivos para el sprint 2. |
-| **Sprint Goal**                 | En este sprint se planea desarrollar el web application con el framework Flutter y Kotlin, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link |
-| **Sprint Velocity**             |    11                                                                       |
-| **Sum of Story Points**         | 30 Story points                                                              |
-
-#### 6.2.2.2. Sprint Backlog 2  
-
-
-#### 6.2.2.3. Development Evidence for Sprint Review
-
-
-#### 6.2.2.4. Testing Suite Evidence for Sprint Review
-
-
-#### 6.2.2.5. Execution Evidence for Sprint Review  
-
-
-#### 6.2.2.6. Services Documentation Evidence for Sprint Review
-
-
-#### 6.2.2.7. Software Deployment Evidence for Sprint Review
-
-
-#### 6.2.2.8. Team Collaboration Insights during Sprint  
-A continuación se mostrarán el gráfico de insights durante el sprint: 
-
-
 
 
 # Conclusiones
