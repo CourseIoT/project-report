@@ -2344,7 +2344,15 @@ La interfaz de búsqueda de **AgroControl** está diseñada para ser intuitiva y
 
 ### 5.2.5. Navigation Systems.
 
-contenido
+#### Hierarchical Navigation System
+El sistema de navegación jerárquico en **AgroControl** organiza la navegación desde la página principal hasta las páginas de destino específicas. Los usuarios pueden comenzar en la página de inicio y desde allí acceder a secciones clave como "Servicios", "Blog", o "Contacto", permitiendo un flujo de navegación claro y estructurado.
+
+####  Global Navigation System
+Como complemento del sistema jerárquico, **AgroControl** utiliza un sistema de navegación global que facilita el movimiento vertical dentro de una misma página. A través de un menú de navegación fijo, los usuarios pueden desplazarse por las diferentes secciones de la página, manteniendo siempre la opción de regresar a la página principal desde cualquier punto.
+
+#### Local Navigation System
+El sistema de navegación local se utiliza para permitir a los usuarios moverse entre sub-sitios o páginas secundarias dentro de **AgroControl**. Este sistema complementa la navegación global, proporcionando enlaces directos a otras páginas relevantes, como la página de detalles de un servicio específico o un artículo del blog, asegurando una experiencia de navegación fluida y coherente.
+
 
 ## 5.3. Landing Page UI Design.
 ### 5.3.1. Landing Page Wireframe.
