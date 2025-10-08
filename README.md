@@ -2288,7 +2288,12 @@ Estos sistemas de organización se combinan de manera efectiva para proporcionar
 
 ### 5.2.2. Labeling Systems.
 
-contenido
+El sistema de etiquetado tiene como objetivo unificar los datos de manera efectiva, representarlos de forma simple y evitar confusión ante grandes cantidades de información. Una forma ampliamente adoptada para lograr esto es necesario crear etiquetas que representen grandes volúmenes de datos.
+
+![Labeling Systems](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/labeling-systems-1.png?raw=true)
+
+![Icons-Searching Systems](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/labeling-systems-2.png?raw=true)
+
 
 ### 5.2.3. SEO Tags and Meta Tags
 
