@@ -2170,7 +2170,97 @@ El diagrama de este contexto muestra las relaciones entre las tablas datasets, a
 ## 5.1. Style Guidelines.
 ### 5.1.1. General Style Guidelines.
 
-contenido
+Descripcion del porque estos elementos seran importantes
+### Colores
+La paleta de colores de **AgroControl** se compone de cuatro colores principales:
+
+| Color Name     | Hex Code | RGB                | Uso Principal                               |
+|----------------|----------|--------------------|---------------------------------------------|
+| White          | #FFFFFF  | rgb(255, 255, 255) | Texto en fondos oscuros, fondos secundarios |
+| Midnight Green | #043A3A  | rgb(4, 58, 58)     | Fondos primarios, encabezados               |
+| Emerald        | #2FB95D  | rgb(47, 185, 93)   | Botones, elementos destacados               |
+| Davy's Gray    | #525252  | rgb(82, 82, 82)    | Texto en fondos claros, bordes              |
+
+
+<p align="center">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/colors.png?raw=true" alt="colors-style-guidelines" style="width: 800px">
+</p>
+### Tipografía
+Se emplean dos fuentes principales en toda la identidad visual de AgroControl:
+
+- **Raleway**: Usada para títulos, subtítulos y elementos destacados.
+  - Tamaños utilizados: 
+    - 64px para títulos principales.
+    - 38px para subtítulos.
+    - 21px para encabezados menores.
+
+- **Mulish**: Utilizada para el cuerpo de texto y subtítulos menores.
+  - Tamaños utilizados:
+    - 16px para el cuerpo del texto y descripciones.
+### Marca
+El logotipo principal de **AgroControl** está compuesto por las palabras "Agro" y "Control". La palabra "Agro" se muestra en color blanco (#FFFFFF) y la palabra "Control" en color esmeralda (#2FB95D). El logotipo se presenta en dos variaciones principales:
+
+1. **Color completo:** Utilizado en fondos claros.
+2. **Versión invertida:** Utilizado en fondos oscuros, con la palabra "Agro" en blanco y "Control" en esmeralda.  
+
+<p align="center">
+  <img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/logo-agro.png?raw=true" alt="logo-agrocontrol" style="width: 800px">
+</p>
+
+### Background
+
+**Fondos Primarios, Secundarios y Terciarios**  
+Utilizamos una combinación de colores para los fondos según el propósito de la sección:
+
+- **Fondo Primario:** Midnight Green (#043A3A)
+- **Fondo Secundario:** Blanco (#FFFFFF)
+- **Fondo Terciario:** Davy's Gray (#525252)
+
+### Text Styles
+
+**Estilos de Texto**  
+Los estilos de texto siguen la jerarquía visual y la tipografía especificada en las pautas generales:
+
+- **H1:** 64px, Raleway, Midnight Green (#043A3A)
+- **H2:** 38px, Raleway, Midnight Green (#043A3A)
+- **H3:** 24px, Raleway, Midnight Green (#043A3A)
+- **Párrafo (p):** 16px, Mulish, Davy's Gray (#525252)
+- **Enlaces (a):** 16px, Mulish, Emerald (#2FB95D) 
+
+
+![Text-styles](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/font-sizes.png?raw=true)
+
+### Button Styles
+
+**Estilos de Botón y Controles**  
+Los botones y otros controles interactivos tienen una apariencia clara y coherente:
+
+- **Botón Principal:** Fondo esmeralda (#2FB95D), texto blanco (#FFFFFF)
+- **Botón Secundario:** Fondo blanco (#FFFFFF), borde esmeralda (#2FB95D), texto esmeralda (#2FB95D)
+- **Dropdowns y Switches:** Combina Davy's Gray (#525252) para fondo y esmeralda (#2FB95D) para acentos
+
+
+
+![Buttons-1](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/button-style1.png?raw=true)
+![Buttons-2](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/button-style2.png?raw=true)
+
+### Icons
+
+**Iconos**  
+Los iconos utilizados están diseñados para un fondo blanco (#FFFFFF) con acentos en Midnight Green (#043A3A) y esmeralda (#2FB95D).
+
+### Misc
+
+**Componentes Misceláneos**  
+Esta categoría incluye elementos como la barra de navegación, carruseles y otros componentes interactivos.
+
+- **Nav Bar:** Fondo Midnight Green (#043A3A) con enlaces en blanco (#FFFFFF)
+- **Slideshow:** Transiciones suaves con botones de navegación en esmeralda (#2FB95D)
+
+
+![Miscellaneos preview web](https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/nav-bar-1.png?raw=true)
+
+
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
 
