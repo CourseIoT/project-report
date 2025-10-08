@@ -2211,7 +2211,7 @@ contenido
 
 En esta sección, se presentan los wireframes de nuestra aplicación en la herramienta Figma.
 
-Link: 
+Link: https://www.figma.com/design/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=0-1&t=eNkj3CvUfTcAkqav-1 
 
 #### Application web wireframes
 
@@ -2300,7 +2300,29 @@ Aplicación móvil: Para la aplicación móvil hemos implementado los wireframes
 
 ### 5.4.3. Applications Mock-ups.
 
-contenido
+En esta sección, se presentan los wireframes de nuestra aplicación en la herramienta Figma.
+
+Link: https://www.figma.com/design/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=0-1&t=eNkj3CvUfTcAkqav-1
+
+#### Application web Mock-ups
+
+![Mockups-Web-1](./assets/images/chapter-5/mock-ups/web/Registro.png)
+![Mockups-Web-2](./assets/images/chapter-5/mock-ups/web/SignUpView.png)
+![Mockups-Web-3](./assets/images/chapter-5/mock-ups/web/Fields.png)
+![Mockups-Web-4](./assets/images/chapter-5/mock-ups/web/Frame%207176.png)
+![Mockups-Web-5](./assets/images/chapter-5/mock-ups/web/Agregar%20Fields.png)
+![Mockups-Web-6](./assets/images/chapter-5/mock-ups/web/Planting-Form.png)
+![Mockups-Web-7](./assets/images/chapter-5/mock-ups/web/Irrigation-list.png)
+![Mockups-Web-8](./assets/images/chapter-5/mock-ups/web/Irrigation-Form.png)
+![Mockups-Web-9](./assets/images/chapter-5/mock-ups/web/Fumigation-list.png)
+![Mockups-Web-10](./assets/images/chapter-5/mock-ups/web/Fertilizers-Form.png)
+![Mockups-Web-11](./assets/images/chapter-5/mock-ups/web/Harvest-Agro.png)
+![Mockups-Web-12](./assets/images/chapter-5/mock-ups/web/Frame%207177.png)
+![Mockups-Web-13](./assets/images/chapter-5/mock-ups/web/Store.png)
+
+#### Application mobil Mock-ups
+
+
 
 ### 5.4.4. Applications User Flow Diagrams.
 
