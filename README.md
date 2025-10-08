@@ -79,65 +79,139 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Contenido
 ## Tabla de contenidos
 
-### [Capítulo I: Introducción](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#cap%C3%ADtulo-i-introducci%C3%B3n-1)
-- [1.1. Startup Profile](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#11-startup-profile)
-    - [1.1.1 Descripción de la Startup](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#111-descripci%C3%B3n-de-la-startup)
-    - [1.1.2 Perfiles de integrantes del equipo](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#112-perfiles-de-integrantes-del-equipo)
-- [1.2 Solution Profile](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#121-antecedentes-y-problem%C3%A1tica)
-    - [1.2.2 Lean UX Process](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#122-lean-ux-process)
-        - [1.2.2.1. Lean UX Problem Statements](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#1221-lean-ux-problem-statements)
-        - [1.2.2.2. Lean UX Assumptions](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#1222-lean-ux-assumptions)
-        - [1.2.2.3. Lean UX Hypothesis Statements](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#1223-lean-ux-hypothesis-statements)
-        - [1.2.2.4. Lean UX Canvas](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report#13-segmentos-objetivo)
-
-### [Capítulo II: Requirements Elicitation & Analysis]()
-- [2.1. Competidores]()
-    - [2.1.1. Análisis competitivo]()
-    - [2.1.2. Estrategias y tácticas frente a competidores]()
-- [2.2. Entrevistas]()
-    - [2.2.1. Diseño de entrevistas]()
-    - [2.2.2. Registro de entrevistas]()
-    - [2.2.3. Análisis de entrevistas]()
-- [2.3. Needfinding]()
-    - [2.3.1. User Personas]()
-    - [2.3.2. User Task Matrix]()
-    - [2.3.3. User Journey Mapping]()
-    - [2.3.4. Empathy Mapping]()
-    - [2.3.5. As-is Scenario Mapping]()
-- [2.4. Big Picture EventStorming]()
-- [2.5. Ubiquitous Language]()
-
-### [Capítulo III: Requirements Specification]()
-- [3.1. User Stories]()
-- [3.2. Impact Mapping]()
-- [3.3. Product Backlog]()
-
-
-### [Capítulo IV: Solution Software Design]()
-- [4.1. Strategic-Level Domain-Driven Design]()
-  - [4.1.1. Design-Level EventStorming]()
-    - [4.1.1.1. Candidate Context Discovery]()
-    - [4.1.1.2. Domain Message Flows Modeling]()
-    - [4.1.1.3. Bounded Context Canvases]()
-  - [4.1.2. Context Mapping]()
-  - [4.1.3. Software Architecture]()
-    - [4.1.3.1. Software Architecture System Landscape Diagram]()
-    - [4.1.3.2. Software Architecture Context Level Diagrams]()
-    - [4.1.3.3. Software Architecture Container Level Diagrams]()
-    - [4.1.3.4. Software Architecture Deployment Diagrams]()
-- [4.2. Tactical-Level Domain-Driven Design]()
-  - [4.2.1. Bounded Context: <Bounded Context Name>]()
-    - [4.2.1.1. Domain Layer]()
-    - [4.2.1.2. Interface Layer]()
-    - [4.2.1.3. Application Layer]()
-    - [4.2.1.4. Infrastructure Layer]()
-    - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams]()
-    - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams]()
-      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams]()
-      - [4.2.1.6.2. Bounded Context Database Design Diagram]()
-
+* [Capítulo I: Introducción](#capítulo-i-introducción)
+  * [1.1. Startup Profile](#11-startup-profile)
+    * [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+    * [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  * [1.2 Solution Profile](#12-solution-profile)
+    * [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    * [1.2.2 Lean UX Process](#122-lean-ux-process)
+      * [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      * [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      * [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      * [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  * [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+* [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  * [2.1 Competidores](#21-competidores)
+    * [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    * [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  * [2.2. Entrevistas](#22-entrevistas)
+    * [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    * [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    * [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  * [2.3. Needfinding](#23-needfinding)
+    * [2.3.1. User Personas](#231-user-personas)
+    * [2.3.2. User Task Matrix](#232-user-task-matrix)
+    * [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    * [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  * [2.4. Big Picture EventStorming](#24-big-picture-eventstorming)
+  * [2.5. Ubiquitous Language](#25-ubiquitous-language)
+* [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  * [3.1. User Stories](#31-user-stories)
+  * [3.2. Impact Mapping](#32-impact-mapping)
+  * [3.3. Product Backlog](#33-product-backlog)
+* [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
+  * [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
+    * [4.1.1. Design-Level EventStorming](#411-design-level-eventstorming)
+      * [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
+      * [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
+      * [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
+    * [4.1.2. Context Mapping](#412-context-mapping)
+    * [4.1.3. Software Architecture](#413-software-architecture)
+      * [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
+      * [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+      * [4.1.3.3. Software Architecture Container Level Diagrams](#4133-software-architecture-container-level-diagrams)
+      * [4.1.3.4. Software Architecture Deployment Diagrams](#4134-software-architecture-deployment-diagrams)
+  * [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
+    * [4.2.1. Bounded Context: Soil Sensing & Sensor Management](#421-bounded-context-soil-sensing--sensor-management)
+      * [4.2.1.1. Domain Layer.](#4211-domain-layer)
+      * [4.2.1.2. Interface Layer.](#4212-interface-layer)
+      * [4.2.1.3. Application Layer.](#4213-application-layer)
+      * [4.2.1.4. Infrastructure Layer.](#4214-infrastructure-layer)
+      * [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams.](#4215-bounded-context-software-architecture-component-level-diagrams)
+      * [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams.](#4216-bounded-context-software-architecture-code-level-diagrams)
+        * [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams.](#42161-bounded-context-domain-layer-class-diagrams)
+        * [4.2.1.6.2. Bounded Context Database Design Diagram.](#42162-bounded-context-database-design-diagram)
+    * [4.2.2. Bounded Context: Irrigation Control & Automation](#422-bounded-context-irrigation-control--automation)
+      * [4.2.2.1. Domain Layer.](#4221-domain-layer)
+      * [4.2.2.2. Interface Layer.](#4222-interface-layer)
+      * [4.2.2.3. Application Layer.](#4223-application-layer)
+      * [4.2.2.4. Infrastructure Layer.](#4224-infrastructure-layer)
+      * [4.2.2.5. Bounded Context Software Architecture Component Level Diagrams.](#4225-bounded-context-software-architecture-component-level-diagrams)
+      * [4.2.2.6. Bounded Context Software Architecture Code Level Diagrams.](#4226-bounded-context-software-architecture-code-level-diagrams)
+        * [4.2.2.6.1. Bounded Context Domain Layer Class Diagrams.](#42261-bounded-context-domain-layer-class-diagrams)
+        * [4.2.2.6.2. Bounded Context Database Design Diagram.](#42262-bounded-context-database-design-diagram)
+    * [4.2.3. Bounded Context: Producer Profile & Access Management](#423-bounded-context-producer-profile--access-management)
+      * [4.2.3.1. Domain Layer.](#4231-domain-layer)
+      * [4.2.3.2. Interface Layer.](#4232-interface-layer)
+      * [4.2.3.3. Application Layer.](#4233-application-layer)
+      * [4.2.3.4. Infrastructure Layer.](#4234-infrastructure-layer)
+      * [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams.](#4235-bounded-context-software-architecture-component-level-diagrams)
+      * [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams.](#4236-bounded-context-software-architecture-code-level-diagrams)
+        * [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams.](#42361-bounded-context-domain-layer-class-diagrams)
+        * [4.2.3.6.2. Bounded Context Database Design Diagram.](#42362-bounded-context-database-design-diagram)
+    * [4.2.4. Bounded Context: Alert & Notification](#424-bounded-context-alert--notification)
+      * [4.2.4.1. Domain Layer.](#4241-domain-layer)
+      * [4.2.4.2. Interface Layer.](#4242-interface-layer)
+      * [4.2.4.3. Application Layer.](#4243-application-layer)
+      * [4.2.4.4. Infrastructure Layer.](#4244-infrastructure-layer)
+      * [4.2.4.5. Bounded Context Software Architecture Component Level Diagrams.](#4245-bounded-context-software-architecture-component-level-diagrams)
+      * [4.2.4.6. Bounded Context Software Architecture Code Level Diagrams.](#4246-bounded-context-software-architecture-code-level-diagrams)
+        * [4.2.4.6.1. Bounded Context Domain Layer Class Diagrams.](#42461-bounded-context-domain-layer-class-diagrams)
+        * [4.2.4.6.2. Bounded Context Database Design Diagram.](#42462-bounded-context-database-design-diagram)
+    * [4.2.5. Bounded Context: Agronomic Analytics (Environment Analytics)](#425-bounded-context-agronomic-analytics-environment-analytics)
+      * [4.2.5.1. Domain Layer.](#4251-domain-layer)
+      * [4.2.5.2. Interface Layer.](#4252-interface-layer)
+      * [4.2.5.3. Application Layer.](#4253-application-layer)
+      * [4.2.5.4. Infrastructure Layer.](#4254-infrastructure-layer)
+      * [4.2.5.5. Bounded Context Software Architecture Component Level Diagrams.](#4255-bounded-context-software-architecture-component-level-diagrams)
+      * [4.2.5.6. Bounded Context Software Architecture Code Level Diagrams.](#4256-bounded-context-software-architecture-code-level-diagrams)
+        * [4.2.5.6.1. Bounded Context Domain Layer Class Diagrams.](#42561-bounded-context-domain-layer-class-diagrams)
+        * [4.2.5.6.2. Bounded Context Database Design Diagram.](#42562-bounded-context-database-design-diagram)
+* [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+  * [5.1. Style Guidelines.](#51-style-guidelines)
+    * [5.1.1. General Style Guidelines.](#511-general-style-guidelines)
+    * [5.1.2. Web, Mobile and IoT Style Guidelines.](#512-web-mobile-and-iot-style-guidelines)
+  * [5.2. Information Architecture.](#52-information-architecture)
+    * [5.2.1. Organization Systems.](#521-organization-systems)
+    * [5.2.2. Labeling Systems.](#522-labeling-systems)
+    * [5.2.3. SEO Tags and Meta Tags](#523-seo-tags-and-meta-tags)
+    * [5.2.4. Searching Systems.](#524-searching-systems)
+    * [5.2.5. Navigation Systems.](#525-navigation-systems)
+  * [5.3. Landing Page UI Design.](#53-landing-page-ui-design)
+    * [5.3.1. Landing Page Wireframe.](#531-landing-page-wireframe)
+    * [5.3.2. Landing Page Mock-up.](#532-landing-page-mock-up)
+  * [5.4. Applications UX/UI Design.](#54-applications-uxui-design)
+    * [5.4.1. Applications Wireframes.](#541-applications-wireframes)
+    * [5.4.2. Applications Wireflow Diagrams.](#542-applications-wireflow-diagrams)
+    * [5.4.3. Applications Mock-ups.](#543-applications-mock-ups)
+    * [5.4.4. Applications User Flow Diagrams.](#544-applications-user-flow-diagrams)
+  * [5.5. Applications Prototyping.](#55-applications-prototyping)
+  * [6.1. Software Configuration Management](#61-software-configuration-management)
+    * [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
+    * [6.1.2. Source Code Management](#612-source-code-management)
+    * [6.1.3. Guía de Estilo y Convenciones del Código Fuente](#613-guía-de-estilo-y-convenciones-del-código-fuente)
+    * [6.1.4. Configuración para el Despliegue de Software](#614-configuración-para-el-despliegue-de-software)
+  * [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation-)
+    * [6.2.1. Sprint 1](#621-sprint-1-)
+      * [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1-)
+      * [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1-)
+    * [6.2.1.3. Development Evidence for Sprint Review.](#6213-development-evidence-for-sprint-review)
+    * [6.2.1.4. Execution Evidence for Sprint Review.](#6214-execution-evidence-for-sprint-review)
+    * [6.2.1.5. Services Documentation Evidence for Sprint Review.](#6215-services-documentation-evidence-for-sprint-review)
+    * [6.2.1.6. Software Deployment Evidence for Sprint Review.](#6216-software-deployment-evidence-for-sprint-review)
+    * [6.2.1.7. Team Collaboration Insights during Sprint.](#6217-team-collaboration-insights-during-sprint)
+    * [6.2.2. Sprint 2](#622-sprint-2)
+      * [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
+      * [6.2.2.2. Sprint Backlog 2](#6222-sprint-backlog-2-)
+      * [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
+      * [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
+      * [6.2.2.5. Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review-)
+      * [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
+      * [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
+      * [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint-)
+* [Conclusiones](#conclusiones)
+* [Bibliografía](#bibliografía)
 ---
 
 # Capítulo I: Introducción
@@ -2658,8 +2732,125 @@ Aplicación móvil
 contenido
 
 
-#### FALTA CAP 6.1
+## 6.1. Software Configuration Management
+En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
+### 6.1.1. Software Development Environment Configuration
 
+**Figma**: https://www.figma.com/
+
+Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups, asi como los desktop and mobile application del proyecto.
+
+**LucidChart**: https://lucid.app/
+
+Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas y tableros. Fue usado para la creación del event storming
+
+**PlantText**: https://www.planttext.com/
+
+Es una plataforma que permite interpretar código uml y diagramarlo. Fue usado para la creación de los diagramas de clase.
+
+**Software Development**: Para el desarrollo de la landing page se utilizarón las tecnologías basicas del desarrollo web: HTML, CSS Y JS.
+
+**Frontend Web Applications**
+
+Para el desarrollo del frontend de la aplicación web se utilizó Angular. Como librería de componentes de Material Design se implementó Angular Material, complementado con PrimeFlex para el sistema de rejillas y utilidades CSS.
+
+*Software Deployment**
+
+**Github pages**: https://www.github.com/
+
+Es una plataforma en la cual hospedamos la landing page del proyecto, se integra con repositorios en Git.
+
+**Vercel**: https://vercel.com/
+
+Es una plataforma en la cual hospedamos la aplicación web.
+
+**Software Documentation**
+
+**Vertabelo**: https://vertabelo.com/
+
+Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del proyecto.
+
+**Structurizr**: https://www.structurizr.com/
+
+Esta plataforma permite el modelado de diagramas de arquitectura de software. Se usó para la creación de los diagramas C4
+### 6.1.2. Source Code Management
+Para la gestión y actualización del proyecto, se creó una organización via GitHub, en la cual se tuvo un control sobre los cambios a lo largo del ciclo de vida del proyect. Se organizo de la siguiente manera.
+
+**Organization**: https://github.com/CourseIoT
+
+**Landing page repository**: https://github.com/CourseIoT/AgroControl-LandingPage
+
+**Report repository**: https://github.com/CourseIoT/project-report
+
+**Web Application repository**: https://github.com/CourseIoT/AgroControl-FrontEnd
+
+Para controlar de manera eficiente el flujo de trabajo se utilizó GitFlow, donde contamos con una rama principal main que es donde se encuentra la versión más estable y lista para pasar a producción del proyecto.
+
+**Ramas auxiliares**:
+
+feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la rama develop.
+
+La nomenclatura para los features fueron las siguientes: feature/chapter-n. Por ejemplo, feature/chapter-6.
+
+**Commit Conventions**:
+
+Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente estructura:
+
+< type > [optional scope]: < description > Donde:
+
+type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc. scope: Indica donde se realizó el commit (opcional). description: Menciona las actualizaciones del codigo.
+### 6.1.3. Guía de Estilo y Convenciones del Código Fuente
+
+Para estandarizar la calidad y legibilidad del código en todo el proyecto, se adoptaron guías de estilo reconocidas para cada tecnología.
+
+### Frontend
+
+Para el desarrollo del frontend, se siguieron las siguientes guías de estilo:
+
+HTML/CSS: Se optó por seguir la Guía de Estilo de Google para HTML/CSS. Algunos principios clave incluyen:
+
+- Aplicar una sangría de dos espacios de manera consistente.
+- Usar letras minúsculas para elementos, atributos y selectores.
+- Encerrar los valores de los atributos entre comillas dobles.
+- Asegurarse de que todos los elementos tengan su etiqueta de cierre.
+- Las imágenes deben tener definidos su width, height y un atributo alt descriptivo.
+
+JavaScript/TypeScript: Para el código del lado del cliente, se sigue la Guía de Estilo de Google para JavaScript. Las reglas principales son:
+
+- Todas las instrucciones deben finalizar con un punto y coma (;).
+- Los nombres de variables y funciones se escriben en lowerCamelCase.
+- Los nombres de clases y constructores se escriben en UpperCamelCase.
+- Se prefiere el uso de comillas simples (') para las cadenas de texto.
+
+Backend
+Para el desarrollo del backend, se adoptaron las pautas de la Guía de Estilo de Google para Java, que son ampliamente aceptadas en la comunidad y compatibles con el ecosistema de Spring Boot. Las convenciones más importantes son:
+
+Nomenclatura:
+
+- Las clases se nombran usando UpperCamelCase.
+- Los métodos y variables se nombran usando lowerCamelCase.
+- Las constantes se definen en CONSTANT_CASE.
+
+Formato:
+
+- Se utiliza una sangría de dos espacios, sin usar tabulaciones.
+
+- Las llaves de apertura ({) no inician en una nueva línea, sino al final de la misma línea que la declaración.
+
+- Se mantiene un límite de 100 caracteres por línea de código.
+
+**Prácticas de codificación**: Se siguen las prácticas estándar para la organización de importaciones, el uso de anotaciones de Spring y la estructura de paquetes promovida por el framework para mantener un código limpio y mantenible.
+
+### Pruebas de Aceptación (Gherkin)
+
+Para las pruebas de aceptación escritas en Gherkin, se aplican las convenciones para especificaciones legibles, haciendo uso de palabras clave como Dado, Cuando, Entonces y Y. Se mantiene una sangría adecuada y comentarios bien organizados para que los escenarios sean fáciles de entender por todo el equipo.
+### 6.1.4. Configuración para el Despliegue de Software
+
+Para el despliegue de la Landing Page y la Aplicación Web, se utiliza GitHub Pages y Vercel como servicios principales.
+
+![Github Pages](./assets/images/chapter-6/github-pages.png)
+
+Durante las primeras fases del desarrollo, se emplea json-server en local para simular datos (mock) y validar funcionalidades. Esta configuración permite trabajar sin una base de datos real durante las pruebas iniciales. Una vez que se tenga una base de datos definitiva, esta configuración será reemplazada por una conexión real.
 
 ## 6.2. Landing Page, Services & Applications Implementation  
 ### 6.2.1. Sprint 1  
