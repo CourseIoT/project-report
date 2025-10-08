@@ -2264,7 +2264,18 @@ Esta categoría incluye elementos como la barra de navegación, carruseles y otr
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines.
 
-contenido
+#### Web Style Guidelines
+
+AgroControl ofrece una experiencia coherente, intuitiva y visualmente atractiva, optimizando la interacción en una variedad de dispositivos y tamaños de pantalla. El diseño debe ajustarse a diferentes tamaños de pantalla sin sacrificar la funcionalidad o estética. Se ha seleccionado el patrón F como el principal esquema de escaneo visual en nuestras interfaces, alineado con los hábitos naturales de lectura de los usuarios. Esto asegura que los usuarios encuentren rápidamente la información más relevante.
+
+#### Mobile Style Guidelines
+
+La versión móvil de AgroControl prioriza la simplicidad, rapidez y usabilidad en entornos con espacio limitado. La interfaz está diseñada con un enfoque minimalista, empleando botones grandes, tipografía legible y jerarquía visual clara para facilitar la navegación táctil. Se aplica un diseño basado en el patrón Z, optimizando la interacción con el pulgar y reduciendo la necesidad de desplazamientos innecesarios. Además, se garantiza un rendimiento fluido incluso en dispositivos con recursos limitados, promoviendo una experiencia uniforme y eficiente.
+
+#### IoT Style Guidelines
+
+En la capa IoT, AgroControl integra sensores de humedad y temperatura del suelo para monitorear en tiempo real las condiciones de los cultivos. Cuando los sensores detectan niveles de humedad por debajo del umbral establecido, el sistema activa automáticamente el bombeo de agua para rehidratar la tierra, optimizando así el consumo hídrico. La comunicación entre los dispositivos IoT y la plataforma web se realiza mediante protocolos inalámbricos seguros, como Wi-Fi o MQTT, permitiendo la transmisión continua de datos y la visualización remota del estado de los sensores. La interfaz del sistema muestra indicadores visuales claros, alertas automáticas y registros históricos, facilitando la toma de decisiones informadas. Este enfoque promueve un control agrícola inteligente, sostenible y totalmente conectado con la nube.
+
 
 ## 5.2. Information Architecture.
 ### 5.2.1. Organization Systems.
@@ -2367,49 +2378,49 @@ En esta sección se presentarán los wireframes de la landing page. Estos wirefr
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-<img src="assets/img/chapter-5/Hero.png" style="width: 800px"/>
+<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/1f8004a1-8c8a-4ba4-962e-c103373aef20" />
 
 ---
 
 ## 2. Agricultores - Wireframe
 Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
 
-<img src="assets/img/chapter-5/Agricultores-Wireframe.png" style="width: 800px"/>  
+<img width="1440" height="936" alt="Image" src="https://github.com/user-attachments/assets/ae88c418-4018-4689-b1b3-e306c7861f19" />
 
 ---
 
 ## 3. Distribuidores - Wireframe
 En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
 
-<img src="assets/img/chapter-5/Distribuidores-wireframe.png" style="width: 800px"/>
+<img width="1440" height="936" alt="Image" src="https://github.com/user-attachments/assets/e1e07688-723a-4bc2-8374-c7baa115e992" />
 
 ---
 
 ## 4. Gallery
 Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
 
-<img src="assets/img/chapter-5/Gallery.png" style="width: 800px"/>
+<img width="1440" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a356d9b3-19e5-4576-b353-5d9d4c8dcc2d" />
 
 ---
 
 ## 5. Plan Agricultor
 Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
 
-<img src="assets/img/chapter-5/Plan-Agricultor.png" style="width: 800px"/>  
+<img width="1421" height="1130" alt="Image" src="https://github.com/user-attachments/assets/bc0143c9-dc41-477d-adc5-1708babd2d40" />
 
 ---
 
 ## 6. Plan Distribuidor
 Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
 
-<img src="assets/img/chapter-5/Plan-Distribuidor.png" style="width: 800px"/>
+<img width="1440" height="1130" alt="Image" src="https://github.com/user-attachments/assets/f5074f7a-7d0e-49a3-bb0e-9708b524f5f9" />
 
 ---
 
 ## 7. Testimonial
 La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.  
 
-<img src="assets/img/chapter-5/Testimonial.png" style="width: 800px"/>  
+<img width="1440" height="944" alt="Image" src="https://github.com/user-attachments/assets/9f2fcdfe-6d2a-4526-97fb-210aefaf8ec5" />
 
 ---
 
@@ -2417,14 +2428,14 @@ La sección de testimoniales muestra opiniones y comentarios de usuarios satisfe
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-<img src="assets/img/chapter-5/Contact-Us.png" style="width: 800px"/>  
+<img width="1440" height="648" alt="Image" src="https://github.com/user-attachments/assets/36cdd49d-9dae-4b40-915a-0dead87f5c14" />
 
 ---
 
 ## 9. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-<img src="assets/img/chapter-5/Footer.png" style="width: 800px"/>
+<img width="1440" height="366" alt="Image" src="https://github.com/user-attachments/assets/dfca2e98-8d5e-4263-925b-ee2cf00a3dd1" />
 
 ---
 
