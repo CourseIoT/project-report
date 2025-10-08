@@ -32,6 +32,10 @@ Producto: AgroControl
 
 </div>
 
+<br>
+<br>
+<br>
+
 ---  
 # Registro de Versiones del Informe
 
@@ -39,6 +43,7 @@ Producto: AgroControl
 | Versión | Fecha           | Autor                                                                                                                                              | Descripción de modificaciones                  |
 |---------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | 1.0     | 20 - 09 - 2025  | Rodriguez Santos, David Bryan <br>    Mayta Lopez, Harold Jaime <br>      Espinoza Inoñan, Fabiola Ximena, <br>      Barrutia Vaez, Ricardo Andree <br> Barrionuevo Reto, Jean Franco Joel     | Capitulo 1, Capitulo 2, Capitulo 3, Capitulo 4 |
+| 2.0     | 08 - 10 - 2025  | Rodriguez Santos, David Bryan <br>    Mayta Lopez, Harold Jaime <br>      Espinoza Inoñan, Fabiola Ximena, <br>      Barrutia Vaez, Ricardo Andree <br> Barrionuevo Reto, Jean Franco Joel     | Capitulo 5, Capitulo 6, Landing Page y Web Application |
 
 
 
