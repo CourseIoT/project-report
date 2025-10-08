@@ -2908,6 +2908,9 @@ Durante las primeras fases del desarrollo, se emplea json-server en local para s
 <img width="1895" height="566" alt="Image" src="https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf" />
 
 ### 6.2.1.6. Software Deployment Evidence for Sprint Review.
+
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
 ![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
 ### 6.2.1.7. Team Collaboration Insights during Sprint.
