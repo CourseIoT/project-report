@@ -2445,64 +2445,52 @@ Mockup es todo lo relacionado al diseño de la pagina
 ## 1. Hero
 El Hero es la sección principal y destacada de la landing page, captando la atención del usuario con un llamado a la acción o una introducción a la aplicación.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Hero.png?raw=true" style="width: 800px"/>  
+![Image](https://github.com/user-attachments/assets/9ed6e26d-9884-4072-a8b6-bb9c0fa3778b)
 
 ---
 
-## 2. Agricultores - Wireframe
-Este wireframe muestra la estructura de la página destinada a los agricultores, incluyendo las secciones y funcionalidades específicas para este grupo de usuarios.
+## 2. Features - Wireframe
+Este wireframe muestra los atributos, detalles o especificaciones de nuestro producto o servicio que se describen para destacar sus ventajas y beneficios.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Agricultores.png?raw=true" style="width: 800px"/>  
-
----
-
-## 3. Distribuidores - Wireframe
-En este wireframe se presenta la página dedicada a los distribuidores, destacando las funcionalidades y el diseño pensado para ellos.
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Distribuidores.png?raw=true" style="width: 800px"/>  
+![Image](https://github.com/user-attachments/assets/ba73fdec-1476-4031-a80b-b6105215b9f7)
 
 ---
 
-## 4. Gallery
-Aquí se encuentra la sección de galería, donde se mostrarán imágenes relacionadas con la aplicación o los servicios ofrecidos.
+## 3. IoT Integration - Wireframe
+En este wireframe se presenta la página con el servicio que queremos brindar y la solución de iot.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Gallery.png?raw=true" style="width: 800px"/>
-
----
-
-## 5. Plan Agricultor
-Este wireframe ilustra el plan diseñado para los agricultores, detallando precios y características específicas del plan.
-
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan-Agricultor.png?raw=true" style="width: 800px"/>
+![Image](https://github.com/user-attachments/assets/80caf752-3583-4dc7-b6c7-f6e1a0afd18d)
 
 ---
 
-## 6. Plan Distribuidor
-Similar al plan de agricultores, este wireframe muestra los detalles del plan pensado para los distribuidores, con su propia estructura y características.
+## 4. Plans
+Aquí se encuentra la sección de planes, donde se mostrarán diferentes precios de la aplicación o los servicios ofrecidos.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_Plan%20Distribuidor.png?raw=true" style="width: 800px"/>
+![Image](https://github.com/user-attachments/assets/f7bf0c7d-a666-48a1-9f08-d97380ede2f1)
+
+---
+
+## 5. Our Team
+Este wireframe se muestra el equipo desarrollador de esta aplicación o servicio.
+
+![Image](https://github.com/user-attachments/assets/aeec3c1a-3372-4f42-94ab-82e70bf71c4b)
 
 ---
 
-## 7. Testimonial
-La sección de testimoniales muestra opiniones y comentarios de usuarios satisfechos, proporcionando credibilidad y confianza en la aplicación.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_testimonial.png?raw=true" style="width: 800px"/>
-
----
 
 
 ## 8. Contact Us
 Este wireframe detalla la página de contacto, donde los usuarios pueden encontrar información para comunicarse con la empresa.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_form.png?raw=true" style="width: 800px"/>  
+![Image](https://github.com/user-attachments/assets/692a91c3-7a7f-447a-8bd7-58d90799f29c)
 
 ---
 
-## 9. Footer
+## 7. Footer
 El footer incluye enlaces rápidos, información de contacto y otras secciones relevantes para la navegación del usuario en toda la aplicación.
 
-<img src="https://github.com/W3bW0rks/project-report/blob/develop/assets/chapter-4-images/Mockup/desktop/Mockup_footer.png?raw=true" style="width: 800px"/>  
+![Image](https://github.com/user-attachments/assets/c193e117-c45d-459e-b06c-204a8537463f)
 
 
 
@@ -2605,6 +2593,27 @@ En el siguiente apartado, se presentará el sprint planning 2, donde se mostrar�
 | **Sprint Goal**                 | En este sprint se planea desarrollar el web application con el framework Flutter y Kotlin, herramienta la cual ha sido usada y enseñada a lo largo del curso. Además, se conversó sobre la distribución de pantallas del web application que desarrolla cada uno de acuerdo al diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el web application debe estar desplegado en Netlify y cualquier usuario debería poder acceder y visualizar la página a través del link |
 | **Sprint Velocity**             |    11                                                                       |
 | **Sum of Story Points**         | 30 Story points                                                              |
+
+#### 6.2.2.2. Sprint Backlog 2  
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+#### 6.2.2.5. Execution Evidence for Sprint Review  
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint  
+A continuación se mostrarán el gráfico de insights durante el sprint: 
 
 
 
