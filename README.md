@@ -2236,17 +2236,73 @@ Link:
 ![Wireframe-Web-19](./assets/images/chapter-5/wireframe/web/Tienda-Agro.png)
 ![Wireframe-Web-20](./assets/images/chapter-5/wireframe/web/tienda-Agro%20(1).png)
 
-#### Movil
+#### Application mobil wireframes
+
+![Wireframe-mobil-1](./assets/images/chapter-5/wireframe/movil/registro.png)
+![Wireframe-mobil-2](./assets/images/chapter-5/wireframe/movil/crear-cuenta.png)
+![Wireframe-mobil-3](./assets/images/chapter-5/wireframe/movil/home-field.png)
+![Wireframe-mobil-4](./assets/images/chapter-5/wireframe/movil/add-field.png)
+![Wireframe-mobil-5](./assets/images/chapter-5/wireframe/movil/home-field-menu.png)
+![Wireframe-mobil-6](./assets/images/chapter-5/wireframe/movil/field.png)
+![Wireframe-mobil-7](./assets/images/chapter-5/wireframe/movil/field-menu.png)
+![Wireframe-mobil-8](./assets/images/chapter-5/wireframe/movil/add-planting.png)
+![Wireframe-mobil-9](./assets/images/chapter-5/wireframe/movil/irrigation.png)
+![Wireframe-mobil-10](./assets/images/chapter-5/wireframe/movil/add-irrigation.png)
+![Wireframe-mobil-11](./assets/images/chapter-5/wireframe/movil/fumigation.png)
+![Wireframe-mobil-12](./assets/images/chapter-5/wireframe/movil/add-fumigation.png)
+![Wireframe-mobil-13](./assets/images/chapter-5/wireframe/movil/tienda.png)
 
 ### 5.4.2. Applications Wireflow Diagrams.
 
+En UX, los wireflows son una herramienta clave, particularmente útil en aplicaciones que requieren procesos y dinámicas de interacción complicadas.
+
+Link: https://lucid.app/lucidchart/92ebd16d-086f-4c61-9fd0-b411cb0042b1/edit?viewport_loc=-20562%2C-10187%2C20788%2C9563%2Cv4BXeV2xRRXA&invitationId=inv_74964da9-5f6f-427f-8f72-fef503a70077
+
+Aplicación web: Diseñamos los wireframes de las pantallas dirigidas a proveedores y agricultores y los ajustamos a los user goals definidos a continuación.
+
+Se pueden visualizar los diagramas mediante los siguientes links:
+
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación web.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202.png)
+
+#### Agricultor:
+
+**User goal:** Crear un nuevo campo, como agricultor quiero agregar un nuevo campo para registrar cultivos, programar irrigación, fumigación y añadir fertilizantes
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(1).png)
+
+**User goal:** Programar irrigación para cultivo, como agricultor quiero programar en ciertos periodos de tiempo irrigación para mis cultivos dentro de un campo ya creado.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(2).png)
+
+**User goal:** Programar tratamiento de cultivos, como agricultor quiero programar tratamiento de fertilizante y fumigación para mi cultivo que agregue en mi campo.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(3).png)
+
+#### Proveedores:
+
+**User goal:** Agregar un producto, como proveedor quiero agregar un nuevo producto en la plataforma.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(4).png)
+
+
+Aplicación móvil: Para la aplicación móvil hemos implementado los wireframes para los agricultores. Se presentan los diagramas de acuerdo a los usuer goals.
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación movil.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20movil.png)
+
+**User goal:** Crear un campo y progrmar irrigación para una plantiación, como agricultor quiero agrear un nuevo campo y prograr un evento de irrigación para una plantiación.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20movil-1.png)
+
+### 5.4.3. Applications Mock-ups.
+
 contenido
 
-### 5.4.2. Applications Mock-ups.
-
-contenido
-
-### 5.4.3. Applications User Flow Diagrams.
+### 5.4.4. Applications User Flow Diagrams.
 
 contenido
 
