@@ -2756,7 +2756,7 @@ Aplicación móvil
 
 ## 5.5. Applications Prototyping.
 
-![Applications Prototyping]()
+![Mockups-Web-5](./assets/images/chapter-5/mock-ups/web/Agregar%20Fields.png)
 
 Link: https://www.figma.com/proto/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=2251-5810&p=f&t=fOWQowDfKtl5y64A-1&scaling=min-zoom&content-scaling=fixed&page-id=2251%3A5430&starting-point-node-id=2251%3A5871&show-proto-sidebar=1 
 
