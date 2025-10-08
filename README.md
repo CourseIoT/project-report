@@ -2483,19 +2483,175 @@ El footer incluye enlaces rápidos, información de contacto y otras secciones r
 ## 5.4. Applications UX/UI Design.
 ### 5.4.1. Applications Wireframes.
 
-contenido
+En esta sección, se presentan los wireframes de nuestra aplicación en la herramienta Figma.
+
+Link: https://www.figma.com/design/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=0-1&t=eNkj3CvUfTcAkqav-1 
+
+#### Application web wireframes
+
+![Wireframe-Web-1](./assets/images/chapter-5/wireframe/web/Registro.png)
+![Wireframe-Web-2](./assets/images/chapter-5/wireframe/web/SignUpView.png)
+![Wireframe-Web-3](./assets/images/chapter-5/wireframe/web/Home-Agro.png)
+![Wireframe-Web-4](./assets/images/chapter-5/wireframe/web/Home-Fields1-Agro.png)
+![Wireframe-Web-5](./assets/images/chapter-5/wireframe/web/NewField2-Form.png)
+![Wireframe-Web-6](./assets/images/chapter-5/wireframe/web/Home-Field.png)
+![Wireframe-Web-7](./assets/images/chapter-5/wireframe/web/Planting2-Form.png)
+![Wireframe-Web-8](./assets/images/chapter-5/wireframe/web/Home-Field%20(1).png)
+![Wireframe-Web-9](./assets/images/chapter-5/wireframe/web/Irrigation-list.png)
+![Wireframe-Web-10](./assets/images/chapter-5/wireframe/web/Irrigation-Form.png)
+![Wireframe-Web-11](./assets/images/chapter-5/wireframe/web/Fumigation-list.png)
+![Wireframe-Web-12](./assets/images/chapter-5/wireframe/web/Fertilizers-Form.png)
+![Wireframe-Web-13](./assets/images/chapter-5/wireframe/web/Workers-list.png)
+![Wireframe-Web-14](./assets/images/chapter-5/wireframe/web/Planting2-Form%20(1).png)
+![Wireframe-Web-15](./assets/images/chapter-5/wireframe/web/Harvest-Agro.png)
+![Wireframe-Web-16](./assets/images/chapter-5/wireframe/web/Harvest-Agro-List.png)
+![Wireframe-Web-17](./assets/images/chapter-5/wireframe/web/financiero-Agro.png)
+![Wireframe-Web-18](./assets/images/chapter-5/wireframe/web/financiero-Agro-List.png)
+![Wireframe-Web-19](./assets/images/chapter-5/wireframe/web/Tienda-Agro.png)
+![Wireframe-Web-20](./assets/images/chapter-5/wireframe/web/tienda-Agro%20(1).png)
+
+#### Application mobil wireframes
+
+![Wireframe-mobil-1](./assets/images/chapter-5/wireframe/movil/registro.png)
+![Wireframe-mobil-2](./assets/images/chapter-5/wireframe/movil/crear-cuenta.png)
+![Wireframe-mobil-3](./assets/images/chapter-5/wireframe/movil/home-field.png)
+![Wireframe-mobil-4](./assets/images/chapter-5/wireframe/movil/add-field.png)
+![Wireframe-mobil-5](./assets/images/chapter-5/wireframe/movil/home-field-menu.png)
+![Wireframe-mobil-6](./assets/images/chapter-5/wireframe/movil/field.png)
+![Wireframe-mobil-7](./assets/images/chapter-5/wireframe/movil/field-menu.png)
+![Wireframe-mobil-8](./assets/images/chapter-5/wireframe/movil/add-planting.png)
+![Wireframe-mobil-9](./assets/images/chapter-5/wireframe/movil/irrigation.png)
+![Wireframe-mobil-10](./assets/images/chapter-5/wireframe/movil/add-irrigation.png)
+![Wireframe-mobil-11](./assets/images/chapter-5/wireframe/movil/fumigation.png)
+![Wireframe-mobil-12](./assets/images/chapter-5/wireframe/movil/add-fumigation.png)
+![Wireframe-mobil-13](./assets/images/chapter-5/wireframe/movil/tienda.png)
 
 ### 5.4.2. Applications Wireflow Diagrams.
 
-contenido
+En UX, los wireflows son una herramienta clave, particularmente útil en aplicaciones que requieren procesos y dinámicas de interacción complicadas.
 
-### 5.4.2. Applications Mock-ups.
+Link: https://lucid.app/lucidchart/92ebd16d-086f-4c61-9fd0-b411cb0042b1/edit?viewport_loc=-20562%2C-10187%2C20788%2C9563%2Cv4BXeV2xRRXA&invitationId=inv_74964da9-5f6f-427f-8f72-fef503a70077
 
-contenido
+Aplicación web: Diseñamos los wireframes de las pantallas dirigidas a proveedores y agricultores y los ajustamos a los user goals definidos a continuación.
 
-### 5.4.3. Applications User Flow Diagrams.
 
-contenido
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación web.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202.png)
+
+#### Agricultor:
+
+**User goal:** Crear un nuevo campo, como agricultor quiero agregar un nuevo campo para registrar cultivos, programar irrigación, fumigación y añadir fertilizantes
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(1).png)
+
+**User goal:** Programar irrigación para cultivo, como agricultor quiero programar en ciertos periodos de tiempo irrigación para mis cultivos dentro de un campo ya creado.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(2).png)
+
+**User goal:** Programar tratamiento de cultivos, como agricultor quiero programar tratamiento de fertilizante y fumigación para mi cultivo que agregue en mi campo.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(3).png)
+
+#### Proveedores:
+
+**User goal:** Agregar un producto, como proveedor quiero agregar un nuevo producto en la plataforma.
+
+![Wireflow-web-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20Página%202%20(4).png)
+
+
+Aplicación móvil: Para la aplicación móvil hemos implementado los wireframes para los agricultores. Se presentan los diagramas de acuerdo a los usuer goals.
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación movil.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20movil.png)
+
+**User goal:** Crear un campo y progrmar irrigación para una plantiación, como agricultor quiero agrear un nuevo campo y prograr un evento de irrigación para una plantiación.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/wireflow/semestre-9%20-%20movil-1.png)
+
+### 5.4.3. Applications Mock-ups.
+
+En esta sección, se presentan los wireframes de nuestra aplicación en la herramienta Figma.
+
+Link: https://www.figma.com/design/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=0-1&t=eNkj3CvUfTcAkqav-1
+
+#### Application web Mock-ups
+
+![Mockups-Web-1](./assets/images/chapter-5/mock-ups/web/Registro.png)
+![Mockups-Web-2](./assets/images/chapter-5/mock-ups/web/SignUpView.png)
+![Mockups-Web-3](./assets/images/chapter-5/mock-ups/web/Fields.png)
+![Mockups-Web-4](./assets/images/chapter-5/mock-ups/web/Frame%207176.png)
+![Mockups-Web-5](./assets/images/chapter-5/mock-ups/web/Agregar%20Fields.png)
+![Mockups-Web-6](./assets/images/chapter-5/mock-ups/web/Planting-Form.png)
+![Mockups-Web-7](./assets/images/chapter-5/mock-ups/web/Irrigation-list.png)
+![Mockups-Web-8](./assets/images/chapter-5/mock-ups/web/Irrigation-Form.png)
+![Mockups-Web-9](./assets/images/chapter-5/mock-ups/web/Fumigation-list.png)
+![Mockups-Web-10](./assets/images/chapter-5/mock-ups/web/Fertilizers-Form.png)
+![Mockups-Web-11](./assets/images/chapter-5/mock-ups/web/Harvest-Agro.png)
+![Mockups-Web-12](./assets/images/chapter-5/mock-ups/web/Frame%207177.png)
+![Mockups-Web-13](./assets/images/chapter-5/mock-ups/web/Store.png)
+
+#### Application mobil Mock-ups
+
+![Mockups-Mobil-1](./assets/images/chapter-5/mock-ups/mobil/registro.png)
+![Mockups-Mobil-2](./assets/images/chapter-5/mock-ups/mobil/crear-cuenta.png)
+![Mockups-Mobil-3](./assets/images/chapter-5/mock-ups/mobil/home-field.png)
+![Mockups-Mobil-4](./assets/images/chapter-5/mock-ups/mobil/home-field%20(1).png)
+![Mockups-Mobil-5](./assets/images/chapter-5/mock-ups/mobil/add-field.png)
+![Mockups-Mobil-6](./assets/images/chapter-5/mock-ups/mobil/add-field%20(1).png)
+![Mockups-Mobil-7](./assets/images/chapter-5/mock-ups/mobil/field.png)
+![Mockups-Mobil-8](./assets/images/chapter-5/mock-ups/mobil/add-planting.png)
+![Mockups-Mobil-9](./assets/images/chapter-5/mock-ups/mobil/fumigation.png)
+![Mockups-Mobil-10](./assets/images/chapter-5/mock-ups/mobil/irrigation.png)
+![Mockups-Mobil-11](./assets/images/chapter-5/mock-ups/mobil/add-fumigation.png)
+![Mockups-Mobil-12](./assets/images/chapter-5/mock-ups/mobil/add-irrigation.png)
+![Mockups-Mobil-13](./assets/images/chapter-5/mock-ups/mobil/tienda.png)
+
+
+### 5.4.4. Applications User Flow Diagrams.
+
+Esta sección presenta la propuesta de User Flows. Estos User Flows deben ser consistentes con los Wireflows de los cuales se derivan.
+
+Link: https://lucid.app/lucidchart/92ebd16d-086f-4c61-9fd0-b411cb0042b1/edit?viewport_loc=-3977%2C-3728%2C11418%2C5252%2CqSMXPQDqn49G&invitationId=inv_74964da9-5f6f-427f-8f72-fef503a70077
+
+En este caso los user flow que definimos serian:
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación web.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams.png)
+
+#### Agricultor:
+
+**User goal:** Crear un nuevo campo, como agricultor quiero agregar un nuevo campo para registrar cultivos, programar irrigación, fumigación y añadir fertilizantes
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(1).png)
+
+**User goal:** Programar irrigación para cultivo, como agricultor quiero programar en ciertos periodos de tiempo irrigación para mis cultivos dentro de un campo ya creado.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(2).png)
+
+**User goal:** Programar tratamiento de cultivos, como agricultor quiero programar tratamiento de fertilizante y fumigación para mi cultivo que agregue en mi campo.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(3).png)
+
+#### Proveedores:
+
+**User goal:** Agregar un producto, como proveedor quiero agregar un nuevo producto en la plataforma.
+
+![User-flow-web](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams-provee.png)
+
+
+Aplicación móvil
+
+**User goal:** Iniciar sesicón como proveedor o agricultor en nuestra aplicación movil.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams-movil.png)
+
+**User goal:** Crear un campo y progrmar irrigación para una plantiación, como agricultor quiero agrear un nuevo campo y prograr un evento de irrigación para una plantiación.
+
+![Wireflow-mobil-13](./assets/images/chapter-5/user-flow/UPC%20-%20User%20Flow%20Diagrams%20(1)-movil.png)
+
 
 ## 5.5. Applications Prototyping.
 
