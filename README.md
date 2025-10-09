@@ -1146,37 +1146,37 @@ Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 | 35 | E7-TS108 | Asociasion de sensores a parcelas | Como administrador quiero asociar cada sensor con una parcela específica para identificar de donde provienen los cultivos. | 4 |
 | 36 | E7-TS109 | Visualizacion historica de datos | Como productor quiero consultar el historial de datos rcolectados por los sensores en cada parcela para analizar las tendencias y planificar mejor el riego. | 3 |
 | 37 | E7-TS110 | Análisis de eficiencia del riego | Como administrador quiero generar reportes sobre eficiencia de riego para evaluar el ahorro de agua en cada parcela. | 2 |
-| 38 | E8-TS101 | Registrar usuario vía APIRESTful | Como desarrollador quiero registrar al usuario a través de la API para persistir su información en la base de datos | 5 |
+| 38 | E8-TS101 | Registrar usuario vía APIRESTful | Como desarrollador quiero registrar al usuario a través de la API para persistir su información en la base de datos. | 5 |
 | 39 | E8-TS102 | Iniciar sesion del usuario atraves de la APIRESTful| Como desarrollador quiero logear al usuario a través de la API para brindarle acceso a la aplicación | 3 |
-| 40 | E8-TS103 | Obtener informacion del usuario atraves de la APIRESTful | Como desarrollador quiero obtener información del usuario a través de la API para mostrar los datos en la aplicación | 3 |
-| 41 | E8-TS104 | Crear campo atraves de la APIRESTful | Como desarrollador quiero crear un campo a través de la API para registrarlo en la base de datos | 5 |
-| 42 | E8-TS105 | Obtener informacion del campo atraves de la APIRESTful | Como desarrollador quiero obtener la información de los campos a través de la API para mostrar los datos en la aplicación | 3 |
-| 43 | E8-TS106 | Eliminar informacion del campo atraves de la APIRESTful | Como desarrollador quiero eliminar la información del campo a través de la API para eliminar los datos en la aplicación | 2 |
-| 44 | E8-TS107 | Editar informacion del campo atraves de la APIRESTful | Como desarrollador quiero editar la información del campo a través de la API para modificar datos en la aplicación | 3 |
-| 45 | E8-TS108 | Crear proceso agricola atraves de la APIRESTful | Como desarrollador quiero crear el proceso agrícola a través de la API para registrarlo en la base de datos | 5 |
-| 46 | E8-TS109 | Crear actividad en proceso agrícola | Como desarrollador quiero crear actividades agrícolas a través de la API para registrarlas en la base de datos | 8 |
-| 47 | E8-TS110 | Crear recurso en la actividad atraves de la APIRESTful | Como desarrollador quiero crear recursos en una actividad a través de la API para registrarlos en la base de datos | 5 |
-| 48 | E8-TS111 | Obtener informacion del proceso agricola por campo atraves de la APIRESTful | Como desarrollador quiero obtener la información del proceso agrícola por campo a través de la API | 3 |
-| 49 | E8-TS112 | Obtener informacion del proceso agricola por identificador del proceso agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de un proceso agrícola por identificador a través de la API | 2 |
-| 50 | E8-TS113 | Obtener informacion de la actividad agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de la actividad agrícola a través de la API | 3 |
-| 51 | E8-TS114 | Obtener informacion de la ultima actividad agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de la última actividad agrícola a través de la API | 2 |
-| 52 | E8-TS115 | Terminar la plantación atraves de la APIRESTful | Como desarrollador quiero terminar la plantación a través de la API para registrarlo en la base de datos | 5 |
-| 53 | E8-TS116 | Editar la informacion de la actividad del proceso agricola atraves de la APIRESTful | Como desarrollador quiero editar la información de una actividad a través de la API para actualizar datos en la aplicación | 3 |
-| 54 | E8-TS117 | Agregar trabajador atraves de la APIRESTful | Como desarrollador quiero agregar un trabajador a través de la API para registrarlo en la base de datos | 3 |
-| 55 | E8-TS118 | Obtener trabajadores atraves de la APIRESTful | Como desarrollador quiero obtener información de los trabajadores a través de la API | 2 |
-| 56 | E8-TS119 | Eliminar Trabajador atraves de la APIRESTful | Como desarrollador quiero eliminar trabajadores a través de la API para limpiar datos en la aplicación | 2 |
+| 40 | E8-TS103 | Obtener informacion del usuario atraves de la APIRESTful | Como desarrollador quiero obtener información del usuario a través de la API para mostrar los datos en la aplicación. | 3 |
+| 41 | E8-TS104 | Crear campo atraves de la APIRESTful | Como desarrollador quiero crear un campo a través de la API para registrarlo en la base de datos. | 5 |
+| 42 | E8-TS105 | Obtener informacion del campo atraves de la APIRESTful | Como desarrollador quiero obtener la información de los campos a través de la API para mostrar los datos en la aplicación. | 3 |
+| 43 | E8-TS106 | Eliminar informacion del campo atraves de la APIRESTful | Como desarrollador quiero eliminar la información del campo a través de la API para eliminar los datos en la aplicación. | 2 |
+| 44 | E8-TS107 | Editar informacion del campo atraves de la APIRESTful | Como desarrollador quiero editar la información del campo a través de la API para modificar datos en la aplicación. | 3 |
+| 45 | E8-TS108 | Crear proceso agricola atraves de la APIRESTful | Como desarrollador quiero crear el proceso agrícola a través de la API para registrarlo en la base de datos. | 5 |
+| 46 | E8-TS109 | Crear actividad en proceso agrícola | Como desarrollador quiero crear actividades agrícolas a través de la API para registrarlas en la base de datos. | 8 |
+| 47 | E8-TS110 | Crear recurso en la actividad atraves de la APIRESTful | Como desarrollador quiero crear recursos en una actividad a través de la API para registrarlos en la base de datos. | 5 |
+| 48 | E8-TS111 | Obtener informacion del proceso agricola por campo atraves de la APIRESTful | Como desarrollador quiero obtener la información del proceso agrícola por campo a través de la API. | 3 |
+| 49 | E8-TS112 | Obtener informacion del proceso agricola por identificador del proceso agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de un proceso agrícola por identificador a través de la API. | 2 |
+| 50 | E8-TS113 | Obtener informacion de la actividad agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de la actividad agrícola a través de la API. | 3 |
+| 51 | E8-TS114 | Obtener informacion de la ultima actividad agricola atraves de la APIRESTful | Como desarrollador quiero obtener la información de la última actividad agrícola a través de la API. | 2 |
+| 52 | E8-TS115 | Terminar la plantación atraves de la APIRESTful | Como desarrollador quiero terminar la plantación a través de la API para registrarlo en la base de datos. | 5 |
+| 53 | E8-TS116 | Editar la informacion de la actividad del proceso agricola atraves de la APIRESTful | Como desarrollador quiero editar la información de una actividad a través de la API para actualizar datos en la aplicación. | 3 |
+| 54 | E8-TS117 | Agregar trabajador atraves de la APIRESTful | Como desarrollador quiero agregar un trabajador a través de la API para registrarlo en la base de datos. | 3 |
+| 55 | E8-TS118 | Obtener trabajadores atraves de la APIRESTful | Como desarrollador quiero obtener información de los trabajadores a través de la API. | 2 |
+| 56 | E8-TS119 | Eliminar Trabajador atraves de la APIRESTful | Como desarrollador quiero eliminar trabajadores a través de la API para limpiar datos en la aplicación. | 2 |
 | 57 | E8-TS120 | Agregar payment atraves de la APIRESTful | Como desarrollador quiero agregar un payment a través de la API para registrarlo en la base de datos | 5 |
-| 58 | E8-TS121 | Obtener payment atraves de la APIRESTful | Como desarrollador quiero obtener información de los payments a través de la API | 3 |
-| 59 | E8-TS122 | Crear financiamiento atraves de la APIRESTful | Como desarrollador quiero crear datos de financiamiento a través de la API para registrarlos en la base de datos | 5 |
-| 60 | E8-TS123 | Obtener datos de financiamiento atraves de la APIRESTful | Como desarrollador quiero obtener datos de financiamiento a través de la API para mostrarlos en la aplicación | 3 |
-| 61 | E8-TS124 | Crear producto atraves de la APIRESTful | Como desarrollador quiero crear productos a través de la API para registrarlos en la base de datos | 5 |
-| 62 | E8-TS125 | Obtener productos atraves de la APIRESTful | Como desarrollador quiero obtener productos a través de la API para mostrarlos en la aplicación | 3 |
-| 63 | E8-TS126 | Obtener producto por nombre atraves de la APIRESTful | Como desarrollador quiero obtener productos por nombre a través de la API para mostrarlos en la aplicación | 2 |
-| 64 | E8-TS127 | Editar producto atraves de la APIRESTful | Como desarrollador quiero editar la información de un producto a través de la API | 3 |
-| 65 | E8-TS128 | Editar cantidad del producto atraves de la APIRESTful | Como desarrollador quiero editar la cantidad de un producto a través de la API | 2 |
-| 66 | E8-TS129 | Actualizar la información de un producto para el propietario atraves de la APIRESTful | Como desarrollador quiero actualizar la información de un producto para su propietario a través de la API | 3 |
-| 67 | E8-TS130 | Obtener la informacion de la humedad | Como desarrollador quiero obtener los datos de la humedad de las parcelas a traves del Edge Api para poder exponar la información de los sensores a los productores | 2 | 
-| 68 | E8-TS131 | Obtener la temperatura en cada parcela | Como desarrollador quiero obtener los datos de sobre temperatura en los cultivos a traves del Edge Api para poder exponar la información de los sensores a los productores | 4 |                                                                                                                                                                                                                                                                                                                                                                                                                
+| 58 | E8-TS121 | Obtener payment atraves de la APIRESTful | Como desarrollador quiero obtener información de los payments a través de la API. | 3 |
+| 59 | E8-TS122 | Crear financiamiento atraves de la APIRESTful | Como desarrollador quiero crear datos de financiamiento a través de la API para registrarlos en la base de datos. | 5 |
+| 60 | E8-TS123 | Obtener datos de financiamiento atraves de la APIRESTful | Como desarrollador quiero obtener datos de financiamiento a través de la API para mostrarlos en la aplicación. | 3 |
+| 61 | E8-TS124 | Crear producto atraves de la APIRESTful | Como desarrollador quiero crear productos a través de la API para registrarlos en la base de datos. | 5 |
+| 62 | E8-TS125 | Obtener productos atraves de la APIRESTful | Como desarrollador quiero obtener productos a través de la API para mostrarlos en la aplicación. | 3 |
+| 63 | E8-TS126 | Obtener producto por nombre atraves de la APIRESTful | Como desarrollador quiero obtener productos por nombre a través de la API para mostrarlos en la aplicación. | 2 |
+| 64 | E8-TS127 | Editar producto atraves de la APIRESTful | Como desarrollador quiero editar la información de un producto a través de la API. | 3 |
+| 65 | E8-TS128 | Editar cantidad del producto atraves de la APIRESTful | Como desarrollador quiero editar la cantidad de un producto a través de la API. | 2 |
+| 66 | E8-TS129 | Actualizar la información de un producto para el propietario atraves de la APIRESTful | Como desarrollador quiero actualizar la información de un producto para su propietario a través de la API. | 3 |
+| 67 | E8-TS130 | Obtener la informacion de la humedad | Como desarrollador quiero obtener los datos de la humedad de las parcelas a traves del Edge Api para poder exponar la información de los sensores a los productores. | 2 | 
+| 68 | E8-TS131 | Obtener la temperatura en cada parcela | Como desarrollador quiero obtener los datos de sobre temperatura en los cultivos a traves del Edge Api para poder exponar la información de los sensores a los productores. | 4 |                                                                                                                                                                                                                                                                                                                                                                                                                
 
 
 # Capítulo IV: Solution Software Design
