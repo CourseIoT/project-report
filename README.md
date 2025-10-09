@@ -2954,3 +2954,19 @@ Se aplicó DDD , lo que reduce acoplamiento y facilita la evolución e implement
 ---  
 
 # Bibliografía
+
+Miles, R., & Hamilton, K. (2006). Learning UML 2.0. O'Reilly Media. Retrieved from https://bit.ly/4fmPE7k
+
+Jansen, S. M. (2019). Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, NoSQL Databases, and
+Microservices. Apress. Retrieved from https://bit.ly/4flQyB7
+
+Wikifarmer. (n.d.). ¿Qué es el control biológico y cómo utilizarlo en la agricultura? Wikifarmer.
+Retrieved from https://bit.ly/3NKKdTW
+
+Conventional Commits. (n.d.). The Conventional Commits Specification. Licensed under Creative Commons -
+CC BY 3.0. Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+
+TypeScript. (n.d.). TypeScript: Typed JavaScript at Any Scale. Retrieved from https://www.typescriptlang.org/
+
+Pretty, J., Benton, T. G., Bharucha, Z. P., Dicks, L. V., Flora, C. B., Godfray, H. C. J., ... & Wratten, S. D. (2023). Transforming food systems with agroecology. PLOS Sustainability and Transformation, 2(1), e0000018. https://doi.org/10.1371/journal.pstr.0000018
