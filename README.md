@@ -1130,7 +1130,7 @@ Link del trello: https://trello.com/b/Y9ghYWuc/agrocontrol-product-backlog
 | 19 | E3-US110 | Consumo de agua por parcela | Como productor agrícola quiero ver cuánto agua he consumido en cada parcela para medir eficiencia. | 5 |
 | 20 | E4-US101 | Pantalla de inicio del distribuidor | Como distribuidor quiero gestionar mi tienda virtual para administrar inventario y precios. | 5 |
 | 21 | E4-US102 | Crear productos en la tienda | Como distribuidor quiero crear productos en la tienda virtual para poder venderlos. | 3 |
-| 22 | E4-US103 | nálisis de producto de la tienda | Como distribuidor quiero analizar productos y disponibilidad para optimizar compras y ventas. | 5 |
+| 22 | E4-US103 | Análisis de producto de la tienda | Como distribuidor quiero analizar productos y disponibilidad para optimizar compras y ventas. | 5 |
 | 23 | E4-US104 | Proceso de análisis financiero de la tienda | Como distribuidor quiero un análisis financiero para visualizar la utilidad de mi tienda. | 8 |
 | 24 | E4-US105 | Ofertas de la tienda de distribuidores | Como distribuidor quiero crear ofertas para captar el interés de mi público. | 3 |
 | 25 | E5-US101 | Preferencia de idioma | Como usuario quiero configurar preferencias de idioma para utilizar la app según mi preferencia. | 2 |
