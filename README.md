@@ -13,7 +13,7 @@ NRC: 3475
 
 Profesor: Marco Antonio Leon Baca
 
-Informe del Trabajo Final  - TB1
+Informe del Trabajo Final
 
 Startup: Terrabalance
 
@@ -85,7 +85,7 @@ Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TB2](assets/images/)
+![TB2](assets/images/chapter-1/tp-1.png)
 
 
 _TB2_
@@ -102,7 +102,7 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TB1]()
+![TB1](assets/images/chapter-1)
 
 ---  
 # Student Outcome
@@ -250,6 +250,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       * [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
       * [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
       * [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint-)
+    * [6.3. Validation Interviews.](#63-validation-interviews)
+      * [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
+      * [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
+      * [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-segun-heuristicas)
+    * [6.4. Video About-the-Product.](#64-video-about-the-producy)
 * [Conclusiones](#conclusiones)
 * [Bibliografía](#bibliografía)
 ---
@@ -2941,7 +2946,8 @@ Durante las primeras fases del desarrollo, se emplea json-server en local para s
 ![Image](https://github.com/user-attachments/assets/7bbf576f-a181-4d56-8a37-4eb647c136cc)
 
 ### 6.2.1.5. Services Documentation Evidence for Sprint Review.
-<img width="1895" height="566" alt="Image" src="https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf" />
+
+![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
 
 ### 6.2.1.6. Software Deployment Evidence for Sprint Review.
 
@@ -2950,8 +2956,82 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 ![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
 ### 6.2.1.7. Team Collaboration Insights during Sprint.
-<img width="757" height="888" alt="Image" src="https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3" />
 
+![Image](https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3)
+
+### 6.2.2. Sprint 2
+
+![Image](https://github.com/user-attachments/assets/3e1f643a-d3ca-4ccc-80a0-2765d5e48a50)
+
+#### 6.2.2.1. Sprint Planning 2
+
+| **Sprint #**                    | Sprint 2                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | xx/10/2025                                                                |
+| **Time**                        | 17:30 PM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Harold Mayta                                                              |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
+| **Sprint Review Summary**       | xxx |
+| **Sprint Retrospective Summary**| xxx |
+| **Sprint Goal**                 | xxx |
+| **Sprint Velocity**             | x                                                                     |
+| **Sum of Story Points**         | x Story points                                                              |
+
+#### 6.2.2.2. Sprint Backlog 2
+
+| **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
+|----------------|--------------------|-----------------|------------------------|------------------|------------|
+|||||||
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+![Image]()
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+![Image]()
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+
+![Image]()
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+**Landing Page**
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image]()
+
+**Back-end**
+Link: 
+![Image]()
+
+**Front-end**
+Link: 
+![Image]()
+
+**Mobile app**
+Link: 
+![Image]()
+
+**Wokwi**
+Link:
+![Image]()
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+![Image]()
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint
+
+![Image]()
+
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+### 6.3.2. Registro de Entrevistas.
+### 6.3.3. Evaluaciones según heurísticas.
+## 6.4. Video About-the-Product.
 
 # Conclusiones
 ### Conclusiones y recomendaciones
