@@ -2961,7 +2961,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ### 6.2.2. Sprint 2
 
-![Image](https://github.com/user-attachments/assets/3e1f643a-d3ca-4ccc-80a0-2765d5e48a50)
+![Image](./assets/images/chapter-6/sprint-2/sprint-2.png)
 
 #### 6.2.2.1. Sprint Planning 2
 
@@ -2982,27 +2982,27 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 | **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
 |----------------|--------------------|-----------------|------------------------|------------------|------------|
-|E2-US101-Registro e inicio de sesión | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 || Done |
-|E2-US102-Formulario de login | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 || Done |
-|E3-US101-Crear campos de cultivo | Formulario de creación | UI para ingresar datos del nuevo campo de cultivo. | 4 || Done |
-|E3-US102-Barra de navegación del productor agrícola | Crear componente| Crear el componente de menú principal | 4 || Done |
-|E3-US103-Pantalla de inicio del proceso agrícola | Maquetar componente | Maquetar la vista principal del productor. | 6 || Done |
-|E3-US104-Programación de fecha de riego de cultivos | UI de calendario  | Adaptar calendario para fechas de riego. | 4 || Done |
-|E3-US106-Programación de fechas de tratamiento | UI de calendario | Adaptar calendario para fechas de tratamiento. | 4 || Done |
-|E4-US101-Pantalla de inicio del distribuidor | Maquetar componente| Diseñar y maquetar la vista principal. | 6 || Done |
-|E4-US102-Crear productos en la tienda | Maquetar componente| UI para subir descripción y precio del producto.| 6 || Done |
-|E7-TS101-Lectura de humedad del suelo | Integrar sensor | Recibir y procesar los datos del sensor | 4 || Done |
-|E7-TS102-Monitoreo de condiciones climáticas | Integrar sensor | Obtener y almacenar datos | 4 || Done |
-|E7-TS104-Automatización de riego | Crear regla de negocio | Lógica para activar riego basado en humedad y clima. | 4 || Done |
-|E8-TS101-Registrar usuario vía APIRESTful | Crear endpoint | Endpoint para crear un nuevo usuario | 4 || Done |
-|E8-TS102-Iniciar sesión del usuario atraves de la APIRESTful| Crear endpoint | Endpoint para autenticar | 4 || Done |
-|E8-TS103-Obtener información del usuario atraves de la APIRESTful  Crear endpoint | Endpoint para obtener datos del usuario logueado. | 3 || Done |
-|E8-TS104-Crear campo atraves de la APIRESTful | Crear endpoint | Endpoint para que un productor registre un nuevo campo. | 6 || Done |
-|E8-TS105-Obtener información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para listar los campos del productor | 6 || Done |
-|E8-TS106-Eliminar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para eliminar un campo específico. | 4 || Done |
-|E8-TS107-Editar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para actualizar la información de un campo | 6 || Done |
-|E8-TS108-Crear proceso agrícola atraves de la APIRESTful | Crear endpoint |Endpoint para iniciar un nuevo ciclo de cultivo. | 6 || Done |
-|E8-TS109-Crear actividad en proceso agrícola | Crear endpoint | Endpoint para añadir una actividad | 6 || Done |
+|E2-US101-Registro e inicio de sesión | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 | Franco | Done |
+|E2-US102-Formulario de login | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 | Harold | Done |
+|E3-US101-Crear campos de cultivo | Formulario de creación | UI para ingresar datos del nuevo campo de cultivo. | 4 | Franco | Done |
+|E3-US102-Barra de navegación del productor agrícola | Crear componente| Crear el componente de menú principal | 4 | Harold | Done |
+|E3-US103-Pantalla de inicio del proceso agrícola | Maquetar componente | Maquetar la vista principal del productor. | 6 | Franco | Done |
+|E3-US104-Programación de fecha de riego de cultivos | UI de calendario  | Adaptar calendario para fechas de riego. | 4 | Franco | Done |
+|E3-US106-Programación de fechas de tratamiento | UI de calendario | Adaptar calendario para fechas de tratamiento. | 4 | Harold | Done |
+|E4-US101-Pantalla de inicio del distribuidor | Maquetar componente| Diseñar y maquetar la vista principal. | 6 | Franco | Done |
+|E4-US102-Crear productos en la tienda | Maquetar componente| UI para subir descripción y precio del producto.| 6 | Franco | Done |
+|E7-TS101-Lectura de humedad del suelo | Integrar sensor | Recibir y procesar los datos del sensor | 4 | Fabiola | Done |
+|E7-TS102-Monitoreo de condiciones climáticas | Integrar sensor | Obtener y almacenar datos | 4 | David | Done |
+|E7-TS104-Automatización de riego | Crear regla de negocio | Lógica para activar riego basado en humedad y clima. | 4 | Fabiola | Done |
+|E8-TS101-Registrar usuario vía APIRESTful | Crear endpoint | Endpoint para crear un nuevo usuario | 4 | Ricardo | Done |
+|E8-TS102-Iniciar sesión del usuario atraves de la APIRESTful| Crear endpoint | Endpoint para autenticar | 4 | Ricardo | Done |
+|E8-TS103-Obtener información del usuario atraves de la APIRESTful | Crear endpoint | Endpoint para obtener datos del usuario logueado. | 3 | Fabiola | Done |
+|E8-TS104-Crear campo atraves de la APIRESTful | Crear endpoint | Endpoint para que un productor registre un nuevo campo. | 6 | David | Done |
+|E8-TS105-Obtener información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para listar los campos del productor | 6 | Ricardo | Done |
+|E8-TS106-Eliminar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para eliminar un campo específico. | 4 | Ricardo | Done |
+|E8-TS107-Editar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para actualizar la información de un campo | 6 | Ricardo | Done |
+|E8-TS108-Crear proceso agrícola atraves de la APIRESTful | Crear endpoint |Endpoint para iniciar un nuevo ciclo de cultivo. | 6 | David | Done |
+|E8-TS109-Crear actividad en proceso agrícola | Crear endpoint | Endpoint para añadir una actividad | 6 | Ricardo | Done |
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
@@ -3019,29 +3019,42 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
 **Landing Page**
+<br>
 Link: https://courseiot.github.io/AgroControl-LandingPage/ 
 
-![Image]()
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
 **Back-end**
-Link: 
+<br>
+Link:
+
 ![Image]()
 
 **Front-end**
+<br>
 Link: 
+
 ![Image]()
 
 **Mobile app**
+<br>
 Link: 
+
 ![Image]()
 
 **Wokwi**
+<br>
 Link:
+
 ![Image]()
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
-![Image]()
+**Landing Page**
+<br>
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
