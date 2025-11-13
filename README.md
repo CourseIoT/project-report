@@ -3006,17 +3006,50 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
-![Image]()
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend1.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend1.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app1.jpg)
+
+**Wokwi**
+
+![Image](./assets/images/chapter-6/sprint-2)
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
-![Image]()
 
-#### 6.2.2.5. Execution Evidence for Sprint Review
+#### 6.2.2.4. Execution Evidence for Sprint Review
 
-![Image]()
+**Landing Page**
 
-#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app2.jpg)
+
+
+#### 6.2.2.5. Services Documentation Evidence for Sprint Review
 
 **Landing Page**
 <br>
@@ -3048,7 +3081,7 @@ Link:
 
 ![Image]()
 
-#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+#### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
 **Landing Page**
 <br>
@@ -3056,7 +3089,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
-#### 6.2.2.8. Team Collaboration Insights during Sprint
+#### 6.2.2.7. Team Collaboration Insights during Sprint
 
 ![Image]()
 
