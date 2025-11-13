@@ -2927,8 +2927,8 @@ Durante las primeras fases del desarrollo, se emplea json-server en local para s
 
 
 #### 6.2.1.2. Sprint Backlog 1  
-| **User Story**                              | **Work-item/Task**                                | **Description**                                        | **Estimation (Hours)** | **Assigned To**  | **Status**               |
-|---------------------------------------------|---------------------------------------------------|-------------------------------------------------------|------------------------|------------------|--------------------------|
+| **User Story** | **Work-item/Task** | **Description**                                        | **Estimation (Hours)** | **Assigned To**  | **Status**               |
+|----------------|--------------------|-------------------------------------------------------|------------------------|------------------|--------------------------|
 | E1-US001 Barra de navegación                | W01 Navigation bar on Landing Page                | Implementar una barra de navegación que sea responsive design para las secciones. | 0.5                    | Ricardo          | Done                     |
 | E1-US002 Sección de Introducción            | W02 Introduction section                          | Implementar una sección de introducción.               | 0.5                    | Fabiola          | Done                     |
 | E1-US003 Sección de Funcionalidades         | W03 Functionalities section of the Landing Page      | Implementar sección de funcionalidades.        | 2                      | Harold            | Done                     |
@@ -2967,22 +2967,42 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 | **Sprint #**                    | Sprint 2                                                                 |
 |---------------------------------|---------------------------------------------------------------------------|
-| **Sprint Planning Date**        | xx/10/2025                                                                |
+| **Sprint Planning Date**        | 10/11/2025                                                                |
 | **Time**                        | 17:30 PM                                                                  |
 | **Location**                    | Google Meet                                                               |
 | **Prepared By**                 | Harold Mayta                                                              |
 | **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
-| **Sprint Review Summary**       | xxx |
-| **Sprint Retrospective Summary**| xxx |
-| **Sprint Goal**                 | xxx |
-| **Sprint Velocity**             | x                                                                     |
-| **Sum of Story Points**         | x Story points                                                              |
+| **Sprint Review Summary**       | Se crearon los respositorios correspondientes para el Landing Page, Front-end y Back-end, así mismo se trabaja en la primera version de estos. |
+| **Sprint Retrospective Summary**| En el Sprint 1 se nos dio la observación de que el idioma predeterminado del Landing Page debe estar en español, y también hubo observaciones sobre el Backlog para hacer un óptimo reparto de actividades. |
+| **Sprint Goal**                 | Establecer la infraestructura de API y las interfaces de usuario para las funciones centrales del Productor, Distribuidor, creando la base funcional.|
+| **Sprint Velocity**             | 99                                                                     |
+| **Sum of Story Points**         | 99 Story points                                                              |
 
 #### 6.2.2.2. Sprint Backlog 2
 
 | **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
 |----------------|--------------------|-----------------|------------------------|------------------|------------|
-|||||||
+|E2-US101-Registro e inicio de sesión | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 || Done |
+|E2-US102-Formulario de login | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 || Done |
+|E3-US101-Crear campos de cultivo | Formulario de creación | UI para ingresar datos del nuevo campo de cultivo. | 4 || Done |
+|E3-US102-Barra de navegación del productor agrícola | Crear componente| Crear el componente de menú principal | 4 || Done |
+|E3-US103-Pantalla de inicio del proceso agrícola | Maquetar componente | Maquetar la vista principal del productor. | 6 || Done |
+|E3-US104-Programación de fecha de riego de cultivos | UI de calendario  | Adaptar calendario para fechas de riego. | 4 || Done |
+|E3-US106-Programación de fechas de tratamiento | UI de calendario | Adaptar calendario para fechas de tratamiento. | 4 || Done |
+|E4-US101-Pantalla de inicio del distribuidor | Maquetar componente| Diseñar y maquetar la vista principal. | 6 || Done |
+|E4-US102-Crear productos en la tienda | Maquetar componente| UI para subir descripción y precio del producto.| 6 || Done |
+|E7-TS101-Lectura de humedad del suelo | Integrar sensor | Recibir y procesar los datos del sensor | 4 || Done |
+|E7-TS102-Monitoreo de condiciones climáticas | Integrar sensor | Obtener y almacenar datos | 4 || Done |
+|E7-TS104-Automatización de riego | Crear regla de negocio | Lógica para activar riego basado en humedad y clima. | 4 || Done |
+|E8-TS101-Registrar usuario vía APIRESTful | Crear endpoint | Endpoint para crear un nuevo usuario | 4 || Done |
+|E8-TS102-Iniciar sesión del usuario atraves de la APIRESTful| Crear endpoint | Endpoint para autenticar | 4 || Done |
+|E8-TS103-Obtener información del usuario atraves de la APIRESTful  Crear endpoint | Endpoint para obtener datos del usuario logueado. | 3 || Done |
+|E8-TS104-Crear campo atraves de la APIRESTful | Crear endpoint | Endpoint para que un productor registre un nuevo campo. | 6 || Done |
+|E8-TS105-Obtener información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para listar los campos del productor | 6 || Done |
+|E8-TS106-Eliminar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para eliminar un campo específico. | 4 || Done |
+|E8-TS107-Editar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para actualizar la información de un campo | 6 || Done |
+|E8-TS108-Crear proceso agrícola atraves de la APIRESTful | Crear endpoint |Endpoint para iniciar un nuevo ciclo de cultivo. | 6 || Done |
+|E8-TS109-Crear actividad en proceso agrícola | Crear endpoint | Endpoint para añadir una actividad | 6 || Done |
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
