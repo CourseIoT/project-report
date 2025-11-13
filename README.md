@@ -3077,9 +3077,9 @@ Link:
 
 **Wokwi**
 <br>
-Link:
+Link: https://wokwi.com/projects/447480596312740865 
 
-![Image]()
+<img width="1911" height="943" alt="Image" src="https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7" />
 
 #### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
