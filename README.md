@@ -3095,6 +3095,38 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
+
+En esta sección se han definido una serie de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones y descripciones. Esta información será de gran ayuda en la validación de nuestra solución.
+
+**Preguntas Segmento 1: Productores Agrícolas**
+
+1. Después de usar la aplicación, ¿sientes que te ayuda a gestionar mejor tus campos de cultivo? ¿En qué aspectos concretos?
+2. ¿Qué tan fácil fue para ti registrar o actualizar la información de tus parcelas y cultivos en la aplicación?
+3. ¿La app te ayudó a tener más claridad sobre cuándo regar o cómo manejar el riego? ¿Cómo?
+4. ¿Has tomado alguna decisión diferente sobre tus cultivos gracias a la información que viste en la aplicación? Pon un ejemplo.
+5. ¿La información que muestra la app (estado del cultivo, riego, costos, etc.) te parece clara y entendible para tu día a día?
+6. ¿Sentiste que la aplicación te ahorró tiempo en comparación con la forma en que trabajabas antes? ¿En qué parte del trabajo lo notaste más?
+7. ¿Qué tan bien se adapta la aplicación a la forma real en la que trabajas en campo (conectividad, tiempo disponible, uso de celular, etc.)?
+8. ¿Hubo alguna funcionalidad que no usaras o que te pareciera innecesaria? ¿Cuál y por qué?
+9. ¿Qué funcionalidad o mejora sientes que le falta a la app para que realmente sea parte de tu trabajo diario?
+10. Si el sistema se integrara con sensores o equipos de riego, ¿crees que lo usarías? ¿En qué te tendría que ayudar para que valga la pena?
+11. En general, ¿qué tan satisfecho estás con la experiencia de uso de la app de 1 a 10? ¿Qué le falta para acercarse a 10?
+12. Si mañana esta aplicación estuviera disponible de forma completa, ¿la seguirías usando en el campo agrícola? ¿Por qué sí o por qué no?
+
+**Preguntas Segmento 2: Distribuidores**
+
+1. Después de usar la aplicación, ¿sientes que te ayudó a coordinar mejor con los productores? ¿De qué manera?
+2. ¿Fue sencillo para ti encontrar la información que necesitabas sobre disponibilidad de producto, fechas o volúmenes?
+3. ¿La información que viste sobre los cultivos o la producción te pareció confiable para tomar decisiones de compra o logística?
+4. ¿La app te ayudó a reducir problemas como cambios de último minuto, falta de stock o retrasos? Si es así, ¿cómo?
+5. ¿Sentiste que la aplicación te ahorró tiempo en la comunicación con los productores (llamadas, WhatsApp, etc.)?
+6. ¿Hubo momentos en los que preferiste usar tus métodos tradicionales (llamadas, Excel, etc.) en lugar de la app? ¿Por qué?
+7. ¿La forma en que la app presenta la información (pantallas, reportes, alertas) te resulta clara y fácil de leer para tu trabajo diario?
+8. ¿Qué funcionalidad de la aplicación te resultó más útil durante la prueba? ¿Por qué?
+10. ¿Qué funcionalidad o información adicional te haría sentir más seguro para basar tus decisiones en esta herramienta?
+11. ¿Te imaginas integrando esta app con tus sistemas actuales (inventario, facturación, rutas)? ¿En qué te ayudaría esa integración?
+12. En una escala del 1 al 10, ¿qué tan probable es que sigas usando esta aplicación si estuviera disponible de forma estable? Explica tu respuesta.
+
 ### 6.3.2. Registro de Entrevistas.
 ### 6.3.3. Evaluaciones según heurísticas.
 ## 6.4. Video About-the-Product.
