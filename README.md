@@ -3130,7 +3130,7 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 ### 6.3.2. Registro de Entrevistas.
 ### 6.3.3. Evaluaciones según heurísticas.
 
-### APP A EVALUAR: AgroControl
+### APP A EVALUAR: AgroControl Web Application
 
 ### TAREAS A EVALUAR
 
@@ -3151,7 +3151,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Visualizacion de productos
 - Finanzas
 - Visualizacion del tienda de productos
-- 
+
 
 
 #### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
@@ -3163,7 +3163,250 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
+### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
+Severidad: 3
+Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+Problema:
 
+En las secciones Irrigation y Fumigation, cuando no hay actividades registradas, se muestra el mensaje “No data available – No activities scheduled yet” sin ofrecer ninguna explicación adicional ni acciones sugeridas.
+Esto puede resultar confuso para productores con bajo nivel digital, ya que no indica cómo crear actividades, ni muestra un flujo claro para comenzar.
+
+Evidencia:
+
+Aparece en las tarjetas de Irrigation y Fumigation, ambas vacías.
+
+Recomendación:
+
+Agregar botones o mensajes guía como:
+
+“Crear primera actividad de riego”
+
+“Programar fumigación”
+
+Mostrar un pequeño tutorial contextual sobre cómo empezar.
+
+Esto reduce la incertidumbre y mejora el onboarding.
+
+
+### PROBLEMA #2: Falta de acciones rápidas para los trabajadores
+Severidad: 2
+Heurística violada: Flexibilidad y eficiencia de uso
+Problema:
+
+La tarjeta Workers solo tiene un botón “View”, lo cual obliga al usuario a entrar para ver o asignar actividades. Para distribuidores o administradores que manejan temporalmente a varios trabajadores, esto reduce la eficiencia.
+
+Evidencia:
+
+En la sección Workers, solo aparece un botón verde “View”.
+
+Recomendación:
+
+Agregar acciones rápidas dentro de la tarjeta:
+
+“Añadir trabajador”
+
+“Asignar tarea”
+
+“Editar datos”
+
+“Ver horario del día”
+
+Mejorará la velocidad del flujo y reducirá clics innecesarios.
+
+### PROBLEMA #3: Línea horizontal gris sin función clara genera confusión y rompe la coherencia del menú
+Severidad: 2
+Heurística violada:
+
+Estética y diseño minimalista
+
+Consistencia y estándares
+
+Problema:
+
+Dentro del menú lateral, aparece una línea horizontal gris que no tiene una función clara de separación ni relación con secciones específicas.
+Este elemento visual no agrupa opciones, no indica un cambio de categoría ni cumple un rol de navegación. Su presencia aislada hace que el usuario pueda interpretarlo como una división funcional inexistente o una sección incompleta.
+
+Además, esta línea no es coherente con el resto del menú, que utiliza espaciado y iconografía para organizar la estructura. Esto rompe la consistencia visual y genera ruido innecesario en la interfaz.
+
+Evidencia visual:
+
+En el menú lateral, debajo del título “AgroControl” y encima de las opciones “Home” y “Your Fields”, aparece una línea gris sin relación con el contenido.
+
+(Visible como un separador sin propósito aparente en la imagen del menú.)
+
+Recomendación:
+
+Eliminar la línea si no cumple un rol funcional.
+
+Si la intención era separar secciones, reemplazarla por:
+
+etiquetas de categoría (p. ej., “OPERACIONES”, “GESTIÓN”),
+
+mayor espaciado vertical,
+
+o un divisor con propósito definido.
+
+Mantener un diseño consistente y evitar elementos decorativos sin función.
+
+Esto mejora la claridad, reduce la carga visual y hace el menú más intuitivo.
+
+### PROBLEMA #4: Íconos del menú lateral carecen de consistencia semántica y pueden generar confusión
+
+Severidad: 3
+Heurística violada:
+
+Consistencia y estándares
+
+Relación entre el sistema y el mundo real
+
+Problema:
+
+Los íconos utilizados en el menú lateral presentan inconsistencias en su representación visual y relación semántica con las acciones que representan. Por ejemplo, el ícono de “Your Products” muestra algo similar a un frasco o contenedor, mientras que el de “Crop Treatment” muestra un matraz de laboratorio, que podría interpretarse como una acción científica más que agrícola.
+
+Para usuarios del segmento productor agrícola, especialmente aquellos con menor familiaridad tecnológica, estas metáforas visuales pueden resultar confusas y dificultar la navegación por la plataforma. La falta de coherencia con iconografía agrícola estándar compromete la claridad del sistema y obliga al usuario a leer cada texto en lugar de reconocer la opción por el ícono.
+
+Evidencia visual:
+
+En el menú lateral se observan iconos como:
+
+- Crop Treatment (matraz de laboratorio)
+
+- Your Products (icono no relacionado con productos agrícolas)
+
+- Irrigation (icónico pero estilísticamente diferente al resto)
+
+(Referencia: imagen proporcionada del menú lateral)
+
+Recomendación:
+
+Reemplazar los íconos por equivalentes más intuitivos y propios del contexto agrícola:
+
+Crop Treatment: icono de pulverizador o mochila fumigadora
+
+Your Products: icono de caja de cosecha, canasta, o saco de productos
+
+Finances: icono de monedas o gráfico financiero acorde al estilo de los demás
+
+Mantener un estilo visual uniforme (mismo grosor, tamaño, paleta).
+
+Validar las representaciones con usuarios reales del sector, asegurando que reconozcan los significados sin necesidad de leer el texto.
+
+Esto aumentará la claridad, reducirá la carga cognitiva y mejorará la navegación.
+
+### APP A EVALUAR: AgroControl Mobile Application
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+### General:
+
+- Registro del usuario
+- Inicio de sesión del usuario
+
+### Segmento de productor agricola:
+
+- Campo de irrigacion 
+- Campo de fumigacion
+- Campo de fertilizacion
+
+### Segmento de distribuidor agricola:
+- Visualizacion de productos
+- Finanzas
+- Visualizacion del tienda de productos
+
+### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
+Severidad: 3
+Heurística violada: Consistencia y estándares
+Problema:
+
+Las pantallas de “Fumigation & Fertilization Schedule” y “Irrigation Schedule” presentan inconsistencias en el etiquetado de los campos.
+En la primera pantalla, los campos incluyen Products y Workers, mientras que en la segunda solo aparece Workers. Esta diferencia, sin explicación, genera confusión en el usuario sobre si se deben ingresar productos o si se trata de un error.
+
+Además, los títulos son visualmente similares, lo que hace más difícil identificar que algunos campos cambian sin motivo aparente.
+
+Evidencia:
+
+“Fumigation & Fertilization Schedule” incluye “Products” y “Cost”.
+
+“Irrigation Schedule” no incluye “Products”, pese a que ambos flujos registran actividades agrícolas.
+
+Recomendación:
+
+Unificar nombres de campos o justificar la diferencia mediante texto contextual.
+Ejemplo: “Products (solo requerido para fumigación y fertilización)”.
+
+### PROBLEMA #2: El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual
+Severidad: 2
+Heurística violada: Estética y diseño minimalista
+Problema:
+
+El título de la pantalla de fumigación ocupa dos líneas y tiene mayor densidad de palabras que el contenido real. Esto rompe la jerarquía visual del encabezado, produce un desplazamiento innecesario del formulario y dificulta escanear el contenido rápidamente.
+
+Evidencia:
+
+El título “Fumigation & Fertilization Schedule” usa dos líneas y destaca más que los campos que le siguen.
+
+Recomendación:
+
+Reducir el título a algo más funcional y compacto, como:
+
+“Fumigation Schedule”
+
+“Fertilization & Fumigation”
+
+“Fertilization / Fumigation”
+
+Y usar un subtítulo si se requiere mayor detalle.
+
+### PROBLEMA #3: El precio está mal formateado y utiliza un símbolo de moneda incorrecto
+Severidad: 3
+Heurística violada: Consistencia y estándares
+Problema:
+
+Los productos muestran el precio como “10$”, lo cual no corresponde al formato estándar de monedas. Además, no se especifica qué divisa se está utilizando (USD, PEN, etc.), lo que es crítico para usuarios que requieren claridad en costos antes de proceder a una compra.
+
+Usar el símbolo después de la cifra y sin aclarar la divisa puede generar confusiones y afectar la confiabilidad del sistema.
+
+Evidencia:
+
+En todos los ítems de la lista aparece “10$” debajo del nombre del producto.
+
+Recomendación:
+
+Usar un formato estándar según la región, por ejemplo:
+
+$10.00 o USD 10.00
+
+S/ 10.00 si se usa moneda peruana.
+
+Mantener consistencia entre pantallas del sistema.
+
+### PROBLEMA #4: La lista de productos no incluye unidad, descripción ni detalles esenciales
+Severidad: 3
+Heurística violada: Relación entre el sistema y el mundo real
+Problema:
+
+Los productos muestran solo su nombre, imagen y precio, pero no indican unidad de venta (por ejemplo: bolsa, caja, kilo, litro), ni características relevantes para agricultores.
+Esto obliga al usuario a adivinar qué está comprando, aumentando el riesgo de compras incorrectas.
+
+Evidencia:
+
+Los productos “Radish Seed”, “Tools” y “Pruner” no muestran ninguna información sobre cantidad, tamaño, marca o unidad.
+
+Recomendación:
+
+Incluir datos como:
+
+Unidad de medida
+
+Cantidad incluida
+
+Marca
+
+Material o características técnicas
+
+Uso recomendado
 
 ## 6.4. Video About-the-Product.
 
