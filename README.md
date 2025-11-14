@@ -3022,7 +3022,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 **Wokwi**
 
-![Image](./assets/images/chapter-6/sprint-2)
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
 
 <!--#### 6.2.2.4. Testing Suite Evidence for Sprint Review-->
 
@@ -3057,7 +3057,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
 
-**Back-end**
+<!--**Back-end**
 <br>
 Link:
 
@@ -3073,7 +3073,7 @@ Link:
 <br>
 Link: 
 
-![Image]()
+![Image]() -->
 
 **Wokwi**
 <br>
