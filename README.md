@@ -3024,7 +3024,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 
 ![Image](./assets/images/chapter-6/sprint-2)
 
-#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+<!--#### 6.2.2.4. Testing Suite Evidence for Sprint Review-->
 
 
 #### 6.2.2.4. Execution Evidence for Sprint Review
@@ -3055,7 +3055,7 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 <br>
 Link: https://courseiot.github.io/AgroControl-LandingPage/ 
 
-![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
 
 **Back-end**
 <br>
@@ -3079,7 +3079,7 @@ Link:
 <br>
 Link: https://wokwi.com/projects/447480596312740865 
 
-<img width="1911" height="943" alt="Image" src="https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7" />
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
 
 #### 6.2.2.6. Software Deployment Evidence for Sprint Review
 
@@ -3088,6 +3088,27 @@ Link: https://wokwi.com/projects/447480596312740865
 Link: https://courseiot.github.io/AgroControl-LandingPage/ 
 
 ![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Web Application**
+<br>
+Link: https://agro-control-front-end.vercel.app  
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**Back-end**
+<br>
+Link: https://agrocontrol-backend-1.onrender.com/swagger-ui/index.html#/
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Wokwi**
+<br>
+Link: https://wokwi.com/projects/447480596312740865
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
 
 #### 6.2.2.7. Team Collaboration Insights during Sprint
 
