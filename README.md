@@ -3174,7 +3174,6 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Visualizacion del tienda de productos
 
 
-
 #### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
 
 | Nivel | Descripción |
@@ -3184,6 +3183,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
+![web_application_problem_1](./assets/images/chapter-6/heuristics/web_application/problem_1.png)
 ### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
 Severidad: 3
 Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
@@ -3208,7 +3208,7 @@ Mostrar un pequeño tutorial contextual sobre cómo empezar.
 
 Esto reduce la incertidumbre y mejora el onboarding.
 
-
+![web_application_problem_2](./assets/images/chapter-6/heuristics/web_application/problem_2.png)
 ### PROBLEMA #2: Falta de acciones rápidas para los trabajadores
 Severidad: 2
 Heurística violada: Flexibilidad y eficiencia de uso
@@ -3234,6 +3234,7 @@ Agregar acciones rápidas dentro de la tarjeta:
 
 Mejorará la velocidad del flujo y reducirá clics innecesarios.
 
+![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
 ### PROBLEMA #3: Línea horizontal gris sin función clara genera confusión y rompe la coherencia del menú
 Severidad: 2
 Heurística violada:
@@ -3271,6 +3272,8 @@ Mantener un diseño consistente y evitar elementos decorativos sin función.
 
 Esto mejora la claridad, reduce la carga visual y hace el menú más intuitivo.
 
+
+![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
 ### PROBLEMA #4: Íconos del menú lateral carecen de consistencia semántica y pueden generar confusión
 
 Severidad: 3
@@ -3336,6 +3339,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Finanzas
 - Visualizacion del tienda de productos
 
+
+![web_application_problem_1](./assets/images/chapter-6/heuristics/mobile_application/problem_1.png)
 ### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
 Severidad: 3
 Heurística violada: Consistencia y estándares
@@ -3357,6 +3362,7 @@ Recomendación:
 Unificar nombres de campos o justificar la diferencia mediante texto contextual.
 Ejemplo: “Products (solo requerido para fumigación y fertilización)”.
 
+![web_application_problem_2](./assets/images/chapter-6/heuristics/mobile_application/problem_2.png)
 ### PROBLEMA #2: El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual
 Severidad: 2
 Heurística violada: Estética y diseño minimalista
@@ -3380,6 +3386,7 @@ Reducir el título a algo más funcional y compacto, como:
 
 Y usar un subtítulo si se requiere mayor detalle.
 
+![web_application_problem_3](./assets/images/chapter-6/heuristics/mobile_application/problem_3.png)
 ### PROBLEMA #3: El precio está mal formateado y utiliza un símbolo de moneda incorrecto
 Severidad: 3
 Heurística violada: Consistencia y estándares
@@ -3403,6 +3410,7 @@ S/ 10.00 si se usa moneda peruana.
 
 Mantener consistencia entre pantallas del sistema.
 
+![web_application_problem_4](./assets/images/chapter-6/heuristics/mobile_application/problem_4.png)
 ### PROBLEMA #4: La lista de productos no incluye unidad, descripción ni detalles esenciales
 Severidad: 3
 Heurística violada: Relación entre el sistema y el mundo real
