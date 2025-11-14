@@ -3129,6 +3129,42 @@ En esta sección se han definido una serie de preguntas para nuestros segmentos 
 
 ### 6.3.2. Registro de Entrevistas.
 ### 6.3.3. Evaluaciones según heurísticas.
+
+### APP A EVALUAR: AgroControl
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+### General:
+
+- Registro del usuario
+- Inicio de sesión del usuario
+
+### Segmento de productor agricola:
+
+- Campo de irrigacion 
+- Campo de fumigacion
+- Campo de fertilizacion
+
+### Segmento de distribuidor agricola:
+- Visualizacion de productos
+- Finanzas
+- Visualizacion del tienda de productos
+- 
+
+
+#### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+
 ## 6.4. Video About-the-Product.
 
 # Conclusiones
