@@ -3238,6 +3238,95 @@ Segmento Distribuidores Agrícolas:
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
+### APP A EVALUAR: LANDING PAGE
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+### General:
+
+- Sección de caracteristicas
+- Sección de IOT
+- Sección de planes
+- Sección de equipo
+- Sección de conctacto
+
+#### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+| #  | Problema                                                                                              | Escala de severidad | Heurística / Principio violado(a)                                        |
+|----|--------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------|
+| 1  | La sección del equipo tiene mucha carga visual y el contenido importante queda desplazado             | 2                    | Inclusive Design: Minimizar carga cognitiva / equilibrio visual          |
+| 2  | El botón de idioma (“EN”) no indica claramente su función                                             | 2                    | Usabilidad: Visibilidad del estado del sistema / Reconocimiento vs. recuerdo |
+| 3  | No existe opción de “volver arriba” en una landing extensa                                            | 1                    | Usabilidad: Libertad y control del usuario                                |
+| 4  | No existe indicación clara de en qué sección del menú se encuentra el usuario                         | 2                    | Usabilidad: Visibilidad del estado del sistema                            |
+
+
+### PROBLEMA #1: La sección del equipo tiene mucha carga visual y el contenido importante queda desplazado
+
+Severidad: 2
+Heurística violada: Inclusive Design – Minimizar carga cognitiva / equilibrio visual
+
+Problema:
+
+Las fotos del equipo tienen tamaños muy grandes y variaciones de contraste. Esto hace que el usuario tenga que desplazarse más de la cuenta y, además, provoca distracción del contenido principal (nombre y rol). En pantallas medianas las tarjetas ocupan demasiado espacio vertical.
+
+![landing_page_1](./assets/images/chapter-6/heuristics/landing_page/problem_1.png)
+
+Recomendación:
+
+Reducir tamaño de imágenes, estandarizar proporciones, y reforzar el texto para asegurar legibilidad. Se sugiere una cuadrícula más compacta para minimizar el recorrido.
+
+### PROBLEMA 2: El botón de idioma (“EN”) no indica claramente su función
+
+Ubicación: Imagen 1 – Barra superior del Home
+Severidad: 2
+Heurística violada: Visibilidad del estado del sistema / Reconocimiento antes que recuerdo
+
+Problema
+
+El botón “EN” en la esquina superior derecha no indica explícitamente que es un selector de idioma. El usuario puede confundirlo con una insignia de perfil o una etiqueta sin acción.
+
+![landing_page_2](./assets/images/chapter-6/heuristics/landing_page/problem_2.png)
+
+Recomendación
+
+Agregar un ícono de idioma (🌐), un tooltip o menú desplegable que muestre los idiomas disponibles.
+
+### PROBLEMA #3: No existe opción de “volver arriba” en una landing extensa
+
+Severidad: 1
+Heurística violada: Usabilidad – Control y libertad del usuario
+
+Problema:
+La página es muy larga y carece de un botón para regresar al inicio rápidamente. Esto aumenta el esfuerzo especialmente en móviles y afecta la experiencia de accesibilidad.
+
+![landing_page_3](./assets/images/chapter-6/heuristics/landing_page/problem_3.png)
+
+Recomendación:
+Agregar un botón flotante de “Back to top”.
+
+### PROBLEMA #4: No existe indicación clara de en qué sección del menú se encuentra el usuario
+
+Severidad: 2
+Heurística violada: Usabilidad – Visibilidad del estado del sistema
+
+Problema:
+El menú superior no marca cuál sección está activa. Esto provoca desorientación y hace que el usuario pierda la noción de su ubicación dentro de la página, afectando especialmente a usuarios con problemas de memoria de trabajo o quienes navegan rápidamente.
+
+![landing_page_4](./assets/images/chapter-6/heuristics/landing_page/problem_4.png)
+
+
+Recomendación:
+Agregar un estado activo (“Inicio”, “Características”, etc.) mediante un cambio de color, subrayado o resaltado accesible.
+
 ### APP A EVALUAR: AgroControl Web Application
 
 ### TAREAS A EVALUAR
@@ -3270,139 +3359,116 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
-![web_application_problem_1](./assets/images/chapter-6/heuristics/web_application/problem_1.png)
+
 ### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
+
 Severidad: 3
-Heurística violada: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+Heurística violada: Usabilidad – Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+
 Problema:
 
-En las secciones Irrigation y Fumigation, cuando no hay actividades registradas, se muestra el mensaje “No data available – No activities scheduled yet” sin ofrecer ninguna explicación adicional ni acciones sugeridas.
-Esto puede resultar confuso para productores con bajo nivel digital, ya que no indica cómo crear actividades, ni muestra un flujo claro para comenzar.
+En las secciones Irrigation y Fumigation, cuando no existen actividades programadas, únicamente se muestra el mensaje “No data available – No activities scheduled yet”.
+Este mensaje no orienta al usuario sobre qué hacer a continuación, ni sugiere pasos iniciales para registrar una actividad.
+Para productores con baja alfabetización digital, esto puede generar confusión, detener el flujo de trabajo y aumentar la carga cognitiva porque no se ofrece una acción clara ni un camino para continuar.
 
-Evidencia:
-
-Aparece en las tarjetas de Irrigation y Fumigation, ambas vacías.
+![web_application_problem_1](./assets/images/chapter-6/heuristics/web_application/problem_1.png)
 
 Recomendación:
 
-Agregar botones o mensajes guía como:
+Incorporar llamadas a la acción dentro del estado vacío, tales como:
 
 “Crear primera actividad de riego”
 
 “Programar fumigación”
 
-Mostrar un pequeño tutorial contextual sobre cómo empezar.
+“Agregar nueva tarea”
 
-Esto reduce la incertidumbre y mejora el onboarding.
+Además, incluir un pequeño texto guía o tutorial contextual para facilitar el onboarding del usuario cuando se encuentra con una sección vacía.
 
-![web_application_problem_2](./assets/images/chapter-6/heuristics/web_application/problem_2.png)
-### PROBLEMA #2: Falta de acciones rápidas para los trabajadores
+### PROBLEMA #2: Falta de acciones rápidas en la tarjeta de trabajadores
+
 Severidad: 2
 Heurística violada: Flexibilidad y eficiencia de uso
+
 Problema:
 
-La tarjeta Workers solo tiene un botón “View”, lo cual obliga al usuario a entrar para ver o asignar actividades. Para distribuidores o administradores que manejan temporalmente a varios trabajadores, esto reduce la eficiencia.
+La tarjeta Workers únicamente muestra un botón “View”, obligando al usuario a ingresar a la vista interna para realizar cualquier acción, como editar datos, asignar tareas o agregar nuevos trabajadores.
+Para administradores o distribuidores que gestionan varias tareas y trabajadores simultáneamente, esto incrementa el número de clics y ralentiza el flujo de trabajo.
 
-Evidencia:
+![web_application_problem_2](./assets/images/chapter-6/heuristics/web_application/problem_2.png)
 
-En la sección Workers, solo aparece un botón verde “View”.
 
 Recomendación:
 
-Agregar acciones rápidas dentro de la tarjeta:
+Agregar accesos rápidos dentro de la tarjeta, tales como:
 
 “Añadir trabajador”
 
 “Asignar tarea”
 
-“Editar datos”
+“Editar trabajador”
 
 “Ver horario del día”
 
-Mejorará la velocidad del flujo y reducirá clics innecesarios.
+Con ello se reduce el tiempo de navegación y se mejora la eficiencia del sistema.
 
-![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
-### PROBLEMA #3: Línea horizontal gris sin función clara genera confusión y rompe la coherencia del menú
+### PROBLEMA #3: Línea horizontal gris en el menú sin función clara
+
 Severidad: 2
-Heurística violada:
-
-Estética y diseño minimalista
-
-Consistencia y estándares
+Heurística violada: Usabilidad – Estética y diseño minimalista; Consistencia y estándares
 
 Problema:
 
-Dentro del menú lateral, aparece una línea horizontal gris que no tiene una función clara de separación ni relación con secciones específicas.
-Este elemento visual no agrupa opciones, no indica un cambio de categoría ni cumple un rol de navegación. Su presencia aislada hace que el usuario pueda interpretarlo como una división funcional inexistente o una sección incompleta.
+En el menú lateral aparece una línea horizontal gris ubicada entre el encabezado y las opciones principales.
+Este elemento no cumple un rol funcional evidente: no separa categorías, no marca jerarquías y no indica cambios de sección.
+Su presencia genera ruido visual y afecta la coherencia del diseño, ya que el resto del menú utiliza espaciado e iconografía como elementos organizadores.
 
-Además, esta línea no es coherente con el resto del menú, que utiliza espaciado y iconografía para organizar la estructura. Esto rompe la consistencia visual y genera ruido innecesario en la interfaz.
-
-Evidencia visual:
-
-En el menú lateral, debajo del título “AgroControl” y encima de las opciones “Home” y “Your Fields”, aparece una línea gris sin relación con el contenido.
-
-(Visible como un separador sin propósito aparente en la imagen del menú.)
+![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
 
 Recomendación:
 
-Eliminar la línea si no cumple un rol funcional.
+Eliminar la línea si no tiene propósito definido.
+Si la intención era separar secciones, usar alternativas claras:
 
-Si la intención era separar secciones, reemplazarla por:
-
-etiquetas de categoría (p. ej., “OPERACIONES”, “GESTIÓN”),
+etiquetas de categorías (“Gestión”, “Operaciones”),
 
 mayor espaciado vertical,
 
-o un divisor con propósito definido.
+divisores con propósito semántico real.
 
-Mantener un diseño consistente y evitar elementos decorativos sin función.
-
-Esto mejora la claridad, reduce la carga visual y hace el menú más intuitivo.
-
-
-![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
-### PROBLEMA #4: Íconos del menú lateral carecen de consistencia semántica y pueden generar confusión
+Esto mejora la claridad y mantiene una estructura visual coherente.
+)
+### PROBLEMA #4: Inconsistencias semánticas en los íconos del menú lateral
 
 Severidad: 3
-Heurística violada:
-
-Consistencia y estándares
-
-Relación entre el sistema y el mundo real
+Heurística violada: Consistencia y estándares; Relación entre el sistema y el mundo real
 
 Problema:
 
-Los íconos utilizados en el menú lateral presentan inconsistencias en su representación visual y relación semántica con las acciones que representan. Por ejemplo, el ícono de “Your Products” muestra algo similar a un frasco o contenedor, mientras que el de “Crop Treatment” muestra un matraz de laboratorio, que podría interpretarse como una acción científica más que agrícola.
+Los íconos del menú lateral no representan de manera clara o coherente las funciones del sistema.
+Por ejemplo:
 
-Para usuarios del segmento productor agrícola, especialmente aquellos con menor familiaridad tecnológica, estas metáforas visuales pueden resultar confusas y dificultar la navegación por la plataforma. La falta de coherencia con iconografía agrícola estándar compromete la claridad del sistema y obliga al usuario a leer cada texto en lugar de reconocer la opción por el ícono.
+Crop Treatment usa un matraz de laboratorio, lo cual se asocia más a actividades químicas o científicas que a fumigación agrícola.
 
-Evidencia visual:
+Your Products utiliza un icono que no representa claramente productos cosechados o insumos agrícolas.
 
-En el menú lateral se observan iconos como:
+Algunos íconos difieren en estilo, grosor y diseño, rompiendo la coherencia visual.
 
-- Crop Treatment (matraz de laboratorio)
+Esto obliga al usuario a leer los textos siempre, lo que ralentiza la navegación y afecta especialmente a productores con baja alfabetización digital.
 
-- Your Products (icono no relacionado con productos agrícolas)
-
-- Irrigation (icónico pero estilísticamente diferente al resto)
-
-(Referencia: imagen proporcionada del menú lateral)
+![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png
 
 Recomendación:
 
-Reemplazar los íconos por equivalentes más intuitivos y propios del contexto agrícola:
+Sustituir los íconos por opciones más intuitivas y coherentes:
 
-Crop Treatment: icono de pulverizador o mochila fumigadora
+Crop Treatment: mochila fumigadora o pulverizador.
 
-Your Products: icono de caja de cosecha, canasta, o saco de productos
+Your Products: caja de cosecha, saco agrícola, canasta.
 
-Finances: icono de monedas o gráfico financiero acorde al estilo de los demás
+Finances: ícono de gráfico o monedas con estilo consistente.
 
-Mantener un estilo visual uniforme (mismo grosor, tamaño, paleta).
-
-Validar las representaciones con usuarios reales del sector, asegurando que reconozcan los significados sin necesidad de leer el texto.
-
-Esto aumentará la claridad, reducirá la carga cognitiva y mejorará la navegación.
+Unificar el estilo de iconografía (grosor, tamaño, color) y validar las representaciones con usuarios reales del sector.
 
 ### APP A EVALUAR: AgroControl Mobile Application
 
@@ -3427,43 +3493,56 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Visualizacion del tienda de productos
 
 
-![web_application_problem_1](./assets/images/chapter-6/heuristics/mobile_application/problem_1.png)
 ### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
+
 Severidad: 3
-Heurística violada: Consistencia y estándares
+Heurística violada: Usabilidad – Consistencia y estándares
+
 Problema:
 
-Las pantallas de “Fumigation & Fertilization Schedule” y “Irrigation Schedule” presentan inconsistencias en el etiquetado de los campos.
-En la primera pantalla, los campos incluyen Products y Workers, mientras que en la segunda solo aparece Workers. Esta diferencia, sin explicación, genera confusión en el usuario sobre si se deben ingresar productos o si se trata de un error.
+Las pantallas “Fumigation & Fertilization Schedule” e “Irrigation Schedule” presentan diferencias en las etiquetas de los campos, pese a pertenecer al mismo flujo de registro de actividades agrícolas.
+Mientras la primera incluye Products y Cost, la segunda solo muestra Workers, sin ningún mensaje que justifique la ausencia de los demás campos.
+Esta inconsistencia puede generar confusión en el usuario, quien podría interpretar que falta información por completar o que se trata de un error en la interfaz.
 
-Además, los títulos son visualmente similares, lo que hace más difícil identificar que algunos campos cambian sin motivo aparente.
+Esta falta de uniformidad afecta especialmente a productores agrícolas con menor familiaridad digital, que suelen depender de patrones visuales consistentes para orientarse.
+
+![mobile_application_problem_1](./assets/images/chapter-6/heuristics/mobile_application/problem_1.png)
 
 Evidencia:
 
-“Fumigation & Fertilization Schedule” incluye “Products” y “Cost”.
+La pantalla “Fumigation & Fertilization Schedule” muestra los campos “Products”, “Workers” y “Cost”.
 
-“Irrigation Schedule” no incluye “Products”, pese a que ambos flujos registran actividades agrícolas.
+La pantalla “Irrigation Schedule” solo muestra “Workers” y “Cost”.
 
 Recomendación:
 
-Unificar nombres de campos o justificar la diferencia mediante texto contextual.
-Ejemplo: “Products (solo requerido para fumigación y fertilización)”.
+Unificar el conjunto de campos en ambas pantallas o justificar claramente la diferencia mediante texto contextual.
+Por ejemplo:
 
-![web_application_problem_2](./assets/images/chapter-6/heuristics/mobile_application/problem_2.png)
+“Products (solo requerido para fumigación y fertilización)”.
+
+Esto permitirá mantener claridad funcional y reducir errores de interpretación.
+
 ### PROBLEMA #2: El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual
+
 Severidad: 2
-Heurística violada: Estética y diseño minimalista
+Heurística violada: Usabilidad – Estética y diseño minimalista
+
 Problema:
 
-El título de la pantalla de fumigación ocupa dos líneas y tiene mayor densidad de palabras que el contenido real. Esto rompe la jerarquía visual del encabezado, produce un desplazamiento innecesario del formulario y dificulta escanear el contenido rápidamente.
+El título de la pantalla de fumigación es extenso y ocupa dos líneas completas, generando un encabezado visualmente pesado.
+Esto rompe la jerarquía del diseño, desplaza innecesariamente el contenido del formulario hacia abajo y dificulta la lectura rápida del propósito de la pantalla.
+Para usuarios de dispositivos móviles con pantallas pequeñas, este problema se intensifica, ya que disminuye el espacio visible para los campos principales.
+
+![mobile_application_problem_2](./assets/images/chapter-6/heuristics/mobile_application/problem_2.png)
 
 Evidencia:
 
-El título “Fumigation & Fertilization Schedule” usa dos líneas y destaca más que los campos que le siguen.
+El texto “Fumigation & Fertilization Schedule” se visualiza en dos líneas, resaltando más que el formulario que le sigue.
 
 Recomendación:
 
-Reducir el título a algo más funcional y compacto, como:
+Reducir el título a una opción más compacta, como:
 
 “Fumigation Schedule”
 
@@ -3471,58 +3550,79 @@ Reducir el título a algo más funcional y compacto, como:
 
 “Fertilization / Fumigation”
 
-Y usar un subtítulo si se requiere mayor detalle.
+Si se necesita más detalle, agregar un subtítulo descriptivo debajo.
 
-![web_application_problem_3](./assets/images/chapter-6/heuristics/mobile_application/problem_3.png)
 ### PROBLEMA #3: El precio está mal formateado y utiliza un símbolo de moneda incorrecto
+
 Severidad: 3
-Heurística violada: Consistencia y estándares
+Heurística violada: Usabilidad – Consistencia y estándares
+
 Problema:
 
-Los productos muestran el precio como “10$”, lo cual no corresponde al formato estándar de monedas. Además, no se especifica qué divisa se está utilizando (USD, PEN, etc.), lo que es crítico para usuarios que requieren claridad en costos antes de proceder a una compra.
+En la lista de productos, los precios se muestran como “10$”, lo cual va en contra del estándar internacional de formato de moneda, que posiciona el símbolo antes de la cifra o utiliza códigos como USD o PEN.
+Además, no se especifica la divisa utilizada, lo cual puede ocasionar confusión en usuarios que requieren claridad sobre costos antes de realizar una compra.
 
-Usar el símbolo después de la cifra y sin aclarar la divisa puede generar confusiones y afectar la confiabilidad del sistema.
+Este detalle afecta la confianza y profesionalismo percibido del sistema.
+
+![mobile_application_problem_3](./assets/images/chapter-6/heuristics/mobile_application/problem_3.png)
+
 
 Evidencia:
 
-En todos los ítems de la lista aparece “10$” debajo del nombre del producto.
+Todos los productos listados (“Radish Seed”, “Tools”, “Pruner”) muestran el precio “10$”.
 
 Recomendación:
 
-Usar un formato estándar según la región, por ejemplo:
+Utilizar un formato apropiado para la región objetivo, por ejemplo:
 
-$10.00 o USD 10.00
+USD 10.00 o $10.00
 
-S/ 10.00 si se usa moneda peruana.
+S/ 10.00 si se usa moneda peruana
 
-Mantener consistencia entre pantallas del sistema.
+Mantener este formato de forma consistente en toda la aplicación.
 
-![web_application_problem_4](./assets/images/chapter-6/heuristics/mobile_application/problem_4.png)
 ### PROBLEMA #4: La lista de productos no incluye unidad, descripción ni detalles esenciales
+
 Severidad: 3
 Heurística violada: Relación entre el sistema y el mundo real
+
 Problema:
 
-Los productos muestran solo su nombre, imagen y precio, pero no indican unidad de venta (por ejemplo: bolsa, caja, kilo, litro), ni características relevantes para agricultores.
-Esto obliga al usuario a adivinar qué está comprando, aumentando el riesgo de compras incorrectas.
+Los productos mostrados en la sección de tienda solo incluyen el nombre, imagen y precio.
+No se indica unidad (bolsa, caja, kilo), cantidad, marca o características técnicas, lo que obliga al usuario a adivinar qué está comprando.
+
+Para agricultores —cuyo trabajo depende de precisión en cantidades, medidas y especificaciones— esta falta de información incrementa el riesgo de compras incorrectas y reduce la confiabilidad del sistema.
+
+![mobile_application_problem_4](./assets/images/chapter-6/heuristics/mobile_application/problem_4.png)
+
 
 Evidencia:
 
-Los productos “Radish Seed”, “Tools” y “Pruner” no muestran ninguna información sobre cantidad, tamaño, marca o unidad.
+Productos como:
+
+“Radish Seed”
+
+“Tools”
+
+“Pruner”
+
+no muestran información detallada sobre su contenido, tamaño, marca ni unidad de venta.
 
 Recomendación:
 
-Incluir datos como:
+Incluir, al menos, los siguientes datos:
 
 Unidad de medida
 
 Cantidad incluida
 
-Marca
+Marca o fabricante
 
-Material o características técnicas
+Material o especificaciones técnicas
 
 Uso recomendado
+
+Esto alineará la interfaz con las expectativas del usuario agrícola y reducirá errores de compra.
 
 ## 6.4. Video About-the-Product.
 
