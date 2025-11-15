@@ -3113,7 +3113,9 @@ Link: https://wokwi.com/projects/447480596312740865
 
 #### 6.2.2.7. Team Collaboration Insights during Sprint
 
-![Image]()
+![Image](./assets/images/chapter-6/sprint-2/commit-app.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-back.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-front.png)
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
@@ -3634,6 +3636,11 @@ Incluir, al menos, los siguientes datos:
 Esto alineará la interfaz con las expectativas del usuario agrícola y reducirá errores de compra.
 
 ## 6.4. Video About-the-Product.
+
+Nuestro video: [About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/IQADLdB-73k4Q7wsiO9JbhiNARKqXIgjO-5clAKVIPeLqbc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bMMtPw)
+
+
+![Image](./assets/images/chapter-6/product.png)
 
 # Conclusiones
 ### Conclusiones y recomendaciones
