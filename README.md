@@ -3341,19 +3341,19 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Registro del usuario
 - Inicio de sesión del usuario
 
-### Segmento de productor agricola:
+#### Segmento de productor agricola:
 
 - Campo de irrigacion 
 - Campo de fumigacion
 - Campo de fertilizacion
 
-### Segmento de distribuidor agricola:
+#### Segmento de distribuidor agricola:
 - Visualizacion de productos
 - Finanzas
 - Visualizacion del tienda de productos
 
 
-#### ESCALA DE SEVERIDAD
+### ESCALA DE SEVERIDAD
 
 | Nivel | Descripción |
 |-------|-------------|
@@ -3455,9 +3455,8 @@ Esto mejora la claridad y mantiene una estructura visual coherente.
 Severidad: 3
 Heurística violada: Consistencia y estándares; Relación entre el sistema y el mundo real
 
-Problema:
+![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
 
-Los íconos del menú lateral no representan de manera clara o coherente las funciones del sistema.
 Por ejemplo:
 
 Crop Treatment usa un matraz de laboratorio, lo cual se asocia más a actividades químicas o científicas que a fumigación agrícola.
@@ -3468,7 +3467,7 @@ Algunos íconos difieren en estilo, grosor y diseño, rompiendo la coherencia vi
 
 Esto obliga al usuario a leer los textos siempre, lo que ralentiza la navegación y afecta especialmente a productores con baja alfabetización digital.
 
-![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png
+![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
 
 Recomendación:
 
@@ -3537,12 +3536,6 @@ Esta falta de uniformidad afecta especialmente a productores agrícolas con meno
 
 ![mobile_application_problem_1](./assets/images/chapter-6/heuristics/mobile_application/problem_1.png)
 
-Evidencia:
-
-La pantalla “Fumigation & Fertilization Schedule” muestra los campos “Products”, “Workers” y “Cost”.
-
-La pantalla “Irrigation Schedule” solo muestra “Workers” y “Cost”.
-
 Recomendación:
 
 Unificar el conjunto de campos en ambas pantallas o justificar claramente la diferencia mediante texto contextual.
@@ -3564,10 +3557,6 @@ Esto rompe la jerarquía del diseño, desplaza innecesariamente el contenido del
 Para usuarios de dispositivos móviles con pantallas pequeñas, este problema se intensifica, ya que disminuye el espacio visible para los campos principales.
 
 ![mobile_application_problem_2](./assets/images/chapter-6/heuristics/mobile_application/problem_2.png)
-
-Evidencia:
-
-El texto “Fumigation & Fertilization Schedule” se visualiza en dos líneas, resaltando más que el formulario que le sigue.
 
 Recomendación:
 
@@ -3595,11 +3584,6 @@ Este detalle afecta la confianza y profesionalismo percibido del sistema.
 
 ![mobile_application_problem_3](./assets/images/chapter-6/heuristics/mobile_application/problem_3.png)
 
-
-Evidencia:
-
-Todos los productos listados (“Radish Seed”, “Tools”, “Pruner”) muestran el precio “10$”.
-
 Recomendación:
 
 Utilizar un formato apropiado para la región objetivo, por ejemplo:
@@ -3624,18 +3608,6 @@ Para agricultores —cuyo trabajo depende de precisión en cantidades, medidas y
 
 ![mobile_application_problem_4](./assets/images/chapter-6/heuristics/mobile_application/problem_4.png)
 
-
-Evidencia:
-
-Productos como:
-
-“Radish Seed”
-
-“Tools”
-
-“Pruner”
-
-no muestran información detallada sobre su contenido, tamaño, marca ni unidad de venta.
 
 Recomendación:
 
