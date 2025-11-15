@@ -3306,6 +3306,7 @@ Agregar un ícono de idioma , un tooltip o menú desplegable que muestre los idi
 ### PROBLEMA #3: No existe opción de “volver arriba” en una landing extensa
 
 Severidad: 1
+
 Heurística violada: Usabilidad – Control y libertad del usuario
 
 Problema:
@@ -3319,6 +3320,7 @@ Agregar un botón flotante de “Back to top”.
 ### PROBLEMA #4: No existe indicación clara de en qué sección del menú se encuentra el usuario
 
 Severidad: 2
+
 Heurística violada: Usabilidad – Visibilidad del estado del sistema
 
 Problema:
@@ -3375,6 +3377,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
 
 Severidad: 3
+
 Heurística violada: Usabilidad – Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
 
 Problema:
@@ -3400,6 +3403,7 @@ Además, incluir un pequeño texto guía o tutorial contextual para facilitar el
 ### PROBLEMA #2: Falta de acciones rápidas en la tarjeta de trabajadores
 
 Severidad: 2
+
 Heurística violada: Flexibilidad y eficiencia de uso
 
 Problema:
@@ -3427,6 +3431,7 @@ Con ello se reduce el tiempo de navegación y se mejora la eficiencia del sistem
 ### PROBLEMA #3: Línea horizontal gris en el menú sin función clara
 
 Severidad: 2
+
 Heurística violada: Usabilidad – Estética y diseño minimalista; Consistencia y estándares
 
 Problema:
@@ -3453,11 +3458,10 @@ Esto mejora la claridad y mantiene una estructura visual coherente.
 ### PROBLEMA #4: Inconsistencias semánticas en los íconos del menú lateral
 
 Severidad: 3
+
 Heurística violada: Consistencia y estándares; Relación entre el sistema y el mundo real
 
-![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
-
-Por ejemplo:
+Problema:
 
 Crop Treatment usa un matraz de laboratorio, lo cual se asocia más a actividades químicas o científicas que a fumigación agrícola.
 
@@ -3467,17 +3471,17 @@ Algunos íconos difieren en estilo, grosor y diseño, rompiendo la coherencia vi
 
 Esto obliga al usuario a leer los textos siempre, lo que ralentiza la navegación y afecta especialmente a productores con baja alfabetización digital.
 
-![web_application_problem_4](./assets/images/chapter-6/heuristics/web_application/problem_4.png)
+![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
 
 Recomendación:
 
 Sustituir los íconos por opciones más intuitivas y coherentes:
 
-Crop Treatment: mochila fumigadora o pulverizador.
+- Crop Treatment: mochila fumigadora o pulverizador.
 
-Your Products: caja de cosecha, saco agrícola, canasta.
+- Your Products: caja de cosecha, saco agrícola, canasta.
 
-Finances: ícono de gráfico o monedas con estilo consistente.
+- Finances: ícono de gráfico o monedas con estilo consistente.
 
 Unificar el estilo de iconografía (grosor, tamaño, color) y validar las representaciones con usuarios reales del sector.
 
@@ -3524,6 +3528,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
 
 Severidad: 3
+
 Heurística violada: Usabilidad – Consistencia y estándares
 
 Problema:
@@ -3541,13 +3546,14 @@ Recomendación:
 Unificar el conjunto de campos en ambas pantallas o justificar claramente la diferencia mediante texto contextual.
 Por ejemplo:
 
-“Products (solo requerido para fumigación y fertilización)”.
+- “Products (solo requerido para fumigación y fertilización)”.
 
 Esto permitirá mantener claridad funcional y reducir errores de interpretación.
 
 ### PROBLEMA #2: El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual
 
 Severidad: 2
+
 Heurística violada: Usabilidad – Estética y diseño minimalista
 
 Problema:
@@ -3562,17 +3568,18 @@ Recomendación:
 
 Reducir el título a una opción más compacta, como:
 
-“Fumigation Schedule”
+- “Fumigation Schedule”
 
-“Fertilization & Fumigation”
+- “Fertilization & Fumigation”
 
-“Fertilization / Fumigation”
+- “Fertilization / Fumigation”
 
 Si se necesita más detalle, agregar un subtítulo descriptivo debajo.
 
 ### PROBLEMA #3: El precio está mal formateado y utiliza un símbolo de moneda incorrecto
 
 Severidad: 3
+
 Heurística violada: Usabilidad – Consistencia y estándares
 
 Problema:
@@ -3588,15 +3595,16 @@ Recomendación:
 
 Utilizar un formato apropiado para la región objetivo, por ejemplo:
 
-USD 10.00 o $10.00
+- USD 10.00 o $10.00
 
-S/ 10.00 si se usa moneda peruana
+- S/ 10.00 si se usa moneda peruana
 
 Mantener este formato de forma consistente en toda la aplicación.
 
 ### PROBLEMA #4: La lista de productos no incluye unidad, descripción ni detalles esenciales
 
 Severidad: 3
+
 Heurística violada: Relación entre el sistema y el mundo real
 
 Problema:
@@ -3613,15 +3621,15 @@ Recomendación:
 
 Incluir, al menos, los siguientes datos:
 
-Unidad de medida
+- Unidad de medida
 
-Cantidad incluida
+- Cantidad incluida
 
-Marca o fabricante
+- Marca o fabricante
 
-Material o especificaciones técnicas
+- Material o especificaciones técnicas
 
-Uso recomendado
+- Uso recomendado
 
 Esto alineará la interfaz con las expectativas del usuario agrícola y reducirá errores de compra.
 
