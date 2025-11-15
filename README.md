@@ -8,11 +8,13 @@ Carrera: Ingeniería de Software
 
 Ciclo: 2025-20
 
-Desarrollo de Soluciones IOT - 3475
+1ASI0572-2520 Desarrollo de Soluciones IOT 
+
+NRC: 3475
 
 Profesor: Marco Antonio Leon Baca
 
-Informe del Trabajo Final  - TB1
+Informe del Trabajo Final
 
 Startup: Terrabalance
 
@@ -20,15 +22,15 @@ Producto: AgroControl
 
 ### Team Members:
 
-| Member                             | Code        |
-|------------------------------------|-------------|
-| Barrionuevo Reto, Jean Franco Joel | U202219284  |
-| Barrutia Vaez, Ricardo Andree      | U201714765  |
-| Espinoza Inoñan, Fabiola Ximena    | U202214784  |
-| Mayta Lopez, Harold Jaime          | U202114851  |
-| Rodriguez Santos, David Bryan      | U202212236  |
+| Code        | Member                             |
+|-------------|------------------------------------|
+| U202219284  | Barrionuevo Reto, Jean Franco Joel |
+| U201714765  | Barrutia Vaez, Ricardo Andree      |
+| U202214784  | Espinoza Inoñan, Fabiola Ximena    |
+| U202114851  | Mayta Lopez, Harold Jaime          |
+| U202212236  | Rodriguez Santos, David Bryan      |
 
-**Octubre del 2025**
+**Noviembre del 2025**
 
 </div>
 
@@ -44,6 +46,8 @@ Producto: AgroControl
 |---------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | 1.0     | 20 - 09 - 2025  | Rodriguez Santos, David Bryan <br>    Mayta Lopez, Harold Jaime <br>      Espinoza Inoñan, Fabiola Ximena, <br>      Barrutia Vaez, Ricardo Andree <br> Barrionuevo Reto, Jean Franco Joel     | Capitulo 1, Capitulo 2, Capitulo 3, Capitulo 4 |
 | 2.0     | 08 - 10 - 2025  | Rodriguez Santos, David Bryan <br>    Mayta Lopez, Harold Jaime <br>      Espinoza Inoñan, Fabiola Ximena, <br>      Barrutia Vaez, Ricardo Andree <br> Barrionuevo Reto, Jean Franco Joel     | Capitulo 5, Capitulo 6, Landing Page y Web Application |
+||| Rodriguez Santos, David Bryan <br>    Mayta Lopez, Harold Jaime <br>      Espinoza Inoñan, Fabiola Ximena, <br>      Barrutia Vaez, Ricardo Andree <br> Barrionuevo Reto, Jean Franco Joel     ||
+
 
 
 
@@ -82,8 +86,24 @@ Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TB2](assets/images/)
+![TB2](assets/images/chapter-1/tp-1.png)
 
+
+_TB2_
+
+Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrutia Vaez, Ricardo Andree       | - Landing Page <br> - Web Application <br> - Back-end |
+| Espinoza Inoñan, Fabiola Ximena     | - Wokwi <br> - Entrevistas |
+| Mayta López, Harold                 | - Mobile app <br> - PPT |
+| Rodriguez Santos, David Bryan       | - Wokwi <br> - Evaluación de heurística |
+| Barrionuevo Reto,  Jean Franco Joel | - Mobile app <br> -PPT |
+
+**Evidencia**:
+
+![TB1](assets/images/chapter-1)
 
 ---  
 # Student Outcome
@@ -93,8 +113,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                            | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                  |  
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> TB1: <br>Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>TP1: <br> Agregué epicas en las historias de usuario acerca de las caracteristicas de nuestro proyecto relacionadas a los dispositivos IoT, Edge API, entre otras caracteristicas extras. <br>**Mayta Lopez, Harold Jaime**:<br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>TP1: <br> Presenté los prototipos de UX/UI y flujos de interacción con lenguaje claro y enfocado en la usabilidad, adaptando la explicación a públicos técnicos y no técnicos. <br>  **Espinoza Inoñan, Fabiola Ximena**:<br> TB1: <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br> TP1: <br> Me encargue de las correcciones de la entrega anterior y actualicé los capitulos correspondients. Acordé con el equipo los cambios de texto e imágenes y ajusté los apartados para que coincidan con las historias de usuario y el diseño de la web.<br>  <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> TP1: <br> Realice el UI/UIX de la landing page y la web app adiccionalmente  avancé Cap. 5 . Integré los comentarios del grupo en la interfaz y adapté secciones para que coincidan con lo priorizado en el backlog. <br>**Barrionuevo Reto, Jean Franco Joel**: <br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>  TP1: <br> Presenté el Plan de SCM (estrategia de ramas, versionado, control de cambios, trazabilidad CI/CD) con lenguaje claro y objetivo, respondiendo consultas de equipos técnicos y directivos.                                                                                                                                                                                         | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> TB1: <br>Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br> TP1: <br> Agregué épicas en las historias de usuario que son importantes para nuestro proyecto, ayudando a priorizar esas funcionalidades y organizando mejor el proyecto. <br>**Mayta Lopez, Harold Jaime**: <br> TB1: <br>Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>  TP1: <br> Documenté los diseños de interfaz y wireframes, describiendo criterios de accesibilidad, navegación y consistencia visual con objetividad y precisión para distintos niveles jerárquicos. <br> **Espinoza Inoñan, Fabiola Ximena**:, <br> TB1: <br>Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br> TP1: <br> Documenté las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br>  **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> TP1: <br> Diseñe las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br>**Barrionuevo Reto, Jean Franco Joel**:  <br>TB1: <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> TP1: <br> Redacté documentación de SCM (SCMP, políticas de branching/tagging, baselines, releases y auditorías de configuración) con estructura, precisión y objetividad para audiencias de distintas especialidades. <br> | Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> TB1: <br>Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>TP1: <br> Agregué epicas en las historias de usuario acerca de las caracteristicas de nuestro proyecto relacionadas a los dispositivos IoT, Edge API, entre otras caracteristicas extras. <br> TB2: Realicé las evaluaciones segun heuristicas mostrando los problemas de usabilidad, inclusividad y información arquitectura de la aplicación web, aplicación movil y landing page. <br>**Mayta Lopez, Harold Jaime**:<br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>TP1: <br> Presenté los prototipos de UX/UI y flujos de interacción con lenguaje claro y enfocado en la usabilidad, adaptando la explicación a públicos técnicos y no técnicos. <br> TB2: <br> Participé activamente en la planificación del Sprint 2, proporcionando liderazgo conjunto para definir prioridades y estimar tareas. Fomenté la toma de decisiones compartida durante el desarrollo de la app móvil para asegurar que el equipo avanzara de manera unificada. <br>  **Espinoza Inoñan, Fabiola Ximena**:<br> TB1: <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br> TP1: <br> Me encargue de las correcciones de la entrega anterior y actualicé los capitulos correspondients. Acordé con el equipo los cambios de texto e imágenes y ajusté los apartados para que coincidan con las historias de usuario y el diseño de la web.<br> TB2: <br> Me encargue de las entrevistas de validación para nuestra solución. Y también de la creación o simulación de nuestro proyecto en wokwi y también la conexión y visualización de datos en beereceptor.   <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> TP1: <br> Realice el UI/UIX de la landing page y la web app adiccionalmente  avancé Cap. 5 . Integré los comentarios del grupo en la interfaz y adapté secciones para que coincidan con lo priorizado en el backlog. <br> TB2: <br> A partir de las evaluaciones según heurísticas, ajusté el diseño de la landing page y de la web app para corregir problemas de usabilidad, legibilidad y consistencia visual. Incorporé las observaciones del equipo en la arquitectura de información y en los componentes de la interfaz, asegurando que las pantallas fueran más claras e inclusivas para distintos tipos de usuarios. <br>**Barrionuevo Reto, Jean Franco Joel**: <br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>  TP1: <br> Presenté el Plan de SCM (estrategia de ramas, versionado, control de cambios, trazabilidad CI/CD) con lenguaje claro y objetivo, respondiendo consultas de equipos técnicos y directivos. <br> TB2: <br> Ejercí liderazgo conjunto durante el desarrollo de la app móvil, tomando iniciativa para resolver problemas técnicos que afectaban al equipo. Apoyé a mis compañeros y participé activamente en las decisiones de implementación para asegurar el éxito colectivo. | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> TB1: <br>Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br> TP1: <br> Agregué épicas en las historias de usuario que son importantes para nuestro proyecto, ayudando a priorizar esas funcionalidades y organizando mejor el proyecto. <br> TB2: Realicé las evaluaciones segun heuristicas siendo importante para ver los problemas de usabilidad, inclusividad y información de la arquitectura de la aplicación web, aplicaicón movil y aplicación web.  <br> x<br>**Mayta Lopez, Harold Jaime**: <br> TB1: <br>Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>  TP1: <br> Documenté los diseños de interfaz y wireframes, describiendo criterios de accesibilidad, navegación y consistencia visual con objetividad y precisión para distintos niveles jerárquicos. <br> TB2: <br> Contribuí a crear un entorno colaborativo en el Sprint 2, facilitando la definición de metas claras. Colaboré en la planificación de tareas para el desarrollo de la app y trabajé activamente con el equipo para cumplir los objetivos establecidos. <br> **Espinoza Inoñan, Fabiola Ximena**:, <br> TB1: <br>Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br> TP1: <br> Documenté las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Trabaje de forma colaborativa con mis compañeros y también nos reunimos para explicarle los avance que tuve con la creación del wokwi y màs.  <br>  **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> TP1: <br> Diseñe las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Utilicé los resultados de las evaluaciones heurísticas para proponer mejoras en el diseño y organicé las tareas de ajuste en el tablero, de modo que el equipo tuviera claro qué cambiar y en qué orden. Coordine con mis compañeros los cambios visuales y de estructura en la landing page y la web app, promoviendo un entorno colaborativo donde todos pudieran opinar y validar las soluciones antes de integrarlas.<br>**Barrionuevo Reto, Jean Franco Joel**:  <br>TB1: <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> TP1: <br> Redacté documentación de SCM (SCMP, políticas de branching/tagging, baselines, releases y auditorías de configuración) con estructura, precisión y objetividad para audiencias de distintas especialidades. <br> TB2: <br> Fomenté un entorno colaborativo al comunicar mi progreso en la app y participar en revisiones de código. Colaboré en establecer metas técnicas realistas, planifiqué mis tareas de desarrollo y cumplí los objetivos asignados, entregando las funcionalidades a tiempo.| Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
 
 ---  
 # Contenido
@@ -231,6 +251,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       * [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
       * [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
       * [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint-)
+    * [6.3. Validation Interviews.](#63-validation-interviews)
+      * [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
+      * [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
+      * [6.3.3. Evaluaciones según heurísticas.](#633-evaluaciones-segun-heuristicas)
+    * [6.4. Video About-the-Product.](#64-video-about-the-producy)
 * [Conclusiones](#conclusiones)
 * [Bibliografía](#bibliografía)
 ---
@@ -2903,8 +2928,8 @@ Durante las primeras fases del desarrollo, se emplea json-server en local para s
 
 
 #### 6.2.1.2. Sprint Backlog 1  
-| **User Story**                              | **Work-item/Task**                                | **Description**                                        | **Estimation (Hours)** | **Assigned To**  | **Status**               |
-|---------------------------------------------|---------------------------------------------------|-------------------------------------------------------|------------------------|------------------|--------------------------|
+| **User Story** | **Work-item/Task** | **Description**                                        | **Estimation (Hours)** | **Assigned To**  | **Status**               |
+|----------------|--------------------|-------------------------------------------------------|------------------------|------------------|--------------------------|
 | E1-US001 Barra de navegación                | W01 Navigation bar on Landing Page                | Implementar una barra de navegación que sea responsive design para las secciones. | 0.5                    | Ricardo          | Done                     |
 | E1-US002 Sección de Introducción            | W02 Introduction section                          | Implementar una sección de introducción.               | 0.5                    | Fabiola          | Done                     |
 | E1-US003 Sección de Funcionalidades         | W03 Functionalities section of the Landing Page      | Implementar sección de funcionalidades.        | 2                      | Harold            | Done                     |
@@ -2922,7 +2947,8 @@ Durante las primeras fases del desarrollo, se emplea json-server en local para s
 ![Image](https://github.com/user-attachments/assets/7bbf576f-a181-4d56-8a37-4eb647c136cc)
 
 ### 6.2.1.5. Services Documentation Evidence for Sprint Review.
-<img width="1895" height="566" alt="Image" src="https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf" />
+
+![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
 
 ### 6.2.1.6. Software Deployment Evidence for Sprint Review.
 
@@ -2931,8 +2957,690 @@ Link: https://courseiot.github.io/AgroControl-LandingPage/
 ![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
 
 ### 6.2.1.7. Team Collaboration Insights during Sprint.
-<img width="757" height="888" alt="Image" src="https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3" />
 
+![Image](https://github.com/user-attachments/assets/5cada717-9ef8-4285-96b4-2b65da848fa3)
+
+### 6.2.2. Sprint 2
+
+![Image](./assets/images/chapter-6/sprint-2/sprint-2.png)
+
+#### 6.2.2.1. Sprint Planning 2
+
+| **Sprint #**                    | Sprint 2                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 10/11/2025                                                                |
+| **Time**                        | 17:30 PM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Harold Mayta                                                              |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
+| **Sprint Review Summary**       | Se crearon los respositorios correspondientes para el Landing Page, Front-end y Back-end, así mismo se trabaja en la primera version de estos. |
+| **Sprint Retrospective Summary**| En el Sprint 1 se nos dio la observación de que el idioma predeterminado del Landing Page debe estar en español, y también hubo observaciones sobre el Backlog para hacer un óptimo reparto de actividades. |
+| **Sprint Goal**                 | Establecer la infraestructura de API y las interfaces de usuario para las funciones centrales del Productor, Distribuidor, creando la base funcional.|
+| **Sprint Velocity**             | 99                                                                     |
+| **Sum of Story Points**         | 99 Story points                                                              |
+
+#### 6.2.2.2. Sprint Backlog 2
+
+| **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
+|----------------|--------------------|-----------------|------------------------|------------------|------------|
+|E2-US101-Registro e inicio de sesión | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 | Franco | Done |
+|E2-US102-Formulario de login | Desarrollar UI | UI de pantalla de inicio de sesión. | 4 | Harold | Done |
+|E3-US101-Crear campos de cultivo | Formulario de creación | UI para ingresar datos del nuevo campo de cultivo. | 4 | Franco | Done |
+|E3-US102-Barra de navegación del productor agrícola | Crear componente| Crear el componente de menú principal | 4 | Harold | Done |
+|E3-US103-Pantalla de inicio del proceso agrícola | Maquetar componente | Maquetar la vista principal del productor. | 6 | Franco | Done |
+|E3-US104-Programación de fecha de riego de cultivos | UI de calendario  | Adaptar calendario para fechas de riego. | 4 | Franco | Done |
+|E3-US106-Programación de fechas de tratamiento | UI de calendario | Adaptar calendario para fechas de tratamiento. | 4 | Harold | Done |
+|E4-US101-Pantalla de inicio del distribuidor | Maquetar componente| Diseñar y maquetar la vista principal. | 6 | Franco | Done |
+|E4-US102-Crear productos en la tienda | Maquetar componente| UI para subir descripción y precio del producto.| 6 | Franco | Done |
+|E7-TS101-Lectura de humedad del suelo | Integrar sensor | Recibir y procesar los datos del sensor | 4 | Fabiola | Done |
+|E7-TS102-Monitoreo de condiciones climáticas | Integrar sensor | Obtener y almacenar datos | 4 | David | Done |
+|E7-TS104-Automatización de riego | Crear regla de negocio | Lógica para activar riego basado en humedad y clima. | 4 | Fabiola | Done |
+|E8-TS101-Registrar usuario vía APIRESTful | Crear endpoint | Endpoint para crear un nuevo usuario | 4 | Ricardo | Done |
+|E8-TS102-Iniciar sesión del usuario atraves de la APIRESTful| Crear endpoint | Endpoint para autenticar | 4 | Ricardo | Done |
+|E8-TS103-Obtener información del usuario atraves de la APIRESTful | Crear endpoint | Endpoint para obtener datos del usuario logueado. | 3 | Fabiola | Done |
+|E8-TS104-Crear campo atraves de la APIRESTful | Crear endpoint | Endpoint para que un productor registre un nuevo campo. | 6 | David | Done |
+|E8-TS105-Obtener información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para listar los campos del productor | 6 | Ricardo | Done |
+|E8-TS106-Eliminar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para eliminar un campo específico. | 4 | Ricardo | Done |
+|E8-TS107-Editar información del campo atraves de la APIRESTful | Crear endpoint | Endpoint para actualizar la información de un campo | 6 | Ricardo | Done |
+|E8-TS108-Crear proceso agrícola atraves de la APIRESTful | Crear endpoint |Endpoint para iniciar un nuevo ciclo de cultivo. | 6 | David | Done |
+|E8-TS109-Crear actividad en proceso agrícola | Crear endpoint | Endpoint para añadir una actividad | 6 | Ricardo | Done |
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend1.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend1.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app1.jpg)
+
+**Wokwi**
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+
+<!--#### 6.2.2.4. Testing Suite Evidence for Sprint Review-->
+
+
+#### 6.2.2.4. Execution Evidence for Sprint Review
+
+**Landing Page**
+
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app2.jpg)
+
+
+#### 6.2.2.5. Services Documentation Evidence for Sprint Review
+
+**Landing Page**
+<br>
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
+
+<!--**Back-end**
+<br>
+Link:
+
+![Image]()
+
+**Front-end**
+<br>
+Link: 
+
+![Image]()
+
+**Mobile app**
+<br>
+Link: 
+
+![Image]() -->
+
+**Wokwi**
+<br>
+Link: https://wokwi.com/projects/447480596312740865 
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+
+#### 6.2.2.6. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+<br>
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Web Application**
+<br>
+Link: https://agro-control-front-end.vercel.app  
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**Back-end**
+<br>
+Link: https://agrocontrol-backend-1.onrender.com/swagger-ui/index.html#/
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Wokwi**
+<br>
+Link: https://wokwi.com/projects/447480596312740865
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+
+#### 6.2.2.7. Team Collaboration Insights during Sprint
+
+![Image](./assets/images/chapter-6/sprint-2/commit-app.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-back.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-front.png)
+
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+
+En esta sección se han definido una serie de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones y descripciones. Esta información será de gran ayuda en la validación de nuestra solución.
+
+**Preguntas Segmento 1: Productores Agrícolas**
+
+1. Después de usar la aplicación, ¿sientes que te ayuda a gestionar mejor tus campos de cultivo? ¿En qué aspectos concretos?
+2. ¿Qué tan fácil fue para ti registrar o actualizar la información de tus parcelas y cultivos en la aplicación?
+3. ¿La app te ayudó a tener más claridad sobre cuándo regar o cómo manejar el riego? ¿Cómo?
+4. ¿Has tomado alguna decisión diferente sobre tus cultivos gracias a la información que viste en la aplicación? Pon un ejemplo.
+5. ¿La información que muestra la app (estado del cultivo, riego, costos, etc.) te parece clara y entendible para tu día a día?
+6. ¿Sentiste que la aplicación te ahorró tiempo en comparación con la forma en que trabajabas antes? ¿En qué parte del trabajo lo notaste más?
+7. ¿Qué tan bien se adapta la aplicación a la forma real en la que trabajas en campo (conectividad, tiempo disponible, uso de celular, etc.)?
+8. ¿Hubo alguna funcionalidad que no usaras o que te pareciera innecesaria? ¿Cuál y por qué?
+9. ¿Qué funcionalidad o mejora sientes que le falta a la app para que realmente sea parte de tu trabajo diario?
+10. Si el sistema se integrara con sensores o equipos de riego, ¿crees que lo usarías? ¿En qué te tendría que ayudar para que valga la pena?
+11. En general, ¿qué tan satisfecho estás con la experiencia de uso de la app de 1 a 10? ¿Qué le falta para acercarse a 10?
+12. Si mañana esta aplicación estuviera disponible de forma completa, ¿la seguirías usando en el campo agrícola? ¿Por qué sí o por qué no?
+
+**Preguntas Segmento 2: Distribuidores**
+
+1. Después de usar la aplicación, ¿sientes que te ayudó a coordinar mejor con los productores? ¿De qué manera?
+2. ¿Fue sencillo para ti encontrar la información que necesitabas sobre disponibilidad de producto, fechas o volúmenes?
+3. ¿La información que viste sobre los cultivos o la producción te pareció confiable para tomar decisiones de compra o logística?
+4. ¿La app te ayudó a reducir problemas como cambios de último minuto, falta de stock o retrasos? Si es así, ¿cómo?
+5. ¿Sentiste que la aplicación te ahorró tiempo en la comunicación con los productores (llamadas, WhatsApp, etc.)?
+6. ¿Hubo momentos en los que preferiste usar tus métodos tradicionales (llamadas, Excel, etc.) en lugar de la app? ¿Por qué?
+7. ¿La forma en que la app presenta la información (pantallas, reportes, alertas) te resulta clara y fácil de leer para tu trabajo diario?
+8. ¿Qué funcionalidad de la aplicación te resultó más útil durante la prueba? ¿Por qué?
+10. ¿Qué funcionalidad o información adicional te haría sentir más seguro para basar tus decisiones en esta herramienta?
+11. ¿Te imaginas integrando esta app con tus sistemas actuales (inventario, facturación, rutas)? ¿En qué te ayudaría esa integración?
+12. En una escala del 1 al 10, ¿qué tan probable es que sigas usando esta aplicación si estuviera disponible de forma estable? Explica tu respuesta.
+
+### 6.3.2. Registro de Entrevistas.
+
+
+Segmento Productor Agricola:
+
+| **Entrevista 1**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Irving Soto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 
+| Edad                                      | 28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Profesión                                 | Productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Departamento                              | Chimbote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Inicio del video                          | 0:05                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Fin del video                             | 5:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Link del video                            | https://shorturl.at/C6tzT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/e967ccf9-a2f5-46bc-a845-392f88e72c32)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Resumen                                   | Irving Soto comenta que la app le ayuda a ordenar mejor el riego de sus parcelas, porque ve qué ya regó, qué falta y evita repetir riegos. Dice que registrar y actualizar parcelas fue sencillo después de la primera vez y que la información de estado del cultivo y riego le resulta clara para el día a día. Señala que la app le ahorra tiempo al no tener que revisar tanto en papel ni caminar tanto para verificar el campo. Como mejora, menciona que necesita que funcione mejor sin internet y que algunas acciones sean más rápidas, de “uno o dos clics” en plena faena. |
+
+
+| **Entrevista 2**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Albert Paniagua                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
+| Edad                                      | 32                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Profesión                                 | Productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Departamento                              | Lambayeque                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Inicio del video                          | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Fin del video                             | 05:50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Link del video                            | https://shorturl.at/HuOPx                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/2709b1d5-2167-40ec-b3bf-88e994196923)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Resumen                                   | Albert Paniagua señala que la app le sirve para organizar mejor sus cultivos, porque puede ver rápido qué parcela ya fue atendida y cuál sigue pendiente de riego. Comenta que el registro de parcelas le tomó tiempo al inicio, pero luego actualizar datos se le hizo bastante práctico. La información sobre estado del cultivo y riegos la siente entendible para el trabajo diario y nota que le ahorra vueltas innecesarias al campo. Como mejora, pide que la app responda mejor cuando no hay buena señal y que algunas acciones se puedan hacer más rápido desde el celular. |
+
+
+| **Entrevista 3**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 	            
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Joaquin Pedraza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 
+| Edad                                      | 25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Profesión                                 | Productor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Inicio del video                          | 00:15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Fin del video                             | 05:50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Link del video                            | https://shorturl.at/mFGE6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/a379f24f-c27d-4ebc-97c7-6bc1184405a5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Resumen                                   | Joaquín Pedraza comenta que la app le ayuda a llevar más control de sus parcelas, porque puede ver qué lotes ya fueron regados y cuáles todavía faltan. Dice que, aunque al inicio tomar los datos fue un poco trabajoso, después actualizar la información se le hizo sencillo. La forma en que se muestran el estado del cultivo y los riegos le parece clara para su rutina de campo y siente que le ahorra tiempo y caminatas innecesarias. Como mejora, quisiera que la app funcione mejor cuando no tiene buena señal y que algunas acciones se puedan registrar más rápido mientras está trabajando. |
+
+
+Segmento Distribuidores Agrícolas:
+
+| **Entrevista 1**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 	            
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Alejandra Patiño                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
+| Edad                                      | 26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Profesión                                 | Distribuidor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Inicio del video                          | 00:20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Fin del video                             | 05:40                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Link del video                            | https://shorturl.at/DVIhO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/22f4e274-b7e6-44d6-ae7d-3184b42fc172)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Resumen                                   | Alejandra Patiño comenta que la app le facilita coordinar con los productores, porque ve rápido la disponibilidad por fecha y volumen sin tanta llamada ni WhatsApp. Considera la información bastante confiable si los productores actualizan a tiempo y valora sobre todo la vista de disponibilidad por productor y fecha. Aún recurre a llamadas para temas muy urgentes y pide como mejora ver historial de cumplimiento e integración con sus sistemas. Califica la app con un 8/10 y la seguiría usando si se integra mejor a su forma de trabajo. |
+
+| **Entrevista 2**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 	            
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Samuel Diaz                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 
+| Edad                                      | 32                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Profesión                                 | Distribuidor agricola                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Inicio del video                          | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Fin del video                             | 04:00                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Link del video                            | https://shorturl.at/uuVQD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/1de6d56c-0b04-422a-88a0-6d87d8c647de)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Resumen                                   | Samuel Díaz comenta que la app le facilita bastante la coordinación con los productores, porque puede revisar en un solo lugar la disponibilidad, fechas y volúmenes sin depender tanto de llamadas o mensajes. Percibe la información como útil para planificar compras y entregas, siempre que los productores mantengan los datos actualizados. Destaca como más valiosa la vista de disponibilidad por productor, que le ayuda a armar mejor sus pedidos. Como puntos a mejorar, menciona que le gustaría contar con alertas más claras sobre cambios o faltantes y una posible integración con sus sistemas de inventario y facturación para evitar duplicar trabajo. |
+
+
+
+| **Entrevista 3**                          | **Detalle**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 	            
+|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre entrevistado                       | Austin Calle Nuñez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 
+| Edad                                      | 23                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Profesión                                 | Distribuidor agricola de cacao                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Departamento                              | Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Inicio del video                          | 00:10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Fin del video                             | 14:50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Link del video                            | https://shorturl.at/3Qf1F                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Foto entrevista                           | ![Image](https://github.com/user-attachments/assets/0feb5b8c-36d6-4764-a6b5-33cf29f174b0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Resumen                                   | Austin Calle Nuñez, un joven de 23 años dedicado a la distribución agrícola de cacao en Lima, compartió las dificultades más comunes en su labor diaria. Entre los puntos que resaltó, se encuentra la necesidad de manejar de forma precisa los niveles de inventario para evitar pérdidas por exceso o falta de producto. Considera clave la incorporación de herramientas de Internet of Things (IoT), como sensores y sistemas automatizados, que faciliten la actualización en tiempo real de la información de ventas y existencias. Además, expresó la importancia de contar con una plataforma digital fácil de usar, con reportes completos y análisis de rentabilidad, que le permitan anticiparse a tendencias y optimizar sus decisiones estratégicas para incrementar la eficiencia y los beneficios de su negocio. |
+
+
+
+
+
+### 6.3.3. Evaluaciones según heurísticas.
+
+### SITE A EVALUAR: LANDING PAGE
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+#### General:
+
+- Sección de caracteristicas
+- Sección de IOT
+- Sección de planes
+- Sección de equipo
+- Sección de conctacto
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
+
+| #  | Problema                                                                                              | Escala de severidad | Heurística / Principio violado(a)                                        |
+|----|--------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------|
+| 1  | La sección del equipo tiene mucha carga visual y el contenido importante queda desplazado             | 2                    | Inclusive Design: Minimizar carga cognitiva / equilibrio visual          |
+| 2  | El botón de idioma (“EN”) no indica claramente su función                                             | 2                    | Usabilidad: Visibilidad del estado del sistema / Reconocimiento vs. recuerdo |
+| 3  | No existe opción de “volver arriba” en una landing extensa                                            | 1                    | Usabilidad: Libertad y control del usuario                                |
+| 4  | No existe indicación clara de en qué sección del menú se encuentra el usuario                         | 2                    | Usabilidad: Visibilidad del estado del sistema                            |
+
+
+### PROBLEMA #1: La sección del equipo tiene mucha carga visual y el contenido importante queda desplazado
+
+Severidad: 2
+Heurística violada: Inclusive Design – Minimizar carga cognitiva / equilibrio visual
+
+Problema:
+
+Las fotos del equipo tienen tamaños muy grandes y variaciones de contraste. Esto hace que el usuario tenga que desplazarse más de la cuenta y, además, provoca distracción del contenido principal (nombre y rol). En pantallas medianas las tarjetas ocupan demasiado espacio vertical.
+
+![landing_page_1](./assets/images/chapter-6/heuristics/landing_page/problem_1.png)
+
+Recomendación:
+
+Reducir tamaño de imágenes, estandarizar proporciones, y reforzar el texto para asegurar legibilidad. Se sugiere una cuadrícula más compacta para minimizar el recorrido.
+
+### PROBLEMA #2: El botón de idioma (“EN”) no indica claramente su función
+
+Ubicación: Imagen 1 – Barra superior del Home
+Severidad: 2
+Heurística violada: Visibilidad del estado del sistema / Reconocimiento antes que recuerdo
+
+Problema
+
+El botón “EN” en la esquina superior derecha no indica explícitamente que es un selector de idioma. El usuario puede confundirlo con una insignia de perfil o una etiqueta sin acción.
+
+![landing_page_2](./assets/images/chapter-6/heuristics/landing_page/problem_2.png)
+
+Recomendación
+
+Agregar un ícono de idioma , un tooltip o menú desplegable que muestre los idiomas disponibles.
+
+### PROBLEMA #3: No existe opción de “volver arriba” en una landing extensa
+
+Severidad: 1
+
+Heurística violada: Usabilidad – Control y libertad del usuario
+
+Problema:
+La página es muy larga y carece de un botón para regresar al inicio rápidamente. Esto aumenta el esfuerzo especialmente en móviles y afecta la experiencia de accesibilidad.
+
+![landing_page_3](./assets/images/chapter-6/heuristics/landing_page/problem_3.png)
+
+Recomendación:
+Agregar un botón flotante de “Back to top”.
+
+### PROBLEMA #4: No existe indicación clara de en qué sección del menú se encuentra el usuario
+
+Severidad: 2
+
+Heurística violada: Usabilidad – Visibilidad del estado del sistema
+
+Problema:
+El menú superior no marca cuál sección está activa. Esto provoca desorientación y hace que el usuario pierda la noción de su ubicación dentro de la página, afectando especialmente a usuarios con problemas de memoria de trabajo o quienes navegan rápidamente.
+
+![landing_page_4](./assets/images/chapter-6/heuristics/landing_page/problem_4.png)
+
+
+Recomendación:
+Agregar un estado activo (“Inicio”, “Características”, etc.) mediante un cambio de color, subrayado o resaltado accesible.
+
+### SITE A EVALUAR: AgroControl Web Application
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+#### General:
+
+- Registro del usuario
+- Inicio de sesión del usuario
+
+#### Segmento de productor agricola:
+
+- Campo de irrigacion 
+- Campo de fumigacion
+- Campo de fertilizacion
+
+#### Segmento de distribuidor agricola:
+- Visualizacion de productos
+- Finanzas
+- Visualizacion del tienda de productos
+
+
+### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### TABLA RESUMEN:
+
+| # | Problema | Severidad | Heurística / Principio violado |
+|---|----------|-----------|--------------------------------|
+| 1 | El estado vacío “No data available” no orienta al usuario ni ofrece acciones para continuar | 3 | Usabilidad: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores |
+| 2 | La tarjeta de Workers carece de acciones rápidas, obligando a navegación innecesaria | 2 | Usabilidad: Flexibilidad y eficiencia de uso |
+| 3 | Línea horizontal gris en el menú sin propósito funcional; añade ruido visual | 2 | Usabilidad: Estética y diseño minimalista; Consistencia y estándares |
+| 4 | Inconsistencias semánticas en íconos del menú (no representan correctamente funciones agrícolas) | 3 | Consistencia y estándares; Relación entre el sistema y el mundo real |
+
+
+### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
+
+Severidad: 3
+
+Heurística violada: Usabilidad – Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores
+
+Problema:
+
+En las secciones Irrigation y Fumigation, cuando no existen actividades programadas, únicamente se muestra el mensaje “No data available – No activities scheduled yet”.
+Este mensaje no orienta al usuario sobre qué hacer a continuación, ni sugiere pasos iniciales para registrar una actividad.
+Para productores con baja alfabetización digital, esto puede generar confusión, detener el flujo de trabajo y aumentar la carga cognitiva porque no se ofrece una acción clara ni un camino para continuar.
+
+![web_application_problem_1](./assets/images/chapter-6/heuristics/web_application/problem_1.png)
+
+Recomendación:
+
+Incorporar llamadas a la acción dentro del estado vacío, tales como:
+
+“Crear primera actividad de riego”
+
+“Programar fumigación”
+
+“Agregar nueva tarea”
+
+Además, incluir un pequeño texto guía o tutorial contextual para facilitar el onboarding del usuario cuando se encuentra con una sección vacía.
+
+### PROBLEMA #2: Falta de acciones rápidas en la tarjeta de trabajadores
+
+Severidad: 2
+
+Heurística violada: Flexibilidad y eficiencia de uso
+
+Problema:
+
+La tarjeta Workers únicamente muestra un botón “View”, obligando al usuario a ingresar a la vista interna para realizar cualquier acción, como editar datos, asignar tareas o agregar nuevos trabajadores.
+Para administradores o distribuidores que gestionan varias tareas y trabajadores simultáneamente, esto incrementa el número de clics y ralentiza el flujo de trabajo.
+
+![web_application_problem_2](./assets/images/chapter-6/heuristics/web_application/problem_2.png)
+
+
+Recomendación:
+
+Agregar accesos rápidos dentro de la tarjeta, tales como:
+
+“Añadir trabajador”
+
+“Asignar tarea”
+
+“Editar trabajador”
+
+“Ver horario del día”
+
+Con ello se reduce el tiempo de navegación y se mejora la eficiencia del sistema.
+
+### PROBLEMA #3: Línea horizontal gris en el menú sin función clara
+
+Severidad: 2
+
+Heurística violada: Usabilidad – Estética y diseño minimalista; Consistencia y estándares
+
+Problema:
+
+En el menú lateral aparece una línea horizontal gris ubicada entre el encabezado y las opciones principales.
+Este elemento no cumple un rol funcional evidente: no separa categorías, no marca jerarquías y no indica cambios de sección.
+Su presencia genera ruido visual y afecta la coherencia del diseño, ya que el resto del menú utiliza espaciado e iconografía como elementos organizadores.
+
+![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
+
+Recomendación:
+
+Eliminar la línea si no tiene propósito definido.
+Si la intención era separar secciones, usar alternativas claras:
+
+etiquetas de categorías (“Gestión”, “Operaciones”),
+
+mayor espaciado vertical,
+
+divisores con propósito semántico real.
+
+Esto mejora la claridad y mantiene una estructura visual coherente.
+)
+### PROBLEMA #4: Inconsistencias semánticas en los íconos del menú lateral
+
+Severidad: 3
+
+Heurística violada: Consistencia y estándares; Relación entre el sistema y el mundo real
+
+Problema:
+
+Crop Treatment usa un matraz de laboratorio, lo cual se asocia más a actividades químicas o científicas que a fumigación agrícola.
+
+Your Products utiliza un icono que no representa claramente productos cosechados o insumos agrícolas.
+
+Algunos íconos difieren en estilo, grosor y diseño, rompiendo la coherencia visual.
+
+Esto obliga al usuario a leer los textos siempre, lo que ralentiza la navegación y afecta especialmente a productores con baja alfabetización digital.
+
+![web_application_problem_3](./assets/images/chapter-6/heuristics/web_application/problem_3.png)
+
+Recomendación:
+
+Sustituir los íconos por opciones más intuitivas y coherentes:
+
+- Crop Treatment: mochila fumigadora o pulverizador.
+
+- Your Products: caja de cosecha, saco agrícola, canasta.
+
+- Finances: ícono de gráfico o monedas con estilo consistente.
+
+Unificar el estilo de iconografía (grosor, tamaño, color) y validar las representaciones con usuarios reales del sector.
+
+### APP A EVALUAR: AgroControl Mobile Application
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+#### General:
+
+- Registro del usuario
+- Inicio de sesión del usuario
+
+#### Segmento de productor agricola:
+
+- Campo de irrigacion 
+- Campo de fumigacion
+- Campo de fertilizacion
+
+#### Segmento de distribuidor agricola:
+- Visualizacion de productos
+- Finanzas
+- Visualizacion del tienda de productos
+
+### ESCALA DE SEVERIDAD:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### TABLA RESUMEN:
+
+| # | Problema | Severidad | Heurística / Principio violado |
+|---|----------|-----------|--------------------------------|
+| 1 | Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo | 3 | Usabilidad: Consistencia y estándares |
+| 2 | El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual | 2 | Usabilidad: Estética y diseño minimalista |
+| 3 | El precio está mal formateado y utiliza un símbolo de moneda incorrecto | 3 | Usabilidad: Consistencia y estándares |
+| 4 | La lista de productos no muestra unidades ni detalles esenciales para entender qué se compra | 3 | Usabilidad: Relación entre el sistema y el mundo real |
+
+### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
+
+Severidad: 3
+
+Heurística violada: Usabilidad – Consistencia y estándares
+
+Problema:
+
+Las pantallas “Fumigation & Fertilization Schedule” e “Irrigation Schedule” presentan diferencias en las etiquetas de los campos, pese a pertenecer al mismo flujo de registro de actividades agrícolas.
+Mientras la primera incluye Products y Cost, la segunda solo muestra Workers, sin ningún mensaje que justifique la ausencia de los demás campos.
+Esta inconsistencia puede generar confusión en el usuario, quien podría interpretar que falta información por completar o que se trata de un error en la interfaz.
+
+Esta falta de uniformidad afecta especialmente a productores agrícolas con menor familiaridad digital, que suelen depender de patrones visuales consistentes para orientarse.
+
+![mobile_application_problem_1](./assets/images/chapter-6/heuristics/mobile_application/problem_1.png)
+
+Recomendación:
+
+Unificar el conjunto de campos en ambas pantallas o justificar claramente la diferencia mediante texto contextual.
+Por ejemplo:
+
+- “Products (solo requerido para fumigación y fertilización)”.
+
+Esto permitirá mantener claridad funcional y reducir errores de interpretación.
+
+### PROBLEMA #2: El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual
+
+Severidad: 2
+
+Heurística violada: Usabilidad – Estética y diseño minimalista
+
+Problema:
+
+El título de la pantalla de fumigación es extenso y ocupa dos líneas completas, generando un encabezado visualmente pesado.
+Esto rompe la jerarquía del diseño, desplaza innecesariamente el contenido del formulario hacia abajo y dificulta la lectura rápida del propósito de la pantalla.
+Para usuarios de dispositivos móviles con pantallas pequeñas, este problema se intensifica, ya que disminuye el espacio visible para los campos principales.
+
+![mobile_application_problem_2](./assets/images/chapter-6/heuristics/mobile_application/problem_2.png)
+
+Recomendación:
+
+Reducir el título a una opción más compacta, como:
+
+- “Fumigation Schedule”
+
+- “Fertilization & Fumigation”
+
+- “Fertilization / Fumigation”
+
+Si se necesita más detalle, agregar un subtítulo descriptivo debajo.
+
+### PROBLEMA #3: El precio está mal formateado y utiliza un símbolo de moneda incorrecto
+
+Severidad: 3
+
+Heurística violada: Usabilidad – Consistencia y estándares
+
+Problema:
+
+En la lista de productos, los precios se muestran como “10$”, lo cual va en contra del estándar internacional de formato de moneda, que posiciona el símbolo antes de la cifra o utiliza códigos como USD o PEN.
+Además, no se especifica la divisa utilizada, lo cual puede ocasionar confusión en usuarios que requieren claridad sobre costos antes de realizar una compra.
+
+Este detalle afecta la confianza y profesionalismo percibido del sistema.
+
+![mobile_application_problem_3](./assets/images/chapter-6/heuristics/mobile_application/problem_3.png)
+
+Recomendación:
+
+Utilizar un formato apropiado para la región objetivo, por ejemplo:
+
+- USD 10.00 o $10.00
+
+- S/ 10.00 si se usa moneda peruana
+
+Mantener este formato de forma consistente en toda la aplicación.
+
+### PROBLEMA #4: La lista de productos no incluye unidad, descripción ni detalles esenciales
+
+Severidad: 3
+
+Heurística violada: Relación entre el sistema y el mundo real
+
+Problema:
+
+Los productos mostrados en la sección de tienda solo incluyen el nombre, imagen y precio.
+No se indica unidad (bolsa, caja, kilo), cantidad, marca o características técnicas, lo que obliga al usuario a adivinar qué está comprando.
+
+Para agricultores —cuyo trabajo depende de precisión en cantidades, medidas y especificaciones— esta falta de información incrementa el riesgo de compras incorrectas y reduce la confiabilidad del sistema.
+
+![mobile_application_problem_4](./assets/images/chapter-6/heuristics/mobile_application/problem_4.png)
+
+
+Recomendación:
+
+Incluir, al menos, los siguientes datos:
+
+- Unidad de medida
+
+- Cantidad incluida
+
+- Marca o fabricante
+
+- Material o especificaciones técnicas
+
+- Uso recomendado
+
+Esto alineará la interfaz con las expectativas del usuario agrícola y reducirá errores de compra.
+
+## 6.4. Video About-the-Product.
+
+Nuestro video: [About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/IQADLdB-73k4Q7wsiO9JbhiNARKqXIgjO-5clAKVIPeLqbc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bMMtPw)
+
+
+![Image](./assets/images/chapter-6/product.png)
 
 # Conclusiones
 ### Conclusiones y recomendaciones
