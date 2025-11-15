@@ -3239,13 +3239,13 @@ Segmento Distribuidores Agrícolas:
 
 ### 6.3.3. Evaluaciones según heurísticas.
 
-### APP A EVALUAR: LANDING PAGE
+### SITE A EVALUAR: LANDING PAGE
 
 ### TAREAS A EVALUAR
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-### General:
+#### General:
 
 - Sección de caracteristicas
 - Sección de IOT
@@ -3253,7 +3253,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Sección de equipo
 - Sección de conctacto
 
-#### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
+#### ESCALA DE SEVERIDAD
 
 | Nivel | Descripción |
 |-------|-------------|
@@ -3261,6 +3261,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### TABLA RESUMEN:
 
 | #  | Problema                                                                                              | Escala de severidad | Heurística / Principio violado(a)                                        |
 |----|--------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------|
@@ -3285,7 +3287,7 @@ Recomendación:
 
 Reducir tamaño de imágenes, estandarizar proporciones, y reforzar el texto para asegurar legibilidad. Se sugiere una cuadrícula más compacta para minimizar el recorrido.
 
-### PROBLEMA 2: El botón de idioma (“EN”) no indica claramente su función
+### PROBLEMA #2: El botón de idioma (“EN”) no indica claramente su función
 
 Ubicación: Imagen 1 – Barra superior del Home
 Severidad: 2
@@ -3299,7 +3301,7 @@ El botón “EN” en la esquina superior derecha no indica explícitamente que 
 
 Recomendación
 
-Agregar un ícono de idioma (🌐), un tooltip o menú desplegable que muestre los idiomas disponibles.
+Agregar un ícono de idioma , un tooltip o menú desplegable que muestre los idiomas disponibles.
 
 ### PROBLEMA #3: No existe opción de “volver arriba” en una landing extensa
 
@@ -3328,13 +3330,13 @@ El menú superior no marca cuál sección está activa. Esto provoca desorientac
 Recomendación:
 Agregar un estado activo (“Inicio”, “Características”, etc.) mediante un cambio de color, subrayado o resaltado accesible.
 
-### APP A EVALUAR: AgroControl Web Application
+### SITE A EVALUAR: AgroControl Web Application
 
 ### TAREAS A EVALUAR
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-### General:
+#### General:
 
 - Registro del usuario
 - Inicio de sesión del usuario
@@ -3351,7 +3353,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 - Visualizacion del tienda de productos
 
 
-#### ESCALA DE SEVERIDAD Y TABLA RESUMEN DE PROBLEMAS
+#### ESCALA DE SEVERIDAD
 
 | Nivel | Descripción |
 |-------|-------------|
@@ -3359,6 +3361,15 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 | 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### TABLA RESUMEN:
+
+| # | Problema | Severidad | Heurística / Principio violado |
+|---|----------|-----------|--------------------------------|
+| 1 | El estado vacío “No data available” no orienta al usuario ni ofrece acciones para continuar | 3 | Usabilidad: Ayuda al usuario a reconocer, diagnosticar y recuperarse de errores |
+| 2 | La tarjeta de Workers carece de acciones rápidas, obligando a navegación innecesaria | 2 | Usabilidad: Flexibilidad y eficiencia de uso |
+| 3 | Línea horizontal gris en el menú sin propósito funcional; añade ruido visual | 2 | Usabilidad: Estética y diseño minimalista; Consistencia y estándares |
+| 4 | Inconsistencias semánticas en íconos del menú (no representan correctamente funciones agrícolas) | 3 | Consistencia y estándares; Relación entre el sistema y el mundo real |
 
 
 ### PROBLEMA #1: El estado “No data available” no ofrece acciones ni guía al usuario
@@ -3477,22 +3488,39 @@ Unificar el estilo de iconografía (grosor, tamaño, color) y validar las repres
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-### General:
+#### General:
 
 - Registro del usuario
 - Inicio de sesión del usuario
 
-### Segmento de productor agricola:
+#### Segmento de productor agricola:
 
 - Campo de irrigacion 
 - Campo de fumigacion
 - Campo de fertilizacion
 
-### Segmento de distribuidor agricola:
+#### Segmento de distribuidor agricola:
 - Visualizacion de productos
 - Finanzas
 - Visualizacion del tienda de productos
 
+### ESCALA DE SEVERIDAD:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolviéndolo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### TABLA RESUMEN:
+
+| # | Problema | Severidad | Heurística / Principio violado |
+|---|----------|-----------|--------------------------------|
+| 1 | Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo | 3 | Usabilidad: Consistencia y estándares |
+| 2 | El título “Fumigation & Fertilization Schedule” es demasiado largo y rompe la jerarquía visual | 2 | Usabilidad: Estética y diseño minimalista |
+| 3 | El precio está mal formateado y utiliza un símbolo de moneda incorrecto | 3 | Usabilidad: Consistencia y estándares |
+| 4 | La lista de productos no muestra unidades ni detalles esenciales para entender qué se compra | 3 | Usabilidad: Relación entre el sistema y el mundo real |
 
 ### PROBLEMA #1: Inconsistencia en las etiquetas de campos entre pantallas del mismo flujo
 
