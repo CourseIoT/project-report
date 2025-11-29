@@ -105,6 +105,23 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 ![TB1](assets/images/chapter-1/tb2.png)
 
+
+_TF_
+
+Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrutia Vaez, Ricardo Andree       | -  |
+| Espinoza Inoñan, Fabiola Ximena     | -  |
+| Mayta López, Harold                 | -  |
+| Rodriguez Santos, David Bryan       | -  |
+| Barrionuevo Reto,  Jean Franco Joel | -  |
+
+**Evidencia**:
+
+![TF](assets/images/chapter-1/)
+
 ---  
 # Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
@@ -113,8 +130,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                            | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                  |  
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> TB1: <br>Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>TP1: <br> Agregué epicas en las historias de usuario acerca de las caracteristicas de nuestro proyecto relacionadas a los dispositivos IoT, Edge API, entre otras caracteristicas extras. <br> TB2: Realicé las evaluaciones segun heuristicas mostrando los problemas de usabilidad, inclusividad y información arquitectura de la aplicación web, aplicación movil y landing page. <br>**Mayta Lopez, Harold Jaime**:<br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>TP1: <br> Presenté los prototipos de UX/UI y flujos de interacción con lenguaje claro y enfocado en la usabilidad, adaptando la explicación a públicos técnicos y no técnicos. <br> TB2: <br> Participé activamente en la planificación del Sprint 2, proporcionando liderazgo conjunto para definir prioridades y estimar tareas. Fomenté la toma de decisiones compartida durante el desarrollo de la app móvil para asegurar que el equipo avanzara de manera unificada. <br>  **Espinoza Inoñan, Fabiola Ximena**:<br> TB1: <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br> TP1: <br> Me encargue de las correcciones de la entrega anterior y actualicé los capitulos correspondients. Acordé con el equipo los cambios de texto e imágenes y ajusté los apartados para que coincidan con las historias de usuario y el diseño de la web.<br> TB2: <br> Me encargue de las entrevistas de validación para nuestra solución. Y también de la creación o simulación de nuestro proyecto en wokwi y también la conexión y visualización de datos en beereceptor.   <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> TP1: <br> Realice el UI/UIX de la landing page y la web app adiccionalmente  avancé Cap. 5 . Integré los comentarios del grupo en la interfaz y adapté secciones para que coincidan con lo priorizado en el backlog. <br> TB2: <br> A partir de las evaluaciones según heurísticas, ajusté el diseño de la landing page y de la web app para corregir problemas de usabilidad, legibilidad y consistencia visual. Incorporé las observaciones del equipo en la arquitectura de información y en los componentes de la interfaz, asegurando que las pantallas fueran más claras e inclusivas para distintos tipos de usuarios. <br>**Barrionuevo Reto, Jean Franco Joel**: <br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>  TP1: <br> Presenté el Plan de SCM (estrategia de ramas, versionado, control de cambios, trazabilidad CI/CD) con lenguaje claro y objetivo, respondiendo consultas de equipos técnicos y directivos. <br> TB2: <br> Ejercí liderazgo conjunto durante el desarrollo de la app móvil, tomando iniciativa para resolver problemas técnicos que afectaban al equipo. Apoyé a mis compañeros y participé activamente en las decisiones de implementación para asegurar el éxito colectivo. | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> TB1: <br>Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br> TP1: <br> Agregué épicas en las historias de usuario que son importantes para nuestro proyecto, ayudando a priorizar esas funcionalidades y organizando mejor el proyecto. <br> TB2: Realicé las evaluaciones segun heuristicas siendo importante para ver los problemas de usabilidad, inclusividad y información de la arquitectura de la aplicación web, aplicaicón movil y aplicación web.  <br> x<br>**Mayta Lopez, Harold Jaime**: <br> TB1: <br>Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>  TP1: <br> Documenté los diseños de interfaz y wireframes, describiendo criterios de accesibilidad, navegación y consistencia visual con objetividad y precisión para distintos niveles jerárquicos. <br> TB2: <br> Contribuí a crear un entorno colaborativo en el Sprint 2, facilitando la definición de metas claras. Colaboré en la planificación de tareas para el desarrollo de la app y trabajé activamente con el equipo para cumplir los objetivos establecidos. <br> **Espinoza Inoñan, Fabiola Ximena**:, <br> TB1: <br>Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br> TP1: <br> Documenté las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Trabaje de forma colaborativa con mis compañeros y también nos reunimos para explicarle los avance que tuve con la creación del wokwi y màs.  <br>  **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> TP1: <br> Diseñe las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Utilicé los resultados de las evaluaciones heurísticas para proponer mejoras en el diseño y organicé las tareas de ajuste en el tablero, de modo que el equipo tuviera claro qué cambiar y en qué orden. Coordine con mis compañeros los cambios visuales y de estructura en la landing page y la web app, promoviendo un entorno colaborativo donde todos pudieran opinar y validar las soluciones antes de integrarlas.<br>**Barrionuevo Reto, Jean Franco Joel**:  <br>TB1: <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> TP1: <br> Redacté documentación de SCM (SCMP, políticas de branching/tagging, baselines, releases y auditorías de configuración) con estructura, precisión y objetividad para audiencias de distintas especialidades. <br> TB2: <br> Fomenté un entorno colaborativo al comunicar mi progreso en la app y participar en revisiones de código. Colaboré en establecer metas técnicas realistas, planifiqué mis tareas de desarrollo y cumplí los objetivos asignados, entregando las funcionalidades a tiempo.| Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | **Rodriguez Santos, David Bryan** :<br> TB1: <br>Apoyé en la planificación de las actividades y en definir prioridades, lo que ayudó a que el equipo trabajara de manera más organizada. <br>TP1: <br> Agregué epicas en las historias de usuario acerca de las caracteristicas de nuestro proyecto relacionadas a los dispositivos IoT, Edge API, entre otras caracteristicas extras. <br> TB2: Realicé las evaluaciones segun heuristicas mostrando los problemas de usabilidad, inclusividad y información arquitectura de la aplicación web, aplicación movil y landing page. <br> TF: <br> contenido <br> **Mayta Lopez, Harold Jaime**:<br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.   <br>TP1: <br> Presenté los prototipos de UX/UI y flujos de interacción con lenguaje claro y enfocado en la usabilidad, adaptando la explicación a públicos técnicos y no técnicos. <br> TB2: <br> Participé activamente en la planificación del Sprint 2, proporcionando liderazgo conjunto para definir prioridades y estimar tareas. Fomenté la toma de decisiones compartida durante el desarrollo de la app móvil para asegurar que el equipo avanzara de manera unificada. <br> TF: <br> contenido <br> **Espinoza Inoñan, Fabiola Ximena**:<br> TB1: <br>Colaboré en la toma de decisiones del grupo y en la coordinación de actividades, aportando ideas que ayudaron a mantener el trabajo ordenado. <br> TP1: <br> Me encargue de las correcciones de la entrega anterior y actualicé los capitulos correspondients. Acordé con el equipo los cambios de texto e imágenes y ajusté los apartados para que coincidan con las historias de usuario y el diseño de la web.<br> TB2: <br> Me encargue de las entrevistas de validación para nuestra solución. Y también de la creación o simulación de nuestro proyecto en wokwi y también la conexión y visualización de datos en beereceptor. <br> TF: <br> contenido <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Participé en la organización del trabajo del equipo, proponiendo cómo repartir las tareas y apoyando en la coordinación para que todos avanzáramos en la misma dirección.<br> TP1: <br> Realice el UI/UIX de la landing page y la web app adiccionalmente  avancé Cap. 5 . Integré los comentarios del grupo en la interfaz y adapté secciones para que coincidan con lo priorizado en el backlog. <br> TB2: <br> A partir de las evaluaciones según heurísticas, ajusté el diseño de la landing page y de la web app para corregir problemas de usabilidad, legibilidad y consistencia visual. Incorporé las observaciones del equipo en la arquitectura de información y en los componentes de la interfaz, asegurando que las pantallas fueran más claras e inclusivas para distintos tipos de usuarios. <br> TF: <br> contenido <br> **Barrionuevo Reto, Jean Franco Joel**: <br> TB1: <br>Contribuimos proponiendo alternativas técnicas y participando en las discusiones del grupo, ayudando a tomar decisiones de manera conjunta.<br>  TP1: <br> Presenté el Plan de SCM (estrategia de ramas, versionado, control de cambios, trazabilidad CI/CD) con lenguaje claro y objetivo, respondiendo consultas de equipos técnicos y directivos. <br> TB2: <br> Ejercí liderazgo conjunto durante el desarrollo de la app móvil, tomando iniciativa para resolver problemas técnicos que afectaban al equipo. Apoyé a mis compañeros y participé activamente en las decisiones de implementación para asegurar el éxito colectivo.<br> TF: <br> contenido <br> | Como equipo demostramos la capacidad de organizarnos y asumir el liderazgo de manera compartida, distribuyendo las tareas según las fortalezas de cada integrante y apoyándonos mutuamente en el proceso. La coordinación y la comunicación constante nos permitieron mantener un rumbo claro y tomar decisiones conjuntas en cada etapa del proyecto.                                                                        |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Rodriguez Santos, David Bryan**:<br> TB1: <br>Organicé mis entregables respetando los plazos y coordinando con mis compañeros, ayudando a que el proyecto se complete en orden y a tiempo.  <br> TP1: <br> Agregué épicas en las historias de usuario que son importantes para nuestro proyecto, ayudando a priorizar esas funcionalidades y organizando mejor el proyecto. <br> TB2: Realicé las evaluaciones segun heuristicas siendo importante para ver los problemas de usabilidad, inclusividad y información de la arquitectura de la aplicación web, aplicaicón movil y aplicación web.  <br> TF: <br> contenido <br> **Mayta Lopez, Harold Jaime**: <br> TB1: <br>Colaboré con mis compañeros para que las tareas técnicas se completaran de acuerdo con los objetivos planteados. Me mantuve en comunicación constante con el equipo para resolver dudas y asegurar que todos estuviéramos alineados en la planificación.  <br>  TP1: <br> Documenté los diseños de interfaz y wireframes, describiendo criterios de accesibilidad, navegación y consistencia visual con objetividad y precisión para distintos niveles jerárquicos. <br> TB2: <br> Contribuí a crear un entorno colaborativo en el Sprint 2, facilitando la definición de metas claras. Colaboré en la planificación de tareas para el desarrollo de la app y trabajé activamente con el equipo para cumplir los objetivos establecidos. <br> TF: <br> contenido <br> **Espinoza Inoñan, Fabiola Ximena**:, <br> TB1: <br>Trabajé de forma colaborativa compartiendo mis avances y escuchando a mis compañeros, lo que permitió integrar mejor cada parte del proyecto.  <br> TP1: <br> Documenté las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Trabaje de forma colaborativa con mis compañeros y también nos reunimos para explicarle los avance que tuve con la creación del wokwi y màs.  <br> TF: <br> contenido <br> **Barrutia Vaez, Ricardo Andree**: <br> TB1: <br>Cumplí con mis tareas de manera coordinada con el equipo y me aseguré de que mi trabajo encajara con el de los demás, contribuyendo a cumplir con las metas del proyecto.<br> TP1: <br> Diseñe las guías de estilo (colores, tipografías y componentes), creé tareas claras en el tablero y subí cambios en partes pequeñas para facilitar la revisión. Entregué la landing y los ajustes de la web app dentro del plazo acordado. <br> TB2: <br> Utilicé los resultados de las evaluaciones heurísticas para proponer mejoras en el diseño y organicé las tareas de ajuste en el tablero, de modo que el equipo tuviera claro qué cambiar y en qué orden. Coordine con mis compañeros los cambios visuales y de estructura en la landing page y la web app, promoviendo un entorno colaborativo donde todos pudieran opinar y validar las soluciones antes de integrarlas.<br> TF: <br> contenido <br> **Barrionuevo Reto, Jean Franco Joel**:  <br>TB1: <br>Nos aseguramos de que las decisiones técnicas fueran entendidas por el grupo y alineadas con los objetivos, fomentando un trabajo inclusivo y colaborativo.<br> TP1: <br> Redacté documentación de SCM (SCMP, políticas de branching/tagging, baselines, releases y auditorías de configuración) con estructura, precisión y objetividad para audiencias de distintas especialidades. <br> TB2: <br> Fomenté un entorno colaborativo al comunicar mi progreso en la app y participar en revisiones de código. Colaboré en establecer metas técnicas realistas, planifiqué mis tareas de desarrollo y cumplí los objetivos asignados, entregando las funcionalidades a tiempo. <br> TF: <br> contenido <br>| Logramos crear un entorno inclusivo y colaborativo donde todas las opiniones fueron tomadas en cuenta, lo que favoreció la integración de diferentes perspectivas y el cumplimiento de los objetivos planteados. Gracias a esta dinámica, pudimos planificar adecuadamente nuestras actividades, cumplir con los plazos establecidos y garantizar que el resultado final reflejara el esfuerzo y compromiso de todo el grupo. |
 
 ---  
 # Contenido
@@ -237,11 +254,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
     * [6.2.1. Sprint 1](#621-sprint-1-)
       * [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1-)
       * [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1-)
-    * [6.2.1.3. Development Evidence for Sprint Review.](#6213-development-evidence-for-sprint-review)
-    * [6.2.1.4. Execution Evidence for Sprint Review.](#6214-execution-evidence-for-sprint-review)
-    * [6.2.1.5. Services Documentation Evidence for Sprint Review.](#6215-services-documentation-evidence-for-sprint-review)
-    * [6.2.1.6. Software Deployment Evidence for Sprint Review.](#6216-software-deployment-evidence-for-sprint-review)
-    * [6.2.1.7. Team Collaboration Insights during Sprint.](#6217-team-collaboration-insights-during-sprint)
+      * [6.2.1.3. Development Evidence for Sprint Review.](#6213-development-evidence-for-sprint-review)
+      * [6.2.1.4. Execution Evidence for Sprint Review.](#6214-execution-evidence-for-sprint-review)
+      * [6.2.1.5. Services Documentation Evidence for Sprint Review.](#6215-services-documentation-evidence-for-sprint-review)
+      * [6.2.1.6. Software Deployment Evidence for Sprint Review.](#6216-software-deployment-evidence-for-sprint-review)
+      * [6.2.1.7. Team Collaboration Insights during Sprint.](#6217-team-collaboration-insights-during-sprint)
     * [6.2.2. Sprint 2](#622-sprint-2)
       * [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
       * [6.2.2.2. Sprint Backlog 2](#6222-sprint-backlog-2-)
@@ -251,6 +268,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       * [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
       * [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
       * [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint-)
+    * [6.2.3. Sprint 3](#623-sprint-3)
+      * [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-2)
+      * [6.2.3.2. Sprint Backlog 3](#6232-sprint-backlog-2-)
+      * [6.2.3.3. Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
+      * [6.2.3.4. Testing Suite Evidence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
+      * [6.2.3.5. Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review-)
+      * [6.2.3.6. Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
+      * [6.2.3.7. Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
+      * [6.2.3.8. Team Collaboration Insights during Sprint](#6238-team-collaboration-insights-during-sprint-)
     * [6.3. Validation Interviews.](#63-validation-interviews)
       * [6.3.1. Diseño de Entrevistas.](#631-diseño-de-entrevistas)
       * [6.3.2. Registro de Entrevistas.](#632-registro-de-entrevistas)
@@ -3117,6 +3143,139 @@ Link: https://wokwi.com/projects/447480596312740865
 ![Image](./assets/images/chapter-6/sprint-2/commit-back.png)
 ![Image](./assets/images/chapter-6/sprint-2/commit-front.png)
 
+### 6.2.3. Sprint 3
+
+![Image](./assets/images/chapter-6/sprint-)
+
+
+#### 6.2.3.1. Sprint Planning 3
+
+| **Sprint #**                    | Sprint 3                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 27/11/2025                                                                |
+| **Time**                        | 20:00 HRS                                                                  |
+| **Location**                    | Salon de clases B-606                                                               |
+| **Prepared By**                 | Harold Mayta                                                              |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
+| **Sprint Review Summary**       |  |
+| **Sprint Retrospective Summary**| En el Sprint 2  |
+| **Sprint Goal**                 | |
+| **Sprint Velocity**             | |
+| **Sum of Story Points**         | |
+
+#### 6.2.3.2. Sprint Backlog 3
+
+| **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
+|----------------|--------------------|-----------------|------------------------|------------------|------------|
+|||||||
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend1.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend1.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app1.jpg)
+
+**Wokwi**
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+
+<!-- #### 6.2.3.4. Testing Suite Evidence for Sprint Review -->
+#### 6.2.3.5. Execution Evidence for Sprint Review
+
+**Landing Page**
+
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Back-end**
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Front-end**
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**App**
+
+![Image](./assets/images/chapter-6/sprint-2/app2.jpg)
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+**Landing Page**
+<br>
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image](https://github.com/user-attachments/assets/8bc462e3-ed9b-44d2-9702-9f5a9cd032bf)
+
+<!--**Back-end**
+<br>
+Link:
+
+![Image]()
+
+**Front-end**
+<br>
+Link: 
+
+![Image]()
+
+**Mobile app**
+<br>
+Link: 
+
+![Image]() -->
+
+**Wokwi**
+<br>
+Link: https://wokwi.com/projects/447480596312740865
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+<br>
+Link: https://courseiot.github.io/AgroControl-LandingPage/ 
+
+![Image](https://github.com/user-attachments/assets/4ac79b95-b8d1-478d-a30a-b1630d5f47e4)
+
+
+**Web Application**
+<br>
+Link: https://agro-control-front-end.vercel.app  
+
+![Image](./assets/images/chapter-6/sprint-2/frontend2.jpg)
+
+
+**Back-end**
+<br>
+Link: https://agrocontrol-backend-1.onrender.com/swagger-ui/index.html#/
+
+![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
+
+
+**Wokwi**
+<br>
+Link: https://wokwi.com/projects/447480596312740865
+
+![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint
+
+![Image](./assets/images/chapter-6/sprint-2/commit-app.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-back.png)
+![Image](./assets/images/chapter-6/sprint-2/commit-front.png)
+
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
 
@@ -3456,7 +3615,8 @@ mayor espaciado vertical,
 divisores con propósito semántico real.
 
 Esto mejora la claridad y mantiene una estructura visual coherente.
-)
+
+
 ### PROBLEMA #4: Inconsistencias semánticas en los íconos del menú lateral
 
 Severidad: 3
