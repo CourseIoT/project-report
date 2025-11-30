@@ -34,6 +34,18 @@ Producto: AgroControl
 
 </div>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -120,7 +132,7 @@ Para el desarrollo de la entrega TF1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TF](assets/images/chapter-1/)
+![TF](assets/images/chapter-1/tf1.png)
 
 ---  
 # Student Outcome
@@ -307,11 +319,11 @@ Ser la plataforma líder en innovación agrícola con IoT, reconocida por conect
 
 | Información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Foto                                                               |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
-| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                       | ![Ricardo Barrutia](/assets/images/participantes/img-ricardo.png)  |
-| **Jean Franco Joel Barrionuevo Reto**<br><br>Código: U202219284<br><br>Conocimientos y Habilidades: Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos. <br><br>                                                                                                                                                                                                                                                                                                                                                                                | ![Franco Barrionuevo](/assets/images/participantes/img-franco.png) |
-| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 21 años y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática, con habilidades destacadas en el trabajo en equipo y la convivencia con otras personas. He participado en el programa Coder Bloom, 28h y más. Y actualmente soy coordinadora de ACM Women UPC. | ![Fabiola Espinoza](/assets/images/participantes/img-fabiola.png)  |
-| **Harold Jaime Mayta Lopez**<br><br>Código: U202114851<br><br>Conocimientos y Habilidades: <br><br> Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.                                                                                                                                                                                                                                                                                                                                                                                    | ![Harold Mayta](/assets/images/participantes/img-harold.png)       |
-| **David Bryan Rodriguez Santos**<br><br>Código: U202212236<br><br>Conocimientos y Habilidades: <br><br>Soy estudiante de cuarto ciclo de Ingeniería de Software con dominio en Java y Python. Apasionado por la programación y los videojuegos, me destaco por ser entusiasta y responsable, buscando constantemente oportunidades para crecer en el ámbito tecnológico                                                                                                                           | ![David Rodriguez ](/assets/images/participantes/img-david.png)    |
+| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                       | ![Ricardo Barrutia](./assets/images/participantes/img-ricardo.png)  |
+| **Jean Franco Joel Barrionuevo Reto**<br><br>Código: U202219284<br><br>Conocimientos y Habilidades: Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos. <br><br>                                                                                                                                                                                                                                                                                                                                                                                | ![Franco Barrionuevo](./assets/images/participantes/img-franco.png) |
+| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 21 años y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática, con habilidades destacadas en el trabajo en equipo y la convivencia con otras personas. He participado en el programa Coder Bloom, 28h y más. Y actualmente soy coordinadora de ACM Women UPC. | ![Fabiola Espinoza](./assets/images/participantes/img-fabiola.png)  |
+| **Harold Jaime Mayta Lopez**<br><br>Código: U202114851<br><br>Conocimientos y Habilidades: <br><br> Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.                                                                                                                                                                                                                                                                                                                                                                                    | ![Harold Mayta](./assets/images/participantes/img-harold.png)       |
+| **David Bryan Rodriguez Santos**<br><br>Código: U202212236<br><br>Conocimientos y Habilidades: <br><br>Soy estudiante de cuarto ciclo de Ingeniería de Software con dominio en Java y Python. Apasionado por la programación y los videojuegos, me destaco por ser entusiasta y responsable, buscando constantemente oportunidades para crecer en el ámbito tecnológico                                                                                                                           | ![David Rodriguez ](./assets/images/participantes/img-david.png)    |
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -3218,7 +3230,6 @@ Link de repositorio: https://github.com/CourseIoT/agrocontrol-edge-service
 **Entorno IoT**
 
 ![Image](./assets/images/chapter-6/sprint-3/iot-1.png)
-![Image](./assets/images/chapter-6/sprint-3/iot-2.png)
 
 <!-- #### 6.2.3.4. Testing Suite Evidence for Sprint Review -->
 #### 6.2.3.4. Execution Evidence for Sprint Review
