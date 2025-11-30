@@ -3856,7 +3856,10 @@ Se aplicó DDD , lo que reduce acoplamiento y facilita la evolución e implement
 
 
 ### Video About-the-Team
-  
+
+Nuestro video: [About-The-Team](https://youtu.be/B6zZ2T5RWp0)
+
+![Image](./assets/images/chapter-6/image.png)
 ---  
 
 # Bibliografía
