@@ -245,6 +245,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
     * [5.4.3. Applications Mock-ups.](#543-applications-mock-ups)
     * [5.4.4. Applications User Flow Diagrams.](#544-applications-user-flow-diagrams)
   * [5.5. Applications Prototyping.](#55-applications-prototyping)
+* [Capítulo VI: Product Implementation, Validation & Deployment](#capítulo-vi-Product-Implementation-Validation-&-Deployment)
   * [6.1. Software Configuration Management](#61-software-configuration-management)
     * [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
     * [6.1.2. Source Code Management](#612-source-code-management)
@@ -2809,6 +2810,8 @@ Aplicación móvil
 
 Link: https://www.figma.com/proto/oR7tRrIgbO4fZJ2uEbMVIn/AgroControl-Application---MockUp--DevDynasty?node-id=2251-5810&p=f&t=fOWQowDfKtl5y64A-1&scaling=min-zoom&content-scaling=fixed&page-id=2251%3A5430&starting-point-node-id=2251%3A5871&show-proto-sidebar=1 
 
+
+# Capítulo VI: Product Implementation, Validation & Deployment
 ## 6.1. Software Configuration Management
 En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
 ### 6.1.1. Software Development Environment Configuration
@@ -3145,16 +3148,16 @@ Link: https://wokwi.com/projects/447480596312740865
 
 ### 6.2.3. Sprint 3
 
-![Image](./assets/images/chapter-6/sprint-)
+![Image](./assets/images/chapter-6/sprint-3/sprint-3-ev.png)
 
 
 #### 6.2.3.1. Sprint Planning 3
 
-| **Sprint #**                    | Sprint 3                                                                 |
+| **Sprint #**                    | Sprint 3                                                                  |
 |---------------------------------|---------------------------------------------------------------------------|
 | **Sprint Planning Date**        | 27/11/2025                                                                |
-| **Time**                        | 20:00 HRS                                                                  |
-| **Location**                    | Salon de clases B-606                                                               |
+| **Time**                        | 20:00 HRS                                                                 |
+| **Location**                    | Salon de clases B-606                                                     |
 | **Prepared By**                 | Harold Mayta                                                              |
 | **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
 | **Sprint Review Summary**       |  |
@@ -3167,7 +3170,17 @@ Link: https://wokwi.com/projects/447480596312740865
 
 | **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
 |----------------|--------------------|-----------------|------------------------|------------------|------------|
-|||||||
+| E7-TS101 (Lectura humedad) | TW-E7-TS101-01 Montaje Sensor Humedad | Conexión física del sensor de humedad al microcontrolador. | 3h | Fabiola | Done |
+| E7-TS101 (Lectura humedad) | TW-E7-TS101-02 Firmware Driver Humedad | Escribir código en el microcontrolador para leer valores analógicos y calibrar. | 4h | Fabiola | Done |
+| E3-US109 (Consumo agua) | TW-E3-US109-01 Montaje Mini Bomba | Instalación y cableado de minmi bomba de agua. | 3h | Ricardo | Done |
+| E3-US109 (Consumo agua) | TW-E3-US109-02 Lógica Control Bomba | Programar la logica para la funcionamiento de mini bomba de agua.| 5h | Ricardo | Done |
+| E8-TS130 (API Humedad) | TW-E8-TS130-01 Dev Endpoint Humedad |  Crear servidor local que exponga los valores de humendad | 4h | Harold | Done |
+| E8-TS131 (API Temperatura) | TW-E8-TS131-01 Montaje Sensor Temp | Conectar sensor de temperatura e integrar logica de lectura en el código Edge. | 3h |Harold | Done |
+| E8-TS131 (API Temperatura) | TW-E8-TS131-02 Dev Endpoint Temp | Crear servidor local que exponga los valores de temperatura | 3h | David | Done |
+| E7-TS104 (Automatización) | TW-E7-TS104-01 Integración Relé/Actuador | Conexión física de la mini bomba de agua al microcontrolador y prueba de encendido/apagado lógico. | 4h | Franco | Done |
+| E3-US108 (Consulta lecturas) | TW-E3-US108-01 Sincronización Cloud | Desarrollar logica que envíe los datos del Edge a la Base de Datos central. | 5h | David | Done |
+| E3-US108 (Consulta lecturas) | TW-E3-US108-02 UI Lecturas Mobile | Consumir los datos para mostrarlos en la UI.| 4h | Franco | Done |
+
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
@@ -3185,9 +3198,14 @@ Link: https://wokwi.com/projects/447480596312740865
 
 ![Image](./assets/images/chapter-6/sprint-2/app1.jpg)
 
-**Wokwi**
+**Entorno IoT**
 
-![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
+![Image](./assets/images/chapter-6/sprint-3/sp32.jpg)
+
+**Capa Edge**
+
+![Image](./assets/images/chapter-6/sprint-3/edge-service.jpg)
+![Image](./assets/images/chapter-6/sprint-3/consola.jpg)
 
 <!-- #### 6.2.3.4. Testing Suite Evidence for Sprint Review -->
 #### 6.2.3.5. Execution Evidence for Sprint Review
@@ -3237,9 +3255,16 @@ Link:
 
 ![Image]() -->
 
-**Wokwi**
+**Entorno IoT**
 <br>
-Link: https://wokwi.com/projects/447480596312740865
+
+![Image](./assets/images/chapter-6/sprint-3/sp32.jpg)
+
+
+**Capa Edge**
+<br>
+
+![Image](./assets/images/chapter-6/sprint-3/edge-service.jpg)
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -3263,12 +3288,6 @@ Link: https://agrocontrol-backend-1.onrender.com/swagger-ui/index.html#/
 
 ![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
 
-
-**Wokwi**
-<br>
-Link: https://wokwi.com/projects/447480596312740865
-
-![Image](https://github.com/user-attachments/assets/ca362c5f-a82e-4d2a-a536-d8a1438126a7)
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
