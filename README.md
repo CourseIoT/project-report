@@ -3160,55 +3160,68 @@ Link: https://wokwi.com/projects/447480596312740865
 | **Location**                    | Salon de clases B-606                                                     |
 | **Prepared By**                 | Harold Mayta                                                              |
 | **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza,  David Rodriguez , Jean Franco Barrionuevo |
-| **Sprint Review Summary**       |  |
-| **Sprint Retrospective Summary**| En el Sprint 2  |
-| **Sprint Goal**                 | |
-| **Sprint Velocity**             | |
-| **Sum of Story Points**         | |
+| **Sprint Review Summary**       | Se actualizaron los respositorios correspondientes para el Landing Page, Front-end y Back-end, así mismo se trabaja en la version de capa edge. |
+| **Sprint Retrospective Summary**| En el Sprint 2 no se nos planteo retroalimentación sobre los artefactos pero si sobre como plantear el Sprint Backlog |
+| **Sprint Goal**                 | Integración End-to-End IoT: Lograr la lectura física de sensores e integración de la capa Edge, exponiendo los datos vía API local para su visualización correspondiente. |
+| **Sprint Velocity**             | 18 SP |
+| **Sum of Story Points**         | 18 SP |
 
 #### 6.2.3.2. Sprint Backlog 3
 
 | **User Story** | **Work-item/Task** | **Description** | **Estimation (Hours)** | **Assigned To**  | **Status** |
 |----------------|--------------------|-----------------|------------------------|------------------|------------|
-| E7-TS101 (Lectura humedad) | TW-E7-TS101-01 Montaje Sensor Humedad | Conexión física del sensor de humedad al microcontrolador. | 3h | Fabiola | Done |
-| E7-TS101 (Lectura humedad) | TW-E7-TS101-02 Firmware Driver Humedad | Escribir código en el microcontrolador para leer valores analógicos y calibrar. | 4h | Fabiola | Done |
-| E3-US109 (Consumo agua) | TW-E3-US109-01 Montaje Mini Bomba | Instalación y cableado de minmi bomba de agua. | 3h | Ricardo | Done |
-| E3-US109 (Consumo agua) | TW-E3-US109-02 Lógica Control Bomba | Programar la logica para la funcionamiento de mini bomba de agua.| 5h | Ricardo | Done |
-| E8-TS130 (API Humedad) | TW-E8-TS130-01 Dev Endpoint Humedad |  Crear servidor local que exponga los valores de humendad | 4h | Harold | Done |
-| E8-TS131 (API Temperatura) | TW-E8-TS131-01 Montaje Sensor Temp | Conectar sensor de temperatura e integrar logica de lectura en el código Edge. | 3h |Harold | Done |
-| E8-TS131 (API Temperatura) | TW-E8-TS131-02 Dev Endpoint Temp | Crear servidor local que exponga los valores de temperatura | 3h | David | Done |
-| E7-TS104 (Automatización) | TW-E7-TS104-01 Integración Relé/Actuador | Conexión física de la mini bomba de agua al microcontrolador y prueba de encendido/apagado lógico. | 4h | Franco | Done |
-| E3-US108 (Consulta lecturas) | TW-E3-US108-01 Sincronización Cloud | Desarrollar logica que envíe los datos del Edge a la Base de Datos central. | 5h | David | Done |
-| E3-US108 (Consulta lecturas) | TW-E3-US108-02 UI Lecturas Mobile | Consumir los datos para mostrarlos en la UI.| 4h | Franco | Done |
+| E7-TS101 (Lectura humedad) | TW-E7-TS101-01 Montaje Sensor Humedad | Conexión física del sensor de humedad al microcontrolador. | 3 | Fabiola | Done |
+| E7-TS101 (Lectura humedad) | TW-E7-TS101-02 Firmware Driver Humedad | Escribir código en el microcontrolador para leer valores analógicos y calibrar. | 4 | Fabiola | Done |
+| E3-US109 (Consumo agua) | TW-E3-US109-01 Montaje Mini Bomba | Instalación y cableado de minmi bomba de agua. | 3 | Ricardo | Done |
+| E3-US109 (Consumo agua) | TW-E3-US109-02 Lógica Control Bomba | Programar la logica para la funcionamiento de mini bomba de agua.| 5 | Ricardo | Done |
+| E8-TS130 (API Humedad) | TW-E8-TS130-01 Dev Endpoint Humedad |  Crear servidor local que exponga los valores de humendad | 4 | Harold | Done |
+| E8-TS131 (API Temperatura) | TW-E8-TS131-01 Montaje Sensor Temp | Conectar sensor de temperatura e integrar logica de lectura en el código Edge. | 3 |Harold | Done |
+| E8-TS131 (API Temperatura) | TW-E8-TS131-02 Dev Endpoint Temp | Crear servidor local que exponga los valores de temperatura | 3 | David | Done |
+| E7-TS104 (Automatización) | TW-E7-TS104-01 Integración Relé/Actuador | Conexión física de la mini bomba de agua al microcontrolador y prueba de encendido/apagado lógico. | 4 | Franco | Done |
+| E3-US108 (Consulta lecturas) | TW-E3-US108-01 Sincronización Cloud | Desarrollar logica que envíe los datos del Edge a la Base de Datos central. | 5 | David | Done |
+| E3-US108 (Consulta lecturas) | TW-E3-US108-02 UI Lecturas Mobile | Consumir los datos para mostrarlos en la UI.| 4 | Franco | Done |
 
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
 **Back-end**
 
+Link de repositorio: https://github.com/CourseIoT/AgroControl-Backend
+
 ![Image](./assets/images/chapter-6/sprint-2/backend1.jpg)
 
 
 **Front-end**
+
+Link de repositorio: https://github.com/CourseIoT/AgroControl-FrontEnd
 
 ![Image](./assets/images/chapter-6/sprint-2/frontend1.jpg)
 
 
 **App**
 
+Link de repositorio: https://github.com/CourseIoT/agrocontrol_app 
+
 ![Image](./assets/images/chapter-6/sprint-2/app1.jpg)
 
-**Entorno IoT**
-
-![Image](./assets/images/chapter-6/sprint-3/sp32.jpg)
 
 **Capa Edge**
+
+Link de repositorio: https://github.com/CourseIoT/agrocontrol-edge-service
 
 ![Image](./assets/images/chapter-6/sprint-3/edge-service.jpg)
 ![Image](./assets/images/chapter-6/sprint-3/consola.jpg)
 
+**Codigo para entorno IoT**
+![Image](./assets/images/chapter-6/sprint-3/sp32.jpg)
+
+**Entorno IoT**
+
+![Image](./assets/images/chapter-6/sprint-3/iot-1.png)
+![Image](./assets/images/chapter-6/sprint-3/iot-2.png)
+
 <!-- #### 6.2.3.4. Testing Suite Evidence for Sprint Review -->
-#### 6.2.3.5. Execution Evidence for Sprint Review
+#### 6.2.3.4. Execution Evidence for Sprint Review
 
 **Landing Page**
 
@@ -3229,7 +3242,12 @@ Link: https://wokwi.com/projects/447480596312740865
 
 ![Image](./assets/images/chapter-6/sprint-2/app2.jpg)
 
-#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+**IoT**
+![Image](./assets/images/chapter-6/sprint-3/sp32.jpg)
+
+![Image](./assets/images/chapter-6/sprint-3/iot-1.png)
+
+#### 6.2.3.5. Services Documentation Evidence for Sprint Review
 
 **Landing Page**
 <br>
@@ -3266,7 +3284,7 @@ Link:
 
 ![Image](./assets/images/chapter-6/sprint-3/edge-service.jpg)
 
-#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+#### 6.2.3.6. Software Deployment Evidence for Sprint Review
 
 **Landing Page**
 <br>
@@ -3289,11 +3307,12 @@ Link: https://agrocontrol-backend-1.onrender.com/swagger-ui/index.html#/
 ![Image](./assets/images/chapter-6/sprint-2/backend2.jpg)
 
 
-#### 6.2.3.8. Team Collaboration Insights during Sprint
+#### 6.2.3.7. Team Collaboration Insights during Sprint
 
-![Image](./assets/images/chapter-6/sprint-2/commit-app.png)
-![Image](./assets/images/chapter-6/sprint-2/commit-back.png)
-![Image](./assets/images/chapter-6/sprint-2/commit-front.png)
+![Image](./assets/images/chapter-6/sprint-3/sprint3-ev1.png)
+![Image](./assets/images/chapter-6/sprint-3/sprint3-ev2.png)
+![Image](./assets/images/chapter-6/sprint-3/sprint3-v3.png)
+![image](./assets/images/chapter-6/sprint-3/ev-sprint-3.png)
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
