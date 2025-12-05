@@ -30,7 +30,7 @@ Producto: AgroControl
 | U202114851  | Mayta Lopez, Harold Jaime          |
 | U202212236  | Rodriguez Santos, David Bryan      |
 
-**Noviembre del 2025**
+**Diciembre del 2025**
 
 </div>
 
